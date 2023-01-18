@@ -17,3 +17,9 @@ Another option - https://github.com/peterjc/mediawiki_to_git_md
 Which is a python solution, that I tried to have a quick go at - https://github.com/stardot/retrosoftware.co.uk/tree/master/python-converter
 
 The results are workable, but a lot of html/edge cases need weeding out - see the sample output here: https://github.com/stardot/retrosoftware.co.uk/tree/master/python-converter/wiki
+
+## Github Pages hosting
+
+Supposing we just want to preserve the content, then maybe the best bet is to get a 'good enough' markdown conversion of each page from the original site before it went offline, and then we can hand tweak each file over time to make them render ok.
+
+Once that is done (or even while we do it), a simple Jekyll template in this repo would allow the site to be preserved and accessed as a website in its static 'archived' state.
