@@ -14,7 +14,7 @@ Tomcat is a vertically scrolling shoot 'em up in which the player takes control 
 
 Retro Software is therefore proud to reveal a brand new Atom port by the Dutch coder Kees van Oss. This new release is an astonishingly accurate version of the original title. The conversion was 'relative' easy because the resolution of the screen matches perfectly the Atom CLEAR4 resolution. Because it's a monochrome game, the graphics are exactly the same as the original Electron game. In the original game there were not many sound effects but they are also included in the Atom version.
 
-![Acorn BBC/Electron cassette tape cover](./images/F14-Tomcat.png "Acorn BBC/Electron cassette tape cover")
+![Acorn BBC/Electron cassette tape cover](../../retrosoftwarecouk_wiki-20160918-wikidump/images/F14-Tomcat.png "Acorn BBC/Electron cassette tape cover")
 
 ### Platforms
 
@@ -82,9 +82,9 @@ An optional joystick can be connected to PORTB of the AtoMMC interface with soft
 
 ##### Downloads
 
-[F14 Tomcat AtoMMC images](./images/F14Tomcat.zip "wikilink")
+[F14 Tomcat AtoMMC images](../../retrosoftwarecouk_wiki-20160918-wikidump/images/F14Tomcat.zip "wikilink")
 
-[F14 Tomcat AtoMMC images with SID music](./images/F14Tomcat-SID.zip "wikilink")
+[F14 Tomcat AtoMMC images with SID music](../../retrosoftwarecouk_wiki-20160918-wikidump/images/F14Tomcat-SID.zip "wikilink")
 
 This image archive includes tape, disc and AtoMMC versions of the game. Read the included Readme.txt file for more info.
 

@@ -66,7 +66,7 @@ An optional joystick can be connected to PORTB of the AtoMMC interface with soft
 
 ##### Downloads
 
-[Repton Acorn Atom disc/tape images](./images/repton.zip "wikilink")
+[Repton Acorn Atom disc/tape images](../../retrosoftwarecouk_wiki-20160918-wikidump/images/repton.zip "wikilink")
 
 This image archive includes both tape and disc versions of the game. Read the included Readme.txt file for more info.
 
@@ -122,19 +122,19 @@ An assembler listing is created in the REPTON.LST file.
 
 <tr class="odd">
 
-<td><p>![](./images/AtomicReptonKeys.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonKeys.png)
 
 <strong><em>Atom Repton</em> keys screen</strong><br />
 
 <em>Posted: 14:05, 06 Aug 2013</em></p></td>
 
-<td><p>![](./images/AtomicReptonLoading.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonLoading.png)
 
 <strong><em>Atom Repton</em> loading screen</strong><br />
 
 <em>Posted: 14:09, 06 Aug 2013</em></p></td>
 
-<td><p>![](./images/AtomicReptonTitle.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonTitle.png)
 
 <strong><em>Atom Repton</em> title screen</strong><br />
 
@@ -144,19 +144,19 @@ An assembler listing is created in the REPTON.LST file.
 
 <tr class="even">
 
-<td><p>![](./images/AtomicReptonInGame1.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonInGame1.png)
 
 <strong><em>Atom Repton</em> in-game #1</strong><br />
 
 <em>Posted: 14:10, 06 Aug 2013</em></p></td>
 
-<td><p>![](./images/AtomicReptonInGame2.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonInGame2.png)
 
 <strong><em>Atom Repton</em> in-game #2</strong><br />
 
 <em>Posted: 21:57, 06 Aug 2013</em></p></td>
 
-<td><p>![](./images/AtomicReptonInGame3.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonInGame3.png)
 
 <strong><em>Atom Repton</em> in-game #3</strong><br />
 
@@ -166,19 +166,19 @@ An assembler listing is created in the REPTON.LST file.
 
 <tr class="odd">
 
-<td><p>![](./images/AtomicReptonInGame4.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonInGame4.png)
 
 <strong><em>Atom Repton</em> in-game #4</strong><br />
 
 <em>Posted: 21:58, 06 Aug 2013</em></p></td>
 
-<td><p>![](./images/AtomicReptonInGame5.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonInGame5.png)
 
 <strong><em>Atom Repton</em> in-game #5</strong><br />
 
 <em>Posted: 21:58, 06 Aug 2013</em></p></td>
 
-<td><p>![](./images/AtomicReptonInGame6.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonInGame6.png)
 
 <strong><em>Atom Repton</em> in-game #6</strong><br />
 
@@ -188,19 +188,19 @@ An assembler listing is created in the REPTON.LST file.
 
 <tr class="even">
 
-<td><p>![](./images/AtomicReptonInGame7.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonInGame7.png)
 
 <strong><em>Atom Repton</em> in-game #7</strong><br />
 
 <em>Posted: 21:58, 06 Aug 2013</em></p></td>
 
-<td><p>![](./images/AtomicReptonInGame8.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonInGame8.png)
 
 <strong><em>Atom Repton</em> in-game #8</strong><br />
 
 <em>Posted: 21:59, 06 Aug 2013</em></p></td>
 
-<td><p>![](./images/AtomicReptonInGame9.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonInGame9.png)
 
 <strong><em>Atom Repton</em> in-game #9</strong><br />
 
@@ -210,7 +210,7 @@ An assembler listing is created in the REPTON.LST file.
 
 <tr class="odd">
 
-<td><p>![](./images/AtomicReptonInGame10.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomicReptonInGame10.png)
 
 <strong><em>Atom Repton</em> in-game #10</strong><br />
 

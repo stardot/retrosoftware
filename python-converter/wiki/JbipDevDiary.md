@@ -1,6 +1,6 @@
 # JBiplane Development Diary
 
-![](./images/Jbipwipscreenshot180.png "Jbipwipscreenshot180.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jbipwipscreenshot180.png "Jbipwipscreenshot180.png")
 
 ## December 2013
 
@@ -14,7 +14,7 @@ I remember thinking “I’d like smooth animation”. My immediate decision at 
 
 |------------------------------------------------------------------|
 
-| ![](./images/EarlyattemptPlaneSprites.png "EarlyattemptPlaneSprites.png") |
+| ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/EarlyattemptPlaneSprites.png "EarlyattemptPlaneSprites.png") |
 
 | **Early sprite attempts in Mode 1.** |
 
@@ -32,7 +32,7 @@ I redrew all my sprites and changed from Mode 1 to Mode 5. This was reasonbly st
 
 |--------------------------------------------------------|
 
-| ![](./images/Planesprite.png "Planesprite.png") |
+| ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Planesprite.png "Planesprite.png") |
 
 | **Mode 5 sprites - 1 + 3 offsets for each direction.** |
 
@@ -40,7 +40,7 @@ The main inefficiency was needless XY ord calculations. In my previous game, I d
 
 ## Dim bulb
 
-![](./images/Dimbulbpic.png "Dimbulbpic.png ")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Dimbulbpic.png "Dimbulbpic.png ")
 
 Christmas 2013 was approaching. I scratched my head even more (I was probably wearing out a patch of hair on my head at this point!)
 

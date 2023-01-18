@@ -20,11 +20,11 @@ The target platform is to run the games with the new engine on an unexpanded BBC
 
 ##### Downloads
 
-_[Lone Survivor](./images/Lone Survivor.zip "wikilink") SAGA rework beta_ - 14 Feb 2011
+_[Lone Survivor](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Lone Survivor.zip "wikilink") SAGA rework beta_ - 14 Feb 2011
 
 .ssd containing the data file ($.LS) and the reworked engine ($.ENGINE), plus the raw .dat file if you want to play it with ScottFree.
 
-_[10 Little Indians, Perseus and Andromeda and Waxworks](./images/Saga.zip "wikilink") Master 128-only SAGA rework alpha_ - 08 Jun 2011
+_[10 Little Indians, Perseus and Andromeda and Waxworks](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Saga.zip "wikilink") Master 128-only SAGA rework alpha_ - 08 Jun 2011
 
 .ssd containing the game data file (G.FILE) and the line drawn graphics (L.FILE). Warning: here be bugs! To run a game, do:
 
@@ -50,7 +50,7 @@ A [Development Diary](SAGADiary "wikilink") recording the details of the game's 
 
 <tr class="odd">
 
-<td><p>![](./images/sagagraphics.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/sagagraphics.png)
 
 <strong>SAGA Adventure Engine Graphical Rework screenshot</strong><br />
 

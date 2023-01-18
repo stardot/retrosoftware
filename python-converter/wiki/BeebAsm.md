@@ -24,35 +24,35 @@ Choose the tagged release and then click the Zip link to download an archive man
 
 Previous wiki versions are available here, should you wish to try them for some reason:
 
-[`BeebASM-v1.04.zip`](./images/BeebASM-v1.04.zip "wikilink") `  Dec` `02` `2009` `21:24:57` `  265462` `bytes`
+[`BeebASM-v1.04.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v1.04.zip "wikilink") `  Dec` `02` `2009` `21:24:57` `  265462` `bytes`
 
-[`BeebASM-v1.03.zip`](./images/BeebASM-v1.03.zip "wikilink") `  Jul` `27` `2009` `21:35:01` `  246534` `bytes`
+[`BeebASM-v1.03.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v1.03.zip "wikilink") `  Jul` `27` `2009` `21:35:01` `  246534` `bytes`
 
-[`BeebASM-v1.02.zip`](./images/BeebASM-v1.02.zip "wikilink") `  Nov` `06` `2008` `11:06:45` `  258048` `bytes`
+[`BeebASM-v1.02.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v1.02.zip "wikilink") `  Nov` `06` `2008` `11:06:45` `  258048` `bytes`
 
-[`BeebASM-v1.01.zip`](./images/BeebASM-v1.01.zip "wikilink") `  Apr` `14` `2008` `14:21:36` `  225920` `bytes`
+[`BeebASM-v1.01.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v1.01.zip "wikilink") `  Apr` `14` `2008` `14:21:36` `  225920` `bytes`
 
-[`BeebASM-v1.00.zip`](./images/BeebASM-v1.00.zip "wikilink") `  Mar` `30` `2008` `13:02:19` `  217612` `bytes`
+[`BeebASM-v1.00.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v1.00.zip "wikilink") `  Mar` `30` `2008` `13:02:19` `  217612` `bytes`
 
-[`BeebASM-v0.06.zip`](./images/BeebASM-v0.06.zip "wikilink") `  Jan` `22` `2008` `19:21:21` `  231418` `bytes`
+[`BeebASM-v0.06.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v0.06.zip "wikilink") `  Jan` `22` `2008` `19:21:21` `  231418` `bytes`
 
-[`BeebASM-v0.05.zip`](./images/BeebASM-v0.05.zip "wikilink") `  Jan` `10` `2008` `10:55:42` `  231063` `bytes`
+[`BeebASM-v0.05.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v0.05.zip "wikilink") `  Jan` `10` `2008` `10:55:42` `  231063` `bytes`
 
-[`BeebASM-v0.04.zip`](./images/BeebASM-v0.04.zip "wikilink") `  Jan` `07` `2008` `09:14:08` `  220084` `bytes`
+[`BeebASM-v0.04.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v0.04.zip "wikilink") `  Jan` `07` `2008` `09:14:08` `  220084` `bytes`
 
-[`BeebASM-v0.02.zip`](./images/BeebASM-v0.02.zip "wikilink") `  Dec` `20` `2007` `13:41:35` `  218016` `bytes`
+[`BeebASM-v0.02.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v0.02.zip "wikilink") `  Dec` `20` `2007` `13:41:35` `  218016` `bytes`
 
-[`BeebASM-v0.01.zip`](./images/BeebASM-v0.01.zip "wikilink") `  Dec` `20` `2007` `13:50:25` `  210048` `bytes`
+[`BeebASM-v0.01.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v0.01.zip "wikilink") `  Dec` `20` `2007` `13:50:25` `  210048` `bytes`
 
 ##### Programming Editor BeebAsm Language Syntax Files
 
 Use the files below to add syntax highlighting for BeebAsm and BBC BASIC files to popular Windows editor [Notepad++](http://notepad-plus-plus.org/) or shareware editor [TextPad](http://www.textpad.com/) (BeebAsm only).
 
-TextPad [BeebAsm syntax definition file](./images/TextPad BeebAsm Syn.zip "wikilink") by Rich Talbot-Watkins
+TextPad [BeebAsm syntax definition file](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TextPad BeebAsm Syn.zip "wikilink") by Rich Talbot-Watkins
 
-Notepad++ [BeebAsm UDL File](./images/BeebAsm.zip "wikilink") by Rich Talbot-Watkins with contributions by David Lodge
+Notepad++ [BeebAsm UDL File](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebAsm.zip "wikilink") by Rich Talbot-Watkins with contributions by David Lodge
 
-Notepad++ [BBC BASIC UDL File](./images/BBC Basic.zip "wikilink") contributed by Stephen Coombes
+Notepad++ [BBC BASIC UDL File](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BBC Basic.zip "wikilink") contributed by Stephen Coombes
 
 For the Notepad++ UDL files, download and unzip them, then open the User Defined Language panel in Notepad++ and click Import... Choose the appropriate downloaded XML file to import them to your installation.
 
@@ -60,7 +60,7 @@ For the Notepad++ UDL files, download and unzip them, then open the User Defined
 
 **v1.04** Download the BeebAsm 1.04 release zip archive above and extract it. Download and unzip this patch to the same directory:
 
-[`Beebasm-linuxsupport-1.04.patch.zip`](./images/Beebasm-linuxsupport-1.04.patch.zip "wikilink") `  Feb` `23` `2011` `01:04` `  1275` `bytes`
+[`Beebasm-linuxsupport-1.04.patch.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebasm-linuxsupport-1.04.patch.zip "wikilink") `  Feb` `23` `2011` `01:04` `  1275` `bytes`
 
 In a console, change to that working directory and apply the patch with:
 
@@ -82,13 +82,13 @@ Mac OS X version of BeebAsm 1.08 can be downloaded [here](http://www.bogus.net/~
 
 The latest version of BeebAsm (1.02) for RISC OS is available here:
 
-[`BeebASM-v1.02-RISCOS.zip`](./images/BeebASM-v1.02-RISCOS.zip "wikilink") `  Dec` `15` `2008` `20:17:23` `  530530` `bytes`
+[`BeebASM-v1.02-RISCOS.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v1.02-RISCOS.zip "wikilink") `  Dec` `15` `2008` `20:17:23` `  530530` `bytes`
 
 Previous versions are available here, should you wish to try them for some reason:
 
-[`BeebASM-v1.01-RISCOS.zip`](./images/BeebASM-v1.01-RISCOS.zip "wikilink") `  Apr` `15` `2008` `20:33:46` `  514750` `bytes`
+[`BeebASM-v1.01-RISCOS.zip`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebASM-v1.01-RISCOS.zip "wikilink") `  Apr` `15` `2008` `20:33:46` `  514750` `bytes`
 
-![](./images/Beebasm.png "Beebasm.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebasm.png "Beebasm.png")
 
 ## About BeebAsm
 
@@ -990,7 +990,7 @@ For tidiness, you could move the source code for each block of code into a diffe
 
 </tt>
 
-![](./images/Beebasm demoscreen.png "Beebasm_demoscreen.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebasm demoscreen.png "Beebasm_demoscreen.png")
 
 ## Demo
 

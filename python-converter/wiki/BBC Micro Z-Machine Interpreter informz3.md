@@ -1,4 +1,4 @@
-![](./images/informv3idelogo.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/informv3idelogo.png)
 
 =   by Jon Welch =
 

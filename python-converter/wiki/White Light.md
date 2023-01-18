@@ -78,9 +78,9 @@ _White Light_ is an unofficial sequel to _[FireTrack](http://en.wikipedia.org/wi
 
 ### Sample Video
 
-[`White` `Light` `AVI` `Video`](./images/White Light preview 2.zip "wikilink")` (190 KB zipped, expands to 2.0 MB) (19 June 2009)`
+[`White` `Light` `AVI` `Video`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/White Light preview 2.zip "wikilink")` (190 KB zipped, expands to 2.0 MB) (19 June 2009)`
 
-[`White` `Light` `AVI` `Video`](./images/White Light preview.zip "wikilink")` (261 KB zipped, expands to 3.2 MB) (28 April 2009)`
+[`White` `Light` `AVI` `Video`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/White Light preview.zip "wikilink")` (261 KB zipped, expands to 3.2 MB) (28 April 2009)`
 
 [`White` `Light` `Wakefield` `2016` `demo`](http://www.youtube.com/watch?v=rUPjLI-KeOg)` (17th April 2016)`
 
@@ -90,7 +90,7 @@ _White Light_ is an unofficial sequel to _[FireTrack](http://en.wikipedia.org/wi
 
 Finally got John's levels crammed into the game. In addition to the RLE compression previously used for level data, I've added an LZ77-type scheme (where data earlier in the compressed stream can be referred to later via an offset/size pair) which saves a few hundred bytes. As well as that I've limited the number of tiles available to 56 (saving another 512 bytes), limited the number of sprites to 16, and packed the enemy wave definitions in with some of the tiles. I did also have to remove the sound engine. However, the levels now fit and are playable, and look great!
 
-![](./images/Wl2016 20160716 1.png "fig:Wl2016 20160716 1.png") ![](Wl2016 20160716 2.png "fig:Wl2016_20160716_2.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Wl2016 20160716 1.png "fig:Wl2016 20160716 1.png") ![](Wl2016 20160716 2.png "fig:Wl2016_20160716_2.png")
 
 #### 10th July 2016
 
@@ -124,7 +124,7 @@ Had a play with defining enemy waves, now that the editor supports it. I've conf
 
 Level editor now supports enemy positioning. Seems to work, though my UI design leaves something to be desired. I think if I try this sort of project again I will write the editor in something other than plain C.
 
-![](./images/wl2016 editor.png "wl2016_editor.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/wl2016 editor.png "wl2016_editor.png")
 
 #### 2nd April 2016
 

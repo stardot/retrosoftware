@@ -4,7 +4,7 @@
 
 |----------------------------------------------------------|
 
-| ![](./images/Jungle-Journey-Cover.png "Jungle-Journey-Cover.png") |
+| ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jungle-Journey-Cover.png "Jungle-Journey-Cover.png") |
 
 ### Licence
 
@@ -66,7 +66,7 @@ A [Development Diary](JungleJourneyBBCMicroElectronDiary "wikilink") recording t
 
 ##### Downloads
 
-The release version of the game is now available: [JungleJourney-1.1.5.zip](./images/JungleJourney-1.1.5.zip "wikilink"). This includes tape, DFS, ADFS and ROM cartridge versions of the game. Note that the tape, DFS and ADFS versions are unchanged from version 1.1.4 of the game.
+The release version of the game is now available: [JungleJourney-1.1.5.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JungleJourney-1.1.5.zip "wikilink"). This includes tape, DFS, ADFS and ROM cartridge versions of the game. Note that the tape, DFS and ADFS versions are unchanged from version 1.1.4 of the game.
 
 The latest source code for _Jungle Journey_ is available from the RS Mercurial repository. You can download it with a Mercurial client from the read-only repository:
 
@@ -84,13 +84,13 @@ The code is built using a Python script. You will need the [Ophis assembler](htt
 
 <tr class="odd">
 
-<td><p>![](./images/JungleJourneyScreenshot1.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JungleJourneyScreenshot1.png)
 
 <strong><em>Jungle Journey</em> WIP screenshot</strong><br />
 
 <em>Posted: 00:19, 30 Aug 2011</em></p></td>
 
-<td><p>![](./images/Boomerang.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Boomerang.png)
 
 <strong><em>Jungle Journey</em>: WIP screenshot - using the boomerang round a corner</strong><br />
 
@@ -116,7 +116,7 @@ _Jungle Journey_ was reviewed in [Electron User Group magazine \#74](http://www.
 
 It appeared [on the Retro Software stand](http://twitpic.com/913qi2) at the event celebrating the 30th anniversary of the BBC Micro.
 
-I produced a poster for a seminar at work about non-work things: ![](./images/Jungle-Journey-Poster.zip "fig:Jungle-Journey-Poster.zip") (archive contains a large PDF file).
+I produced a poster for a seminar at work about non-work things: ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jungle-Journey-Poster.zip "fig:Jungle-Journey-Poster.zip") (archive contains a large PDF file).
 
 #### Atom
 
@@ -146,7 +146,7 @@ The game is now fully converted with nice new Atom sprites/tiles and sound. In t
 
 ##### Downloads
 
-[`Jungle` `Journey` `Acorn` `Atom` `disc/tape` `images` `and` `CC65` `C` `compiler` `source` `code`](./images/Atom Jungle Journey.zip "wikilink")
+[`Jungle` `Journey` `Acorn` `Atom` `disc/tape` `images` `and` `CC65` `C` `compiler` `source` `code`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Atom Jungle Journey.zip "wikilink")
 
 This includes tape and disk versions of the game in colour.
 
@@ -164,19 +164,19 @@ Read the README.TXT file for more info.
 
 <tr class="odd">
 
-<td><p>![](./images/Intro.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Intro.PNG)
 
 <strong><em>Jungle Journey</em>: Intro screenshot</strong><br />
 
 <em>Posted: 14:14, 27 Sep 2012</em></p></td>
 
-<td><p>![](./images/Highscore.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Highscore.PNG)
 
 <strong><em>Jungle Journey</em>: Highscore table</strong><br />
 
 <em>Posted: 14:14, 27 Sept 2012</em></p></td>
 
-<td><p>![](./images/Ingame.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Ingame.PNG)
 
 <strong><em>Jungle Journey</em>: Ingame screenshot</strong><br />
 

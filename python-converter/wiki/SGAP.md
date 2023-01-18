@@ -52,13 +52,13 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 <tr class="odd">
 
-<td><p>![](./images/UrbanUpstart1.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/UrbanUpstart1.jpg)
 
 <strong>BBC Micro <em>Urban Upstart</em> early loading screen</strong><br />
 
 <em>Posted: 16:07, 31 Jul 2011</em></p></td>
 
-<td><p>![](./images/UrbanUpstartLoadingScreen.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/UrbanUpstartLoadingScreen.png)
 
 <strong>BBC Micro <em>Urban Upstart</em> loading screen</strong><br />
 
@@ -68,13 +68,13 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 <tr class="even">
 
-<td><p>![](./images/UrbanUpstart2.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/UrbanUpstart2.jpg)
 
 <strong>BBC Micro <em>Urban Upstart</em> screenshot #1</strong><br />
 
 <em>Posted: 18:35, 04 Oct 2011</em></p></td>
 
-<td><p>![](./images/UrbanUpstart3.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/UrbanUpstart3.jpg)
 
 <strong>BBC Micro <em>Urban Upstart</em> screenshot #2</strong><br />
 
@@ -96,9 +96,9 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 ##### Downloads
 
-[_Galaxias_ BBC micro port, release B27](./images/GalaxiasB27.zip "wikilink") - DFS disc version incl. database for The Quill
+[_Galaxias_ BBC micro port, release B27](../../retrosoftwarecouk_wiki-20160918-wikidump/images/GalaxiasB27.zip "wikilink") - DFS disc version incl. database for The Quill
 
-Created from: [_Galaxias_ textual data output](./images/GalaxiasUnPAWSOutput.zip "wikilink") from [UnPAWS](http://www.ifarchive.org/indexes/if-archiveXprogrammingXquill.html) tool used with the [original Spectrum _Galaxias_](http://www.worldofspectrum.org/infoseekid.cgi?id=0006344) database
+Created from: [_Galaxias_ textual data output](../../retrosoftwarecouk_wiki-20160918-wikidump/images/GalaxiasUnPAWSOutput.zip "wikilink") from [UnPAWS](http://www.ifarchive.org/indexes/if-archiveXprogrammingXquill.html) tool used with the [original Spectrum _Galaxias_](http://www.worldofspectrum.org/infoseekid.cgi?id=0006344) database
 
 ##### Port Details
 
@@ -118,13 +118,13 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 <tr class="odd">
 
-<td><p>![](./images/GalaxiasLoadingScreen.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/GalaxiasLoadingScreen.png)
 
 <strong>BBC Micro <em>Galaxias</em> Retro Software loading screen</strong><br />
 
 <em>Posted: 17:40, 18 Feb 2012</em></p></td>
 
-<td><p>![](./images/G1.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/G1.jpg)
 
 <strong>BBC Micro <em>Galaxias</em> loading screen</strong><br />
 
@@ -134,13 +134,13 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 <tr class="even">
 
-<td><p>![](./images/G2.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/G2.jpg)
 
 <strong>BBC Micro <em>Galaxias</em> instructions screen</strong><br />
 
 <em>Posted: 14:18, 30 Oct 2011</em></p></td>
 
-<td><p>![](./images/G3.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/G3.jpg)
 
 <strong>BBC Micro <em>Galaxias</em> screenshot #1</strong><br />
 
@@ -150,13 +150,13 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 <tr class="odd">
 
-<td><p>![](./images/G4.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/G4.jpg)
 
 <strong>BBC Micro <em>Galaxias</em> screenshot #2</strong><br />
 
 <em>Posted: 14:18, 30 Oct 2011</em></p></td>
 
-<td><p>![](./images/G5.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/G5.jpg)
 
 <strong>BBC Micro <em>Galaxias</em> screenshot #3</strong><br />
 
@@ -174,9 +174,9 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 ##### Downloads
 
-[_Project-X: The Micro Man_ BBC micro port, release B25](./images/ProjectXMicroManB25.zip "wikilink") - DFS disc version incl. database for The Quill
+[_Project-X: The Micro Man_ BBC micro port, release B25](../../retrosoftwarecouk_wiki-20160918-wikidump/images/ProjectXMicroManB25.zip "wikilink") - DFS disc version incl. database for The Quill
 
-Created from: [_Project-X: The Micro Man_ textual data output](./images/ProjectXMicroManUnPAWSOutput.zip "wikilink") from [UnPAWS](http://www.ifarchive.org/indexes/if-archiveXprogrammingXquill.html) tool used with the [original Spectrum _Project-X: The Micro Man_](http://www.worldofspectrum.org/infoseekid.cgi?id=0006828) database
+Created from: [_Project-X: The Micro Man_ textual data output](../../retrosoftwarecouk_wiki-20160918-wikidump/images/ProjectXMicroManUnPAWSOutput.zip "wikilink") from [UnPAWS](http://www.ifarchive.org/indexes/if-archiveXprogrammingXquill.html) tool used with the [original Spectrum _Project-X: The Micro Man_](http://www.worldofspectrum.org/infoseekid.cgi?id=0006828) database
 
 ##### Port Details
 
@@ -202,13 +202,13 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 <tr class="odd">
 
-<td><p>![](./images/ProjectXMicroManLoadingScreen.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/ProjectXMicroManLoadingScreen.png)
 
 <strong>BBC Micro <em>Project-X: The Micro Man</em> loading screen</strong><br />
 
 <em>Posted: 17:40, 18 Feb 2012</em></p></td>
 
-<td><p>![](./images/ProjectXMicroMan1.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/ProjectXMicroMan1.png)
 
 <strong>BBC Micro <em>Project-X: The Micro Man</em> instructions screen</strong><br />
 
@@ -218,7 +218,7 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 <tr class="even">
 
-<td><p>![](./images/ProjectXMicroMan2.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/ProjectXMicroMan2.png)
 
 <strong>BBC Micro <em>Project-X: The Micro Man</em> screenshot #1</strong><br />
 
@@ -238,7 +238,7 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 ##### Downloads
 
-[*Micro Man II: The O Zone* BBC micro port, release B22](./images/Ozone B22.zip "wikilink") - DFS disc version incl. database for The Quill
+[*Micro Man II: The O Zone* BBC micro port, release B22](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Ozone B22.zip "wikilink") - DFS disc version incl. database for The Quill
 
 ##### Scenario
 
@@ -266,13 +266,13 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 <tr class="odd">
 
-<td><p>![](./images/Ozone1.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Ozone1.png)
 
 <strong>BBC Micro <em>Micro Man II: The O Zone</em> RS loading screen</strong><br />
 
 <em>Posted: 17:40, 17:37, 24 Jun 2012</em></p></td>
 
-<td><p>![](./images/Ozone2.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Ozone2.png)
 
 <strong>BBC Micro <em>Micro Man II: The O Zone</em> instructions screen</strong><br />
 
@@ -282,7 +282,7 @@ A solution to the adventure is available [here](http://www.the-tipshop.co.uk/cgi
 
 <tr class="even">
 
-<td><p>![](./images/Ozone3.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Ozone3.png)
 
 <strong>BBC Micro <em>Micro Man II: The O Zone</em> screenshot #1</strong><br />
 
@@ -310,7 +310,7 @@ A solution to the adventure is available [here](http://www.solutionarchive.com/g
 
 ##### Screenshots
 
-![](./images/Subsunk1.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Subsunk1.png)
 
 **BBC Micro _Subsunk_ loading screen**
 

@@ -2,7 +2,7 @@
 
 With the game released and only minor additions to the diary, I thought I'd take a little time to review development of the game and write down my thoughts about it. It received some [positive reviews from the kind folks at stardot](http://stardot.org.uk/forums/viewtopic.php?f=1&t=8991) and I think it turned out to be a nice little game. While, in some ways, it is quite different to the game I first imagined, it captures something of the spirit of simple, old games that I would have liked to have played as a child.
 
-![Work on Castle Raider measured by commits to the Mercurial repository.](./images/Castle-Raider-activity.png "Work on Castle Raider measured by commits to the Mercurial repository.")
+![Work on Castle Raider measured by commits to the Mercurial repository.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Castle-Raider-activity.png "Work on Castle Raider measured by commits to the Mercurial repository.")
 
 The game took over three years to make, though work was not constant over that period. As the game progressed, features were added and removed, levels were designed and redesigned, and approaches to basic functions of the game were often reconsidered. Hopefully, I'll be able to say something about the things that worked, those that didn't work, and how development could have been done better. Rather than have a list of each, I'll pick one of each for each installment to keep the tone from getting too positive or negative.
 
@@ -20,7 +20,7 @@ The initial format used to store tile data was also too restrictive, as discusse
 
 Quite early on in the development process, I got tired of editing the levels in a text editor and decided to [write a nice graphical one](http://www.retrosoftware.co.uk/wiki/index.php/Castle_Raider/DevelopmentDiary#Construction_Kit_.282012-03-17.29). This coincided with a slow period in development of the game itself where I realised that I would have to implement collectable objects and start to think about enemies. The initial idea was to write something that I could use to create the levels, but I started to think that it might be nice to make certain aspects of the user interface flexible, with the thought that other people might possibly want to design levels later. Since I later decided on a game concept that precluded the idea of user-generated levels, this flexibility wasn't really required.
 
-![The editor helped with prototyping levels fairly quickly, but could be an effort to maintain.](./images/Editor1-half.png "fig:The editor helped with prototyping levels fairly quickly, but could be an effort to maintain.")
+![The editor helped with prototyping levels fairly quickly, but could be an effort to maintain.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Editor1-half.png "fig:The editor helped with prototyping levels fairly quickly, but could be an effort to maintain.")
 
 **The editor helped with prototyping levels fairly quickly, but could be an effort to maintain.**
 
@@ -30,7 +30,7 @@ Still, I added more features to the editor that helped with my own levels, such 
 
 Once the basic game was written and with some of the more daunting features, such as collectable items and monsters, basically implemented, it was easy to get distracted by relatively unimportant things, like the title screen. Later in development, again during a phase of uncertainty about the type of game being developed, I experimented with map features such as breakable tiles. Once features such as portals had been implemented, linking areas of the map together in a non-linear way, the existential crisis I had about the game largely disappeared and it became easier to focus on a simpler game concept with fewer superfluous features.
 
-![](./images/2013-09-28-breakable.png "2013-09-28-breakable.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2013-09-28-breakable.png "2013-09-28-breakable.png")
 
 The breakable tiles feature was removed due to space restrictions, but it became unnecessary when portals were introduced since the game no longer needed a way to partition areas of the game map into levels, or allow one-way access into special or secret areas. It was also a move back towards purity in the game's design as the feature required the game's map to be modified and reinitialised before each game, whereas the existing framework for map modifications only involved changing the visibility of special tiles in a collection of flags.
 
@@ -38,7 +38,7 @@ The breakable tiles feature was removed due to space restrictions, but it became
 
 These were a nightmare to deal with from the beginning. Since the scrolling is basically done in software, we can't expect monsters to be moved automatically when the player's character causes scrolling to occur. So, they have to be moved differently in the case where the player moves horizontally. Additionally, they need to be treated differently when they reach the edge of the screen, or when they leave the screen. Again, I didn't really consider these cases in the beginning, so the coordinate system was initially the same as the modified screen coordinates used for the player's character, but this had to be changed to represent a horizontal area wider than the screen to handle plotting of monsters at the edge of the screen. It was also necessary to consider when monsters should be created and destroyed. We create them when their starting positions become visible to the player and destroy them when they leave a wider area, so they are allow to roam without being forgotten.
 
-![](./images/CastleRaider-Monster.png "CastleRaider-Monster.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-Monster.png "CastleRaider-Monster.png")
 
 The game only allows four monsters to be tracked at once, so the levels needed to be designed accordingly. One glitch mentioned in the [stardot thread about the game's release](http://stardot.org.uk/forums/viewtopic.php?f=1&t=8991&p=102332#p100898) occurs in the basement level when the player traverses the level from right to left. It could be that four monsters are already being tracked when the spider near the leftmost portal should be introduced, or perhaps the routine to manage this still has a lurking bug - not impossible - but it doesn't appear when it should do. Perhaps the algorithm for creating and destroying monsters should have been smarter about discarding monsters that are no longer visible in order to prevent cases like this one from occurring.
 

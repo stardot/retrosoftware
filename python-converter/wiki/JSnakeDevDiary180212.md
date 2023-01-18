@@ -12,7 +12,7 @@ I learned that MODE 2 would likely be the easiest mode to use to move pixels aro
 
 Kees van Oss succintly describes MODE 2 and 5 pixels in his dev diary for Atom Galaforce. I've borrowed his diagram to illustrate:
 
-![](./images/Colours.PNG "Colours.PNG")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Colours.PNG "Colours.PNG")
 
 His full dev diary for Atom Galaforce can be found at: <http://www.retrosoftware.co.uk/wiki/index.php/GalaforceAtomDevDiary>
 
@@ -32,7 +32,7 @@ I then read about Beeb screen addressing with horror. Knowing that MODE 2 is a 2
 
 This is illustrated below, where I want to write 8 pixels to the screen. Each box represents 8x8 bytes in MODE2, where each byte stores 2 pixels. Note that screen addressing in MODE2 starts at &3000, top left, but I've start at 0 for clarity. See how in this case, to plot 8 pixels I'd have to write to addresses 26, 27, 60 and 61. Not nice.
 
-![](./images/Mode2 screen address layout 8pixels.png "Mode2_screen_address_layout_8pixels.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Mode2 screen address layout 8pixels.png "Mode2_screen_address_layout_8pixels.png")
 
 To make life easier, a handy routine could be written to return a screen address derived from X and Y coordinate input parameters (similar to the PLOT or DRAW BASIC instructions). Being such a newbie to 6502 I wasn't thrilled at the prospect of trying to work out such a routine at this stage. Fortunately, both assembler books I have referenced have such routines. Further, Steve O'Leary has written some liberally commented assembler routines that handle this issue and published it in the Sample Code section of this site: <http://www.retrosoftware.co.uk/wiki/index.php/Calculate_Screen_Address>
 
@@ -40,7 +40,7 @@ I chose to use Steve's code as it was more generic and easier to use than the ex
 
 Using Steve's Screen Address routine.. I was soon able to progress to these giddy heights:
 
-![](./images/Greenline.png "Greenline.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Greenline.png "Greenline.png")
 
 #### Moving the snake around the screen
 
@@ -355,8 +355,6 @@ At this point, I thought I'd better plan the rest of the routines I'd be needing
      <do a check to make sure food not colliding with anything before it is plotted>
 
     .HiScore *
-
-
 
 </tt>
 

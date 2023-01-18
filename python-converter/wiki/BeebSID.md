@@ -24,7 +24,7 @@ The hope is that one/some of the many capable hardware builders out there will v
 
 <div class="figure">
 
-![](./images/BeebSID complete.JPG)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebSID complete.JPG)
 
 <p class="caption">'''BeebSID complete <em>'<br />
 
@@ -38,7 +38,7 @@ The hope is that one/some of the many capable hardware builders out there will v
 
 <div class="figure">
 
-![](./images/BeebSID Iss 2 PCB Top.JPG)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebSID Iss 2 PCB Top.JPG)
 
 <p class="caption">'''BeebSID Issue 2 Printed Circuit Board Design Top <em>'<br />
 
@@ -154,7 +154,7 @@ I've put together a parts list for _BeebSID_ which follows below. I'll itemise e
 
 1.  **BeebSID Issue 2 Printed Circuit Board** - _Posted: Tue December 29, 2009 10:32_ !['''BeebSID Issue 2 Printed Circuit Board \*'
 
-    \*Posted: Tue December 29, 2009 10:32''](./images/BeebSID PCB.JPG "fig:'''BeebSID Issue 2 Printed Circuit Board ' Posted: Tue December 29, 2009 10:32''")
+    \*Posted: Tue December 29, 2009 10:32''](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebSID PCB.JPG "fig:'''BeebSID Issue 2 Printed Circuit Board ' Posted: Tue December 29, 2009 10:32''")
 
 2.  **IC1** : 74LS30
 
@@ -178,9 +178,9 @@ I've put together a parts list for _BeebSID_ which follows below. I'll itemise e
 
     - !['''BeebSID DC Connector Mount \*'
 
-      _Posted: Fri December 18, 2009 01:07''](./images/DC connector mount.JPG "fig:'''BeebSID DC Connector Mount ' Posted: Fri December 18, 2009 01:07''") This brings me to the DC power connector itself where I've subsequently discovered a layout error on my part which affects this connector, SK2, and also the Phono connector, SK1. I originally thought I'd just arbitrarily 'pad' these for flying leads to chassis (box) mounted connectors (which I still think is the better option) but I then decided that I might as well go the extra mile and use a pad layout to support PCB mount connectors. I duly imported some patterns from somewhere, tracked them in, did trial 'paper' fits and moved on. Now, I've subsequently realised that for both connector types I assumed the front and centre pin is +ve (or signal) and that the rear pad or pads are –ve (or ground). However, the reality is that they are both (of course) the opposite to my assumption and hence the pattern cannot be used as I intended. (A further shortfall of the patterns I imported is that they both employ circular pin holes when again in reality, these types of connector actually have 'tabs' which require slots in the PCB rather than holes.) Anyway, no panic, there is an easy work-round. !['''BeebSID RCA Connector Mount _'
+      _Posted: Fri December 18, 2009 01:07''](../../retrosoftwarecouk_wiki-20160918-wikidump/images/DC connector mount.JPG "fig:'''BeebSID DC Connector Mount ' Posted: Fri December 18, 2009 01:07''") This brings me to the DC power connector itself where I've subsequently discovered a layout error on my part which affects this connector, SK2, and also the Phono connector, SK1. I originally thought I'd just arbitrarily 'pad' these for flying leads to chassis (box) mounted connectors (which I still think is the better option) but I then decided that I might as well go the extra mile and use a pad layout to support PCB mount connectors. I duly imported some patterns from somewhere, tracked them in, did trial 'paper' fits and moved on. Now, I've subsequently realised that for both connector types I assumed the front and centre pin is +ve (or signal) and that the rear pad or pads are –ve (or ground). However, the reality is that they are both (of course) the opposite to my assumption and hence the pattern cannot be used as I intended. (A further shortfall of the patterns I imported is that they both employ circular pin holes when again in reality, these types of connector actually have 'tabs' which require slots in the PCB rather than holes.) Anyway, no panic, there is an easy work-round. !['''BeebSID RCA Connector Mount _'
 
-      \*Posted: Fri December 18, 2009 01:07''](./images/RCA connector mount.JPG "fig:'''BeebSID RCA Connector Mount ' Posted: Fri December 18, 2009 01:07''") If we are using PCB mount, we will actually solder the connectors vertically onto the PCB (sitting on their backs) by soldering the +ve (signal) tab directly to the front pad and use a short length of reasonably stiff component wire to both connect the –ve (or ground) tab to the rear PCB pad and to provide the necessary rigidity. I've done a trial fit of both types of connector to a junked PCB with similar pads as shown in the photos and happily this mounting is perfectly satisfactory.
+      \*Posted: Fri December 18, 2009 01:07''](../../retrosoftwarecouk_wiki-20160918-wikidump/images/RCA connector mount.JPG "fig:'''BeebSID RCA Connector Mount ' Posted: Fri December 18, 2009 01:07''") If we are using PCB mount, we will actually solder the connectors vertically onto the PCB (sitting on their backs) by soldering the +ve (signal) tab directly to the front pad and use a short length of reasonably stiff component wire to both connect the –ve (or ground) tab to the rear PCB pad and to provide the necessary rigidity. I've done a trial fit of both types of connector to a junked PCB with similar pads as shown in the photos and happily this mounting is perfectly satisfactory.
 
     - That all said, I still prefer the option of using chassis-mount connectors on flying leads soldered directly to the PCB for the DC & Phono sockets (the pad layout then being irrelevant) and for the LED as this will allow much simpler and neater installation of _BeebSID_ in a plastic box. Anyway, if you have any questions on this just ask.
 
@@ -228,9 +228,9 @@ I've put together a parts list for _BeebSID_ which follows below. I'll itemise e
 
 ### Tom Walker's Disks
 
-![](./images/Sid music1.jpg "fig:Sid_music1.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Sid music1.jpg "fig:Sid_music1.jpg")
 
-**[*BeebSID* Demo](./images/BeebSID demo.zip "wikilink")** _- Tom Walker's conversion of Visage by Link/Vibrants_
+**[*BeebSID* Demo](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebSID demo.zip "wikilink")** _- Tom Walker's conversion of Visage by Link/Vibrants_
 
 - for BBC Micro Model B and above, with _BeebSID_
 

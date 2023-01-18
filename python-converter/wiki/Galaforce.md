@@ -12,7 +12,7 @@ _Atomic Galaforce by Kees van Oss, 2012_
 
 The classic shoot-'em-up _[Galaforce](Galaforce "wikilink")_ was originally released on the BBC Micro and Electron in 1986 by Superior Software. Coded by legendary Acorn programmer Kevin Edwards, he has unearthed and generously shared the source code of the original BBC Micro version with RS and the first attempt to port the game is by our talented Atom coder Kees van Oss.
 
-![](./images/GALAFORCE BBC DISC.jpg)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/GALAFORCE BBC DISC.jpg)
 
 **_Galaforce_ BBC Micro disc cover scan, courtesy of [8bs.com](http://www.8bs.com/scans/games/disc/GALAFORCE_BBC_DISC.jpg)**
 
@@ -80,7 +80,7 @@ An optional joystick can be connected to PORTB of the AtoMMC interface with soft
 
 ##### Download
 
-[Galaforce Acorn Atom disc/tape images](./images/Atom Galaforce.zip "wikilink")
+[Galaforce Acorn Atom disc/tape images](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Atom Galaforce.zip "wikilink")
 
 This image archive includes both tape and disc versions of the game, in colour and monochrome. Read the included Readme.txt file for more info.
 
@@ -90,7 +90,7 @@ A [Development Diary](GalaforceAtomDevDiary "wikilink") recording the details of
 
 ##### Screenshots
 
-![](./images/AtomGalaforceTitleScreen.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceTitleScreen.png)
 
 **_Atom Galaforce_ Title Screen early preview screenshot**
 
@@ -102,19 +102,19 @@ _Posted: 23:34, 16 Aug 2011_
 
 <tr class="odd">
 
-<td><p>![](./images/AtomGalaforceLoadingScreen.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceLoadingScreen.png)
 
 <strong><em>Galaforce</em> Loading screen screenshot</strong><br />
 
 <em>Posted: 16:56, 10 Nov 2012</em></p></td>
 
-<td><p>![](./images/Galaforce Intro.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Galaforce Intro.PNG)
 
 <strong><em>Galaforce</em> Intro screenshot</strong><br />
 
 <em>Posted: 16:22, 17 Aug 2011</em></p></td>
 
-<td><p>![](./images/Galaforce Score.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Galaforce Score.PNG)
 
 <strong><em>Galaforce</em> High Score screenshot</strong><br />
 
@@ -124,19 +124,19 @@ _Posted: 23:34, 16 Aug 2011_
 
 <tr class="even">
 
-<td><p>![](./images/Galaforce Gamestart.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Galaforce Gamestart.PNG)
 
 <strong><em>Galaforce</em> Gamestart screenshot</strong><br />
 
 <em>Posted: 15:51, 03 Sep 2011</em></p></td>
 
-<td><p>![](./images/AtomGalaforceZone1.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceZone1.png)
 
 <strong><em>Galaforce</em> Zone 1 screenshot</strong><br />
 
 <em>Posted: 16:56, 10 Nov 2012</em></p></td>
 
-<td><p>![](./images/AtomGalaforceZone2.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceZone2.png)
 
 <strong><em>Galaforce</em> Zone 2 screenshot</strong><br />
 
@@ -146,19 +146,19 @@ _Posted: 23:34, 16 Aug 2011_
 
 <tr class="odd">
 
-<td><p>![](./images/AtomGalaforceZone3.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceZone3.png)
 
 <strong><em>Galaforce</em> Zone 3 screenshot</strong><br />
 
 <em>Posted: 16:56, 10 Nov 2012</em></p></td>
 
-<td><p>![](./images/AtomGalaforceLoadingScreenMono.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceLoadingScreenMono.png)
 
 <strong><em>Galaforce</em> Zone 3 screenshot</strong><br />
 
 <em>Posted: 16:56, 10 Nov 2012</em></p></td>
 
-<td><p>![](./images/AtomGalaforceIntroMono.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceIntroMono.png)
 
 <strong><em>Galaforce</em> Zone 3 screenshot</strong><br />
 
@@ -168,19 +168,19 @@ _Posted: 23:34, 16 Aug 2011_
 
 <tr class="even">
 
-<td><p>![](./images/AtomGalaforceHighscoreMono.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceHighscoreMono.png)
 
 <strong><em>Galaforce</em> High Score Mono screenshot</strong><br />
 
 <em>Posted: 16:56, 10 Nov 2012</em></p></td>
 
-<td><p>![](./images/AtomGalaforceEnteringZone1Mono.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceEnteringZone1Mono.png)
 
 <strong><em>Galaforce</em> Game Start Mono screenshot</strong><br />
 
 <em>Posted: 16:56, 10 Nov 2012</em></p></td>
 
-<td><p>![](./images/AtomGalaforceZone1Mono.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceZone1Mono.png)
 
 <strong><em>Galaforce</em> Zone 1 Mono screenshot</strong><br />
 
@@ -190,13 +190,13 @@ _Posted: 23:34, 16 Aug 2011_
 
 <tr class="odd">
 
-<td><p>![](./images/AtomGalaforceZone2Mono.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceZone2Mono.png)
 
 <strong><em>Galaforce</em> Zone 2 Mono screenshot</strong><br />
 
 <em>Posted: 16:56, 10 Nov 2012</em></p></td>
 
-<td><p>![](./images/AtomGalaforceZone3Mono.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtomGalaforceZone3Mono.png)
 
 <strong><em>Galaforce</em> Zone 3 Mono screenshot</strong><br />
 

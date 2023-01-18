@@ -14,7 +14,7 @@ Jet Set Willy II is, comparing to the other ports, a new game instead of an expa
 
 Retro Software is therefore proud to reveal a brand new Atom port by the Dutch coder Kees van Oss. This new release is an astonishingly accurate version of the original title. The conversion was 'relative' easy because the resolution of the screen matches perfectly the Atom CLEAR4 resolution. Because it's a monochrome game, the graphics are exactly the same as the original Electron game. In the original game there were not many sound effects but they are also included in the Atom version.
 
-![ZX Spectrum cassette tape cover](./images/JetSet2.jpg "ZX Spectrum cassette tape cover")
+![ZX Spectrum cassette tape cover](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JetSet2.jpg "ZX Spectrum cassette tape cover")
 
 ### Platforms
 
@@ -80,7 +80,7 @@ An optional joystick can be connected to PORTB of the AtoMMC interface with soft
 
 ##### Downloads
 
-[Jet Set Willy 2 tape/disc/AtoMMC images](./images/JSW2.zip "wikilink")
+[Jet Set Willy 2 tape/disc/AtoMMC images](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JSW2.zip "wikilink")
 
 This image archive includes tape, disc and AtoMMC versions of the game. Read the included Readme.txt file for more info.
 

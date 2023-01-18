@@ -16,7 +16,7 @@ This program is still a work in progress so you should use entirely at your own 
 
 ### Screenshots
 
-![](./images/beacon.png "beacon.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/beacon.png "beacon.png")
 
 ### Downloads
 

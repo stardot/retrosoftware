@@ -78,13 +78,13 @@ The reason the you can't see the player's ship at the start of this video, is be
 
 <tr class="odd">
 
-<td><p>![](./images/Zap0.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap0.png)
 
 <strong>Title screen</strong><br />
 
 <em>Posted: Jan 29, 2009</em></p></td>
 
-<td><p>![](./images/Zap1.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap1.png)
 
 <strong>In-game 1</strong><br />
 
@@ -124,13 +124,13 @@ The reason the you can't see the player's ship at the start of this video, is be
 
 <tr class="odd">
 
-<td><p>![](./images/Zap BBC Tape Picture1.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap BBC Tape Picture1.jpg)
 
 <strong>Inlay for BBC Micro Cassette version (front)</strong><br />
 
 <em>Posted: Jun 6, 2009</em></p></td>
 
-<td><p>![](./images/Zap BBC Tape Picture2.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap BBC Tape Picture2.jpg)
 
 <strong>Inlay for BBC Micro Cassette version (back)</strong><br />
 
@@ -140,13 +140,13 @@ The reason the you can't see the player's ship at the start of this video, is be
 
 <tr class="even">
 
-<td><p>![](./images/Zap BBC Tape Picture3.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap BBC Tape Picture3.jpg)
 
 <strong>Media for BBC Micro Cassette version</strong><br />
 
 <em>Posted: Jun 6, 2009</em></p></td>
 
-<td><p>![](./images/Zap BBC Disc 525 Picture1.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap BBC Disc 525 Picture1.jpg)
 
 <strong>Inlay for BBC Micro 5.25&quot; Disc version (front)</strong><br />
 
@@ -156,13 +156,13 @@ The reason the you can't see the player's ship at the start of this video, is be
 
 <tr class="odd">
 
-<td><p>![](./images/Zap BBC Disc 525 Picture2.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap BBC Disc 525 Picture2.jpg)
 
 <strong>Inlay for BBC Micro 5.25&quot; Disc version (back)</strong><br />
 
 <em>Posted: Jun 6, 2009</em></p></td>
 
-<td><p>![](./images/Zap BBC Disc 525 Picture3.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap BBC Disc 525 Picture3.jpg)
 
 <strong>Media for BBC Micro 5.25&quot; Disc version</strong><br />
 
@@ -172,13 +172,13 @@ The reason the you can't see the player's ship at the start of this video, is be
 
 <tr class="even">
 
-<td><p>![](./images/Zap MasterCompact Picture1.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap MasterCompact Picture1.jpg)
 
 <strong>Inlay for Master Compact 3.5&quot; Disc version (front)</strong><br />
 
 <em>Posted: Jun 6, 2009</em></p></td>
 
-<td><p>![](./images/Zap MasterCompact Picture2.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap MasterCompact Picture2.jpg)
 
 <strong>Inlay for Master Compact 3.5&quot; Disc version (back)</strong><br />
 
@@ -188,7 +188,7 @@ The reason the you can't see the player's ship at the start of this video, is be
 
 <tr class="odd">
 
-<td><p>![](./images/Zap MasterCompact Picture3.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zap MasterCompact Picture3.jpg)
 
 <strong>Media for Master Compact 3.5&quot; Disc version</strong><br />
 

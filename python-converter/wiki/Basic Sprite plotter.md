@@ -554,8 +554,8 @@ LookUpTable640 (download below if required)
 
 ## Downloads
 
-[The enitre Swift Project](./images/Swift CodeNameDroid.zip "wikilink") (Highly recommended, just load into Swift and run ! )
+[The enitre Swift Project](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Swift CodeNameDroid.zip "wikilink") (Highly recommended, just load into Swift and run ! )
 
-[ LookUpTable640](./images/Swift SpritePlotter LookUpTable640.zip "wikilink") ( 640 times look up table)
+[ LookUpTable640](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Swift SpritePlotter LookUpTable640.zip "wikilink") ( 640 times look up table)
 
-[Sprite data](./images/Swift SpritePlotter DroidSprites.zip "wikilink") (The sample sprites)
+[Sprite data](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Swift SpritePlotter DroidSprites.zip "wikilink") (The sample sprites)

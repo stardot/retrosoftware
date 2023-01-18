@@ -24,13 +24,13 @@ This tool allows you to create animated sprites for the BBC Micro.
 
 <td><div class="figure">
 
-![](./images/BBCSpriteDesigner.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BBCSpriteDesigner.png)
 
 <p class="caption">BBCSpriteDesigner.png</p>
 
 </div></td>
 
-<td><p>   ![](./images/BBCSpriteDesigner2.png)</p></td>
+<td><p>   ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BBCSpriteDesigner2.png)</p></td>
 
 </tr>
 

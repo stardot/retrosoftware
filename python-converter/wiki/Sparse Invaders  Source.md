@@ -50,7 +50,7 @@ At last the v1.0 source is here! Once you have SWIFT setup, just open the Sparse
 
 - THE v1.0 SOURCE \* \\/ \\/ \\/ \\/ \\/
 
-[Sparse Invaders v1.0 Source](./images/SparseInvaders Source.zip "wikilink")
+[Sparse Invaders v1.0 Source](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SparseInvaders Source.zip "wikilink")
 
 - THE v1.0 SOURCE \* /\\ /\\ /\\ /\\ /\\
 
@@ -432,6 +432,6 @@ GPLv3 - Please read.
 
 UPDATE: **THE SHELL**
 
-[Shell Source v1.0 Source](./images/Shell Source.zip "wikilink")
+[Shell Source v1.0 Source](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Shell Source.zip "wikilink")
 
 This is the invaders source stripped leaving a basic shell. It does show text display, sprite creation and moving in a good documented effort. Please download and use the shell to create your game, using Sparse Invader source as a working example.

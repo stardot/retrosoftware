@@ -1,6 +1,6 @@
 # Classic Development Tools
 
-![](./images/Exmon main screen.JPG "Exmon_main_screen.JPG")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Exmon main screen.JPG "Exmon_main_screen.JPG")
 
 ### BeebugSoft's [Exmon II](http://bbc.nvg.org/rom/Beebug/lang/)
 
@@ -12,7 +12,7 @@ _Medium:_ **ROM**
 
 :
 
-[Exmon II Manual](./images/EXMON II manual.zip "wikilink")
+[Exmon II Manual](../../retrosoftwarecouk_wiki-20160918-wikidump/images/EXMON II manual.zip "wikilink")
 
 [Command Reference only](http://bbc.nvg.org/rom/Beebug/lang/Exmon2-reference.pdf)
 
@@ -28,7 +28,7 @@ There is known to be an Acorn Electron (familiarly the **Elk**) version of Exmon
 
 _Recommended by:_ **Samwise and MartinB**
 
-![](./images/ismec disassembler.JPG "fig:ismec disassembler.JPG")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/ismec disassembler.JPG "fig:ismec disassembler.JPG")
 
 ### Ismec's [Monitor 2.01](http://bbc.nvg.org/rom/Various/prog/)
 
@@ -36,7 +36,7 @@ _Target Systems:_ **BBC Micro Model B and Master 128**
 
 _Medium:_ **ROM**
 
-_Documentation :_ [ISMEC Monitor 2.01 manual](./images/ISMEC Monitor.zip "wikilink") and a [third party guide](Ismec.zip "wikilink") from 8BS.com's [TBI48](http://8bs.com/pool/tbi/tbi48.zip) 'Hints & Tips' disc
+_Documentation :_ [ISMEC Monitor 2.01 manual](../../retrosoftwarecouk_wiki-20160918-wikidump/images/ISMEC Monitor.zip "wikilink") and a [third party guide](Ismec.zip "wikilink") from 8BS.com's [TBI48](http://8bs.com/pool/tbi/tbi48.zip) 'Hints & Tips' disc
 
 **Machine code monitor for the BBC Micro**
 
@@ -60,7 +60,7 @@ All in all, an excellent monitor rom and very deserving of a socket in the serio
 
 (The **_Third-Party User Guide_** available for download is taken from an 8bs compilation disc and is not the original Ismec manual. However, this 8Bs text in combination with the above description provides sufficient information for full use of the rom. The 8bs text also indicates that the Ismec rom was originally supplied with a utilities disc containing further low-level tools such as a disc sector editor. At the time of writing, this disc has not yet come to light.)
 
-**\*UPDATE:** TopBanana has recently sourced and scanned a copy of the [Monitor 2.01 manual](./images/ISMEC Monitor.zip "wikilink")! We are still missing the accompanying cassette, however, if anyone comes across it.\*
+**\*UPDATE:** TopBanana has recently sourced and scanned a copy of the [Monitor 2.01 manual](../../retrosoftwarecouk_wiki-20160918-wikidump/images/ISMEC Monitor.zip "wikilink")! We are still missing the accompanying cassette, however, if anyone comes across it.\*
 
 **\*UPDATE \#2:** Forum member s1paulr [points out](http://www.retrosoftware.co.uk/forum/viewtopic.php?p=5986#p5986) that v1.60, available from the The BBC Lives! archive link above as well as our own forum, works equally well with a co-processor enabled or disabled in software (which 2.01 does not).\*
 

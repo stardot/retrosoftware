@@ -54,7 +54,7 @@ Start BeebEm, then:
 
 Start Audacity and position it close to BeebEm, side by side:
 
-![](./images/Beebemaudacity.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebemaudacity.png)
 
 ### Record Your Video And Commentary
 
@@ -110,7 +110,7 @@ Inevitably, no matter how fast you clicked the buttons - the sound will be sligh
 
 - Select the _Interleaving..._ option from VirtualDub's Audio menu.
 
-![](./images/VirtualDub.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/VirtualDub.png)
 
 - In the Audio skew correction, update the _Delay audio track by_ with an estimated value in ms to correct the synchronisation.
 

@@ -6,13 +6,13 @@ Non-Profit Commercial
 
 <center>
 
-![](./images/MountainPanicCoverArt.jpg "MountainPanicCoverArt.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MountainPanicCoverArt.jpg "MountainPanicCoverArt.jpg")
 
 </center>
 
 ### Introduction
 
-![](./images/panicsmcov.png "fig:panicsmcov.png")In 1931, horror and sci-fi author H.P. Lovecraft completed his novella _[At the Mountains of Madness](http://en.wikipedia.org/wiki/Mountains_of_madness)_ which went on to become one of his most influential tales, and has excited and disturbed readers in the decades since. 77 years later, and one of _Retro Software_'s first BBC Micro projects was revealed - a wholly original 8-bit side-on arcade adventure inspired by Lovecraft's story, entitled _Mountain Panic_. After a mammoth five years of development and rare glimpses at retro computing shows around the country, _Mountain Panic_ was finally launched on 5.25" DFS disc and emulator image at the _[Play Expo](http://www.playexpo.net/)_ 2013 event in Manchester.
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/panicsmcov.png "fig:panicsmcov.png")In 1931, horror and sci-fi author H.P. Lovecraft completed his novella _[At the Mountains of Madness](http://en.wikipedia.org/wiki/Mountains_of_madness)_ which went on to become one of his most influential tales, and has excited and disturbed readers in the decades since. 77 years later, and one of _Retro Software_'s first BBC Micro projects was revealed - a wholly original 8-bit side-on arcade adventure inspired by Lovecraft's story, entitled _Mountain Panic_. After a mammoth five years of development and rare glimpses at retro computing shows around the country, _Mountain Panic_ was finally launched on 5.25" DFS disc and emulator image at the _[Play Expo](http://www.playexpo.net/)_ 2013 event in Manchester.
 
 This eagerly-awaited adventure set in the early 1930s sees you cast as Bill, an intrepid Antarctic explorer who awakens to discover his expedition teammates missing after a violent storm, requiring you to venture out into the blinding snow to discover what has become of them ... Left with only a scrap from a colleague's notebook which mentions four pieces of a mysterious broken sign, Bill must navigate many treacherous caverns to escape.
 
@@ -60,9 +60,9 @@ Artists: Roger Coe and Chris Hogg
 
 ##### Downloads
 
-[Mountain Panic early work-in-progress Demo \#1 - .ssd Acorn DFS disc image](./images/Mountainpanicdemo1.zip "wikilink") - 2009-09-18
+[Mountain Panic early work-in-progress Demo \#1 - .ssd Acorn DFS disc image](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Mountainpanicdemo1.zip "wikilink") - 2009-09-18
 
-[Mountain Panic early work-in-progress Demo \#2 - .ssd Acorn DFS disc image](./images/Mountainpanicdemo2.zip "wikilink") - 2009-09-18
+[Mountain Panic early work-in-progress Demo \#2 - .ssd Acorn DFS disc image](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Mountainpanicdemo2.zip "wikilink") - 2009-09-18
 
 ##### Development Environment
 

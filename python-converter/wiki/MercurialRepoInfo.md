@@ -18,23 +18,23 @@ Whilst not quite as widely-supported as _Subversion_, _Mercurial_ tool support i
 
 3.  When you've confirmed you have the correct username / password and that your access to the repository has been configured, download and install _[TortoiseHg](http://tortoisehg.bitbucket.org/)_ (requires a reboot). When Windows has been rebooted, you should be able to right-click in Windows Explorer and see the _TortoiseHg_ context menu:
 
-    ![](./images/Hgcontextmenu.png)
+    ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgcontextmenu.png)
 
 4.  If you need to (e.g. you're behind a corporate firewall), configure a proxy server now by selecting Global Settings from the _TortoiseHg_ context menu and opening the Proxy settings:
 
-    ![](./images/Hgproxysettings.png)
+    ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgproxysettings.png)
 
 5.  Now configure your RS username used when committing by selecting Global Settings from the _TortoiseHg_ context menu and opening the Commit settings. The Username field should be filled in with the form "**RetroSoftwareForumName <youremailaddress>**":
 
-    ![](./images/Hgcommitsettings.png)
+    ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgcommitsettings.png)
 
 6.  Create a directory within Windows Explorer with the name of the project you are accessing. Clone the repository from the Retro Software server by selecting Clone... off the _TortoiseHg_ context menu from within that directory, which will therefore be used as the base of your local repository. The Destination path should be automatically filled in, so enter the Source path in the form "**<http://www.retrosoftware.co.uk/hg/projectname>**". Check the Use proxy server box, if required and click the Clone button:
 
-    ![](./images/Hgclonerepository.png)
+    ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgclonerepository.png)
 
     After a short time of downloading the contents of the repository, the local directory should look something like this:
 
-    ![](./images/Hgrepocloned.png)
+    ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgrepocloned.png)
 
     **_Note:_** If the repository has been newly created for you, this step is still required and even though there are no other files until you create and commit them, you will still find a .hg directory is created to store the _Mercurial_ meta-data for the repository.
 
@@ -50,11 +50,11 @@ It is strongly advised that you at least read through the brief [hginit.com](htt
 
 <tr class="odd">
 
-<td><p>![](./images/Hgaddfile.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgaddfile.png)
 
 <em>1. From the context menu, select Add Files</em></p></td>
 
-<td><p>![](./images/Hgaddfile2.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgaddfile2.png)
 
 <em>2. Select the objects you wish to add to your local repository, click Add</em></p></td>
 
@@ -72,7 +72,7 @@ This will cause the new items to be added to the local repository, which is indi
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 
-| ![](./images/Hgcommitfiles2.png) |
+| ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgcommitfiles2.png) |
 
 Right-click, and select **Hg Commit...** to bring up the _TortoiseHg_ commit dialogue box. Enter a new commit message in the box at the top, select all the files and directories you wish to commit to the local repository and click the Commit button in the top left corner. This will cause all the Added items with the blue plus sign on their icons in the Explorer view, to be committed to the local repository and therefore displayed with a green check mark instead. Close the dialogue box.
 
@@ -82,7 +82,7 @@ Right-click, and select **Hg Commit...** to bring up the _TortoiseHg_ commit dia
 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| ![](./images/Hgpushchangesets.png) | ![Screenshot of TortoiseHg Repository Explorer - Push Outgoing Changesets #2](./images/Hgpushchangesets2.png "Screenshot of TortoiseHg Repository Explorer - Push Outgoing Changesets #2") |
+| ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgpushchangesets.png) | ![Screenshot of TortoiseHg Repository Explorer - Push Outgoing Changesets #2](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgpushchangesets2.png "Screenshot of TortoiseHg Repository Explorer - Push Outgoing Changesets #2") |
 
 Adding and committing files and directories, are performed on the local repository and will not be available to anyone else working on the project. Eventually, however, you will want to push back some of the code changes you have made to the main RS repository and anyone else working on the project. This is done by right-clicking, and selecting **Hg Repository Explorer** to bring up the _TortoiseHg_ Repository Explorer dialogue box. From here you can click the up-arrow-beneath-a-line button to Push Outgoing Changesets - including all new additions and modifications that you have committed locally. A dialogue box will ask you to confirm by clicking Push again, and then the _TortoiseHg_ client will connect to the RS repository. You will be asked to supply your username and password, to authenticate with the server and then all new changesets will be pushed to the remote repository on the server. Close the dialogue box. You can then [browse](#Browse_the_RS_Mercurial_repositories_online_.28read-only.29 "wikilink") the repository online and view the changesets that you have pushed.
 
@@ -92,6 +92,6 @@ Adding and committing files and directories, are performed on the local reposito
 
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| ![](./images/Hgaddremovetag1.png) |
+| ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hgaddremovetag1.png) |
 
 When you have reached a stage in the code where you wish to label it as a release, you can add a tag, perhaps of the form v1.01. Anyone who browses the repository can then download that particular tagged version of the code as a standalone bz2, zip or gz archive with their web browser, direct from the [web view of the repository](#Browse_the_RS_Mercurial_repositories_online_.28read-only.29 "wikilink"). Other _Mercurial_ users with access to the project can also download that particular release of the code. To add a tag, right-click and select **Hg Repository Explorer** to bring up the _TortoiseHg_ Repository Explorer dialogue box again. Select the changeset you wish to tag from the list, then right-click and select Tag -&gt; Add/Remove Tag. This will bring up the Tag dialogue box which will allow you to add or remove a tag. Remember that such a tag change must also then be pushed back to the main RS repository, if you want others to see it!

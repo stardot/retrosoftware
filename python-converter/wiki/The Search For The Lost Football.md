@@ -20,25 +20,25 @@ The BBC Micro version of the game will not be a 100% accurate remake of the orig
 
 **_The Search For The Lost Football_**
 
-[12th March 2008: Very early developmental version for testing purposes](./images/Football pre.zip "wikilink").
+[12th March 2008: Very early developmental version for testing purposes](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Football pre.zip "wikilink").
 
-[18th March 2008: Early developmental version for testing purposes](./images/Football pre2.zip "wikilink").
+[18th March 2008: Early developmental version for testing purposes](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Football pre2.zip "wikilink").
 
-[28th March 2008: Early developmental version for testing purposes](./images/Football pre3.zip "wikilink").
+[28th March 2008: Early developmental version for testing purposes](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Football pre3.zip "wikilink").
 
-[6th July 2009: Early developmental version for testing purposes](./images/Football pre4.zip "wikilink").
+[6th July 2009: Early developmental version for testing purposes](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Football pre4.zip "wikilink").
 
-[1st February 2011: Early developmental version for testing purposes](./images/Football pre5.zip "wikilink").
+[1st February 2011: Early developmental version for testing purposes](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Football pre5.zip "wikilink").
 
 ### Sample Screenshots
 
 An early developmental screen shot:
 
-![](./images/Football screenshot1.png "fig:Football_screenshot1.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Football screenshot1.png "fig:Football_screenshot1.png")
 
 Another early developmental screen shot:
 
-![](./images/Football screenshot2.png "fig:Football_screenshot2.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Football screenshot2.png "fig:Football_screenshot2.png")
 
 ### Change Log
 

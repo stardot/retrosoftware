@@ -12,7 +12,7 @@ Use cases: New score &gt; highest score in current table. New score &lt; lowest 
 
 It took me a long time to debug.
 
-![](./images/Jsnake hiscore.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jsnake hiscore.png)
 
 #### Related routines
 

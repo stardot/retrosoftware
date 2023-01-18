@@ -8,7 +8,7 @@ Alternatively, if you'd like to talk to a member of the team off-line about a ma
 
 # Press
 
-![](./images/Micromartrs1052.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Micromartrs1052.png)
 
 <center>
 
@@ -24,7 +24,7 @@ Leave feedback at the [Micro Mart forum](http://forum.micromart.co.uk/)
 
 </center>
 
-![](./images/Micromartrs1053.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Micromartrs1053.png)
 
 <center>
 

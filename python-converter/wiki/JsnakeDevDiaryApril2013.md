@@ -18,7 +18,7 @@ I was a bit disappointed, but work continued on the code for a week thereafter. 
 
 The food at this point was still a yellow square. I still wasn’t using sprites at this point. I decided to change this as plotting individual pixels in code becomes tedious after a while. I used Richard Talbot-Watkins’s excellent [Beebspriter](http://www.retrosoftware.co.uk/beebspriter) . I decided that the food should be a lemon. Why? Because my collision detection is done by colour (the “old” food was yellow and a lemon is yellow) and a lemon is easy to draw! I had to amend the collision detection as it only handled yellow squares.
 
-![](./images/Jsnake lemon beebspriter.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jsnake lemon beebspriter.png)
 
 #### Crashing
 
@@ -30,7 +30,7 @@ I made the screen background flash black and white when the Snake crashes in to 
 
 I was going to go to this meetup but couldn’t make it due to family commitments. I sent a copy of v1.0 jsnake to Arcadian and Samwise for testing and requested photos of people playing the game. The full set can be seen [here](http://www.retrosoftware.co.uk/forum/viewtopic.php?f=94&t=844&sid=5ba3a71754f4e51b01ae2c4fe261e344) . with a screenshot below. I had some constructive feedback via Samwise. The awesome Atom man Kees van Oss had tried playing the game via joystick and found that the response was too insensitive for analogue joysticks: i.e. one had to push the stick too far before the direction was recognised. The speed of the snake was also commented on (big speed jumps). I have set the score threshold higher before speed increases, but behaviour is otherwise the same. I don’t have the coding skillz as yet to make the snake speed more gradual with smooth animation.
 
-![](./images/JSnake 001 Beebmaster.JPG)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JSnake 001 Beebmaster.JPG)
 
 ### September 2013
 

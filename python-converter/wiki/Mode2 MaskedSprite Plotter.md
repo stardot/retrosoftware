@@ -24,7 +24,7 @@ The code and data has been written in vanilla P65 with only the includes being S
 
 ## Demo screen shot
 
-![](./images/SpritePlotDemo.png "SpritePlotDemo.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SpritePlotDemo.png "SpritePlotDemo.png")
 
 ## Code
 
@@ -1390,4 +1390,4 @@ The Boot File
 
 ## Downloads
 
-[The enitre Swift Project](./images/Mode2SpritePlotter.zip "wikilink") (Highly recommended, just load into Swift and run !, contains all files you need even if not running in Swift )
+[The enitre Swift Project](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Mode2SpritePlotter.zip "wikilink") (Highly recommended, just load into Swift and run !, contains all files you need even if not running in Swift )

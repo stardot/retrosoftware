@@ -38,7 +38,7 @@ Nature has reclaimed parts of the castle, its ruins crumbling in places and craw
 
 ##### Downloads
 
-- Updated release (version 1.0.4): [CastleRaider-1.0.4.zip](./images/CastleRaider-1.0.4.zip "wikilink")
+- Updated release (version 1.0.4): [CastleRaider-1.0.4.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-1.0.4.zip "wikilink")
 
   - Removed support for using upward motion on the joystick to jump. The fire button should work fine.
 
@@ -46,21 +46,21 @@ Nature has reclaimed parts of the castle, its ruins crumbling in places and craw
 
   - Added a little secret area.
 
-- Updated release (version 1.0.3): [CastleRaider-1.0.3.zip](./images/CastleRaider-1.0.3.zip "wikilink")
+- Updated release (version 1.0.3): [CastleRaider-1.0.3.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-1.0.3.zip "wikilink")
 
   - Added a ROM cartridge version for the Electron.
 
   - Added a ROM image for the BBC Micro.
 
-- Updated release (version 1.0.2): [CastleRaider-1.0.2.zip](./images/CastleRaider-1.0.2.zip "wikilink")
+- Updated release (version 1.0.2): [CastleRaider-1.0.2.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-1.0.2.zip "wikilink")
 
   - _Added informational chunks to the UEF files. The disk images are unchanged._
 
-- Updated release (version 1.0.1): [CastleRaider-1.0.1.zip](./images/CastleRaider-1.0.1.zip "wikilink")
+- Updated release (version 1.0.1): [CastleRaider-1.0.1.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-1.0.1.zip "wikilink")
 
   - _Updated the UEF files so they can be converted to WAV files that load successfully on real hardware._
 
-- First release (version 1.0.0): [CastleRaider-1.0.0.zip](./images/CastleRaider-1.0.0.zip "wikilink")
+- First release (version 1.0.0): [CastleRaider-1.0.0.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-1.0.0.zip "wikilink")
 
 ##### Screenshots
 
@@ -68,11 +68,11 @@ Nature has reclaimed parts of the castle, its ruins crumbling in places and craw
 
 |--------------------------------------------------------------------------------|---------------------------------------------------------------|
 
-| ![The in-game title screen.](./images/2014-11-30-title.png "The in-game title screen.") | ![The game itself.](2014-11-30-action.png "The game itself.") |
+| ![The in-game title screen.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2014-11-30-title.png "The in-game title screen.") | ![The game itself.](2014-11-30-action.png "The game itself.") |
 
 | **The in-game title screen.** | **The game itself.** |
 
-| ![Exploring the basement.](./images/2014-11-30-basement.png "Exploring the basement.") | ![In the dungeon.](2014-11-30-dungeon.png "In the dungeon.") |
+| ![Exploring the basement.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2014-11-30-basement.png "Exploring the basement.") | ![In the dungeon.](2014-11-30-dungeon.png "In the dungeon.") |
 
 | **Exploring the basement.** | **In the dungeon.** |
 
@@ -86,11 +86,11 @@ Cassette inlays for both the Acorn Electron and BBC Model B versions of the game
 
 A number of demos and pre-releases were made available. Here are some of the most recent ones:
 
-- Third pre-release: [CastleRaider-prerelease3.zip](./images/CastleRaider-prerelease3.zip "wikilink")
+- Third pre-release: [CastleRaider-prerelease3.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-prerelease3.zip "wikilink")
 
-- Second pre-release: [CastleRaider-prerelease2.zip](./images/CastleRaider-prerelease2.zip "wikilink")
+- Second pre-release: [CastleRaider-prerelease2.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-prerelease2.zip "wikilink")
 
-- First pre-release: [CastleRaider-prerelease1.zip](./images/CastleRaider-prerelease1.zip "wikilink")
+- First pre-release: [CastleRaider-prerelease1.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-prerelease1.zip "wikilink")
 
 ##### Source Code
 

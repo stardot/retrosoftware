@@ -26,7 +26,7 @@ There is money in the game, but not implemented in a sophisticated way.
 
 **_Farmyard Fun_**
 
-[Farmyard Fun 2008 v1.1](./images/FarmyardFun2008v1-1.zip "wikilink") - 03 May 2008
+[Farmyard Fun 2008 v1.1](../../retrosoftwarecouk_wiki-20160918-wikidump/images/FarmyardFun2008v1-1.zip "wikilink") - 03 May 2008
 
 ### Sample Screenshots
 
@@ -36,13 +36,13 @@ There is money in the game, but not implemented in a sophisticated way.
 
 <tr class="odd">
 
-<td><p>![](./images/FarmyardFunLoadingScreen.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/FarmyardFunLoadingScreen.png)
 
 <strong>Loading screen</strong><br />
 
 <em>Posted: Feb 25, 2012</em></p></td>
 
-<td><p>![](./images/FarmyardFun2008.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/FarmyardFun2008.png)
 
 <strong>In-game screenshot</strong><br />
 

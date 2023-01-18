@@ -72,9 +72,9 @@ Can of Holes - This elusive object grants Harry invincibility and impressive ski
 
 ### Downloads
 
-[Hard Hat Harry 2 V1.0 - BBC Disc version](./images/HardHatHarry2-V1.0.zip "wikilink")
+[Hard Hat Harry 2 V1.0 - BBC Disc version](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HardHatHarry2-V1.0.zip "wikilink")
 
-[Hard Hat Harry 2 BBC version P65/Ophis GPL'd source code](./images/HardHatHarry2-Source.zip "wikilink")
+[Hard Hat Harry 2 BBC version P65/Ophis GPL'd source code](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HardHatHarry2-Source.zip "wikilink")
 
 ### Screenshots
 

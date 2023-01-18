@@ -28,9 +28,9 @@ Expected Features:
 
 _Posted: Thurs Jul 24, 2008 15:40_
 
-or download a 'raw' video of _Rich Tech 2_ running at the _true_ frame rate: [Rich Tech 2 AVI Video](./images/Richtech2 video.zip "wikilink") (449.1 KB zipped, expands to 15.9 MB).
+or download a 'raw' video of _Rich Tech 2_ running at the _true_ frame rate: [Rich Tech 2 AVI Video](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Richtech2 video.zip "wikilink") (449.1 KB zipped, expands to 15.9 MB).
 
-![](./images/RichTech2.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/RichTech2.png)
 
 **(early developmental screen shot)**
 

@@ -6,7 +6,7 @@ Software licence TBC
 
 ### Introduction
 
-_Uropa_ is the second game for the BBC worked on by Stephen, author of _[The Krystal Connection](The_Krystal_Connection "wikilink")_, around 1988 and is a 2D/3D game with split screen modes inspired by _[Battlezone](<wikipedia:Battlezone_(1980_video_game)> "wikilink")_ and titles from _[Ultimate: Play The Game](wikipedia:Ultimate_Play_the_Game "wikilink")_.
+_Uropa_ is the second game for the BBC worked on by Stephen, author of _[The Krystal Connection](The_Krystal_Connection "wikilink")_, around 1988 and is a 2D/3D game with split screen modes inspired by _[Battlezone](<wikipedia:Battlezone_(1980*video_game)> "wikilink")* and titles from _[Ultimate: Play The Game](wikipedia:Ultimate_Play_the_Game "wikilink")_.
 
 The basic idea of the game is to complete missions which are played out on the surface of Uropa (ex-Europa), the re-built moon of Jupiter and within the colonist base stations (isometric).
 
@@ -50,9 +50,9 @@ The game was originally being developed in assembler (BBC Basic), however I had 
 
 ### Downloads
 
-[DDFS Uropa Demo](./images/Uropademo.zip "wikilink") (Watford Electronics DDFS 5.25" SSD image)
+[DDFS Uropa Demo](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Uropademo.zip "wikilink") (Watford Electronics DDFS 5.25" SSD image)
 
-[DFS Uropa Demo](./images/UropaDemoDFS.zip "wikilink") (Acorn DFS 5.25" SSD images)
+[DFS Uropa Demo](../../retrosoftwarecouk_wiki-20160918-wikidump/images/UropaDemoDFS.zip "wikilink") (Acorn DFS 5.25" SSD images)
 
 To run the DDFS SSD, you need to use the Watford Electronics DDFS since there are more than 31 files on the disc. At the demo boot menu it will ask for "City or Surface" where you can enter "C" or "S", however if you enter "T" it will show the original starting title (unfortunately it crashes if you press space to start).
 

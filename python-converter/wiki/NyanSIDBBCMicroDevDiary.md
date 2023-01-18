@@ -12,7 +12,7 @@ Lion posts a video of a BBC Demo called Nyan Cat over on the Stardot forums:
 
 <center>
 
-![](./images/Nyan bbc.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan bbc.png)
 
 </center>
 
@@ -40,7 +40,7 @@ I try converting a midi file to run on the BBC SID chip. My very first test is a
 
 <center>
 
-![](./images/Midi2sid.jpg "Midi2sid.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Midi2sid.jpg "Midi2sid.jpg")
 
 </center>
 
@@ -118,7 +118,7 @@ Time to start the game. I get the cat frames from a gif.
 
 <center>
 
-![](./images/Popani.gif)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Popani.gif)
 
 </center>
 
@@ -130,7 +130,7 @@ It's pretty simple - you have three stars - neutral, good and bad. Bad sucks ene
 
 <center>
 
-![](./images/Pc nyan.png "Pc_nyan.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Pc nyan.png "Pc_nyan.png")
 
 </center>
 
@@ -142,7 +142,7 @@ I've got a program called Envelope Explorer as a way to test different pre-defin
 
 <center>
 
-![](./images/Envexp.jpg "Envexp.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Envexp.jpg "Envexp.jpg")
 
 </center>
 
@@ -168,7 +168,7 @@ Experimenting with different envelopes for the SID tune. I write a program to te
 
 <center>
 
-![](./images/Sidplayerb.jpg "Sidplayerb.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Sidplayerb.jpg "Sidplayerb.jpg")
 
 </center>
 
@@ -178,7 +178,7 @@ Another way to test sid envelopes. This time I create a C64 sid file directly th
 
 <center>
 
-![](./images/Sid dialog.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Sid dialog.png)
 
 </center>
 
@@ -198,7 +198,7 @@ To start I setup a Mode2 screen and load a picture into screen memory. Then I gr
 
 <center>
 
-![](./images/Nyan 2012 02 19.png "Nyan_2012_02_19.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan 2012 02 19.png "Nyan_2012_02_19.png")
 
 </center>
 
@@ -210,7 +210,7 @@ Draw the rainbow, stars and animated the cat. I count frames to see how fast it 
 
 <center>
 
-![](./images/Nyan 2012 02 20.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan 2012 02 20.png)
 
 </center>
 
@@ -490,7 +490,7 @@ I toggle bbc/sid play on the TAB key. Stop BBC sounds when I turn the SID on. I 
 
 <center>
 
-![](./images/Nyan mode7.jpg "Nyan_mode7.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan mode7.jpg "Nyan_mode7.jpg")
 
 </center>
 
@@ -500,7 +500,7 @@ I add a hiscore entry page. As the OS isn't around anymore to do the key input I
 
 <center>
 
-![](./images/Nyan enter.jpg "Nyan_enter.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan enter.jpg "Nyan_enter.jpg")
 
 </center>
 
@@ -512,7 +512,7 @@ I give up for trying to find any more memory - what a chore! - I remove the hisc
 
 <center>
 
-![](./images/Nyan mem 2012 03 05.png "Nyan_mem_2012_03_05.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan mem 2012 03 05.png "Nyan_mem_2012_03_05.png")
 
 </center>
 
@@ -522,7 +522,7 @@ I finish the 'top nyans' page. As I only store one hiscore entry now I change th
 
 <center>
 
-![](./images/Nyan endpage.jpg "Nyan_endpage.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan endpage.jpg "Nyan_endpage.jpg")
 
 </center>
 
@@ -550,7 +550,7 @@ Where a \_ means code, a Capital means data and all other labels are ignored (lo
 
 <center>
 
-![](./images/Nyan mem 2012 03 11.png "Nyan_mem_2012_03_11.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan mem 2012 03 11.png "Nyan_mem_2012_03_11.png")
 
 </center>
 
@@ -562,7 +562,7 @@ The problem with memory has always been the large main sprite (18x21 bytes) with
 
 <center>
 
-![](./images/Nyan mem 2012 03 18.png "Nyan_mem_2012_03_18.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan mem 2012 03 18.png "Nyan_mem_2012_03_18.png")
 
 </center>
 
@@ -600,7 +600,7 @@ The tune is still sounding strange sometimes on the BBC. I convert the notes int
 
 <center>
 
-![](./images/Nyan tune.png "Nyan_tune.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan tune.png "Nyan_tune.png")
 
 </center>
 
@@ -640,8 +640,6 @@ So I finally play the game on a real BBC and the sound doesn't work! Get the dis
 
      EB3F    RTS             ;and exit
 
-
-
 My existing code is similar but doesn't wait so long so I switch to this one. I try all day but the music always seems to get corrupted - sometimes it sounds ok and it sounds just fine on booth Beebem and B-em so I don't understand what is wrong - it's driving me crazy....
 
 <span style="font-variant:small-caps; font-weight:bold;">Sun 01 Apr 2012: Fixing The Sound</span>
@@ -676,19 +674,19 @@ I'd prototyped them some days ago and now finally put them into the game. These 
 
 <center>
 
-![](./images/Nyan title.jpg "Nyan_title.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan title.jpg "Nyan_title.jpg")
 
 </center>
 
 <center>
 
-![](./images/End page.jpg "End_page.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/End page.jpg "End_page.jpg")
 
 </center>
 
 <center>
 
-![](./images/Hiscore page.jpg "Hiscore_page.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Hiscore page.jpg "Hiscore_page.jpg")
 
 </center>
 
@@ -698,7 +696,7 @@ The original cat was a bit white as the original palette didn't match the BBCs v
 
 <center>
 
-![](./images/Nyan oldcat.png "fig:Nyan oldcat.png") ![](Nyan newcat.png "fig:Nyan_newcat.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan oldcat.png "fig:Nyan oldcat.png") ![](Nyan newcat.png "fig:Nyan_newcat.png")
 
 </center>
 
@@ -750,7 +748,7 @@ Almost finished but the sprite tearing isn't so good.Not sure what to do about t
 
 <center>
 
-![](./images/Nyan 2012 04 20.png "Nyan_2012_04_20.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan 2012 04 20.png "Nyan_2012_04_20.png")
 
 </center>
 
@@ -758,7 +756,7 @@ I set the background palette to cyan at the start of vblank, dark blue when I st
 
 <center>
 
-![](./images/Nyan 2012 04 21 timea.png "Nyan_2012_04_21_timea.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan 2012 04 21 timea.png "Nyan_2012_04_21_timea.png")
 
 </center>
 
@@ -766,7 +764,7 @@ I rewrite the draw routine to be a little faster. The blue area gets smaller as 
 
 <center>
 
-![](./images/Nyan 2012 04 21 timeb.png "Nyan_2012_04_21_timeb.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan 2012 04 21 timeb.png "Nyan_2012_04_21_timeb.png")
 
 </center>
 
@@ -774,7 +772,7 @@ I add a timer interrupt which goes off on the y line after the cat. This is base
 
 <center>
 
-![](./images/Nyan 2012 04 21 timec.png "Nyan_2012_04_21_timec.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Nyan 2012 04 21 timec.png "Nyan_2012_04_21_timec.png")
 
 </center>
 

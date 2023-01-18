@@ -126,19 +126,19 @@ _(BBC BASIC, requires ARM co-processor to run)_
 
 Latest "unofficial" release.
 
-<http://www.g7jjf.com/progs/zmach.zip> ([local mirror](./images/Zmach.zip "wikilink"))
+<http://www.g7jjf.com/progs/zmach.zip> ([local mirror](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zmach.zip "wikilink"))
 
 **_BBC Micro Z-Machine Interpreter beta - prototype combined ROM image on disk image_**
 
 _(6502 assembled machine code, all V3 opcodes implemented)_
 
-<http://www.g7jjf.com/progs/zcode.zip> ([local mirror](./images/Zcode.zip "wikilink"))
+<http://www.g7jjf.com/progs/zcode.zip> ([local mirror](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Zcode.zip "wikilink"))
 
 **_BBC Micro Z-Machine Interpreter - v1.0 GPL source code and binary executables for v3 and v5 ROMs_**
 
 Latest release.
 
-([v1.0 release zip archive](./images/Bbcmicroz-machineinterpreter-1.0.zip "wikilink"))
+([v1.0 release zip archive](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Bbcmicroz-machineinterpreter-1.0.zip "wikilink"))
 
 ### Sample Screenshots
 

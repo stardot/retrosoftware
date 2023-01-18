@@ -1,6 +1,6 @@
 ## 10th November 2010
 
-![Aaargh! Sprites! Thousands of 'em!](./images/Spritetest.png "fig:Aaargh! Sprites! Thousands of 'em!") Today I revamped the high-level routine responsible for plotting moving sprites (the main character and any monsters). I already had the core of the sprite routine done (the one I mentioned in an earlier entry which lives in the zero page, and uses a table to treat colour 0 as a transparent colour), but there was no high-level code responsible for clipping slightly offscreen sprites and rejecting totally offscreen ones.
+![Aaargh! Sprites! Thousands of 'em!](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Spritetest.png "fig:Aaargh! Sprites! Thousands of 'em!") Today I revamped the high-level routine responsible for plotting moving sprites (the main character and any monsters). I already had the core of the sprite routine done (the one I mentioned in an earlier entry which lives in the zero page, and uses a table to treat colour 0 as a transparent colour), but there was no high-level code responsible for clipping slightly offscreen sprites and rejecting totally offscreen ones.
 
 The original code was hardcoded to deal only with 3x3 sprites - however I already decided that I'd like a bit more freedom with this, as I have ideas for creatures which will occupy different sizes as they animate, so it was time for a rewrite.
 

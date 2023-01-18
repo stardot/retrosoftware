@@ -34,7 +34,7 @@ Please note: this game is much more than just a 'themed' set of Repton levels, a
 
 <tr class="odd">
 
-<td><p>![](./images/CyroidX 2.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CyroidX 2.png)
 
 <strong>Cyroid-X In-Game Screenshot</strong><br />
 

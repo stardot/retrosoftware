@@ -52,4 +52,4 @@ This routine is reasonable for some games but for others the dreaded sprite shea
 
 # Download source
 
-[The enitre Swift Project](./images/Mode2SpriteMovement.zip "wikilink") (Highly recommended, just load into Swift and run !, contains all files you need even if not running in Swift )
+[The enitre Swift Project](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Mode2SpriteMovement.zip "wikilink") (Highly recommended, just load into Swift and run !, contains all files you need even if not running in Swift )

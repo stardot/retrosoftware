@@ -1,6 +1,6 @@
 [&lt; --- Back to previous page of JBiplane Dev Diary](http://www.retrosoftware.co.uk/wiki/index.php/JbipDevDiary)
 
-![](./images/Jbipwipscreenshot180.png "Jbipwipscreenshot180.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jbipwipscreenshot180.png "Jbipwipscreenshot180.png")
 
 # JBiplane Development Diary continued
 
@@ -26,7 +26,7 @@ After some initial hints from Tricky on the forums, I spent some time wrangling 
 
 #### Halifax and London RISC OS
 
-![](./images/RISCOs.png "RISCOs.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/RISCOs.png "RISCOs.png")
 
 I went along to a Stardot Halifax meet up in August where I got to meet a lot of clever people working on their hardware projects. Kees, RetroSoftware’s renowned Atom game extraordinaire was in attendance. He took me through his ingenious code for his Atomic Flappy birds game and was very encouraging when I showed him my efforts. I didn’t get much coding done – I was having too much fun finding out what everyone else was up to! But it gave me a bit of a boost to carry on with the game. In September I went to the London RISC OS show, where Tricky was demo-ing his trio of excellent conversions – Carnivale, Phoenix and AstroBlaster. I ran my game code on a real Beeb and discovered it didn’t run properly. It seemed that I wasn’t handling interrupts properly, which B-EM forgave, unlike the real thing.
 

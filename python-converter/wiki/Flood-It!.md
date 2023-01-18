@@ -26,11 +26,11 @@ Further unofficial improvements have been discussed and posted [here](http://sta
 
 BBC
 
-[Flood-It! v0.95](./images/Flood-it-v095.zip "wikilink") - DFS disc image
+[Flood-It! v0.95](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Flood-it-v095.zip "wikilink") - DFS disc image
 
-[Flood-It! v0.9](./images/Flood-it-v09.zip "wikilink") - DFS disc image
+[Flood-It! v0.9](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Flood-it-v09.zip "wikilink") - DFS disc image
 
-[Flood-It! v0.7 alpha](./images/Flood-it.zip "wikilink") - DFS disc image
+[Flood-It! v0.7 alpha](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Flood-it.zip "wikilink") - DFS disc image
 
 PC
 

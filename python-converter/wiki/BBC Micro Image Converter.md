@@ -20,33 +20,33 @@ Electron User Group Review of Image2BBC 0.7: <http://www.acornelectron.co.uk/eug
 
 ### Downloads
 
-![](./images/ImportTTX.png "ImportTTX.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/ImportTTX.png "ImportTTX.png")
 
 **_Image2BBC: ImportTTX 3.1_** Part of the next version of _Image2BBC_, _ImportTTX_ allows the conversion of BBC Micro Mode 7 screens to BMP, JPG and PNG images.
 
 Sun June 8, 2014 9:32 pm: <http://www.dfstudios.co.uk/?dl_id=36>
 
-![](./images/Bbcimagecon020.png "Bbcimagecon020.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Bbcimagecon020.png "Bbcimagecon020.png")
 
 **_BBC Micro Image Converter for Windows 0.20 beta_**
 
 Latest "unofficial" release. See change log below.
 
-Fri Jun 15, 2007 1:42 pm: <http://www.dfstudios.co.uk/?dl_id=5> ([local mirror](./images/Image2BBC.zip "wikilink"))
+Fri Jun 15, 2007 1:42 pm: <http://www.dfstudios.co.uk/?dl_id=5> ([local mirror](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Image2BBC.zip "wikilink"))
 
-![](./images/Bbcimagecon0772.png "Bbcimagecon0772.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Bbcimagecon0772.png "Bbcimagecon0772.png")
 
 **_BBC Micro Image Converter for Windows 0.7.7.2 beta_**
 
 Last official release. Only converts from BBC Micro screen dumps to BMP.
 
-Thu Dec 29, 2005 11:46 am: <http://www.dfstudios.co.uk/?dl_id=4> ([local mirror](./images/BBCmicroimageconverter.zip "wikilink"))
+Thu Dec 29, 2005 11:46 am: <http://www.dfstudios.co.uk/?dl_id=4> ([local mirror](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BBCmicroimageconverter.zip "wikilink"))
 
 **_Slideshow DFS disc images_** Based on images that have been converted using early, pre-0.8, releases of Image2BBC converter.
 
-Sat Feb 10, 2007 9:11 pm: <http://www.dfstudios.co.uk/?dl_id=2> ([local mirror](./images/Converted images.zip "wikilink"))
+Sat Feb 10, 2007 9:11 pm: <http://www.dfstudios.co.uk/?dl_id=2> ([local mirror](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Converted images.zip "wikilink"))
 
-Fri Jan 05, 2007 9:30 am: <http://www.dfstudios.co.uk/?dl_id=3> ([local mirror](./images/Gallery.zip "wikilink"))
+Fri Jan 05, 2007 9:30 am: <http://www.dfstudios.co.uk/?dl_id=3> ([local mirror](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Gallery.zip "wikilink"))
 
 Just load either of the disc images into your favourite emulator and press Shift-Break to run it.
 
@@ -54,9 +54,9 @@ Just load either of the disc images into your favourite emulator and press Shift
 
 Some examples of images that have been converted from modern formats to BBC screen dumps using BBC Micro Image Converter:
 
-![](./images/Tmnt.png "fig:Tmnt.png") ![](Seven.png "fig:Seven.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Tmnt.png "fig:Tmnt.png") ![](Seven.png "fig:Seven.png")
 
-![](./images/Monument.png "fig:Monument.png") ![](./images/Bruce.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Monument.png "fig:Monument.png") ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Bruce.png)
 
 ### Change Log
 
@@ -190,7 +190,7 @@ _5th April 2015_
 
 Thanks to feedback I have received, the Mode 7 font has been amended for accuracy. Along with a number of improvements in the Mode 7 import code, the converter now also recognises the flash and conceal teletext control codes:
 
-![](./images/Eng test.ttx.gif "Eng_test.ttx.gif")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Eng test.ttx.gif "Eng_test.ttx.gif")
 
 _2nd April 2015_
 
@@ -262,7 +262,7 @@ _4th June 2009_
 
 The importing of BBC screens part of the program is nearing completion. Below is a snapshot of the current version showing the conversion of a Mode 7 or teletext screen.
 
-![](./images/import screen.png "import_screen.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/import screen.png "import_screen.png")
 
 The GUI will still need to be checked out under Linux and MacOS and any layout issues fixed.
 
@@ -310,11 +310,11 @@ _24th October 2008_
 
 Done a quick port of the latest code to Linux fixing a couple of issues along the way. Just to show that there is progress being made on the Linux version there is a screenshot below of the 'colourise image' function along with the current Windows version for comparison. There are some minor layout issues that still need to be addressed in the Linux version.
 
-![](./images/colorize image linux.png "fig:colorize image linux.png") ![](colorize image windows.png "fig:colorize_image_windows.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/colorize image linux.png "fig:colorize image linux.png") ![](colorize image windows.png "fig:colorize_image_windows.png")
 
 **UPDATE:** Also done a quick port to MacOS. Again, as with the Linux version, there are some minor issues with the layout that will need to be fixed:
 
-![](./images/colorize image macosx.png "colorize_image_macosx.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/colorize image macosx.png "colorize_image_macosx.png")
 
 _23rd October 2008_
 
@@ -324,7 +324,7 @@ _22nd October 2008_
 
 Added a 'colourise image' function to the 'image processing' component. As with the 'adjust image hue' it still needs a bit of refinement. Here is an example of the 'colourise image' functionality:
 
-![](./images/Colorize image.png "Colorize_image.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Colorize image.png "Colorize_image.png")
 
 _21st October 2008_
 
@@ -382,7 +382,7 @@ _2nd July 2008_
 
 Added edge enhancement routines to the 'image processing' component. As an example of this new feature take the following images:
 
-![](./images/MrBumpy.jpg "fig:MrBumpy.jpg") ![](MrBumpy1.png "fig:MrBumpy1.png") ![](MrBumpy2.png "fig:MrBumpy2.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MrBumpy.jpg "fig:MrBumpy.jpg") ![](MrBumpy1.png "fig:MrBumpy1.png") ![](MrBumpy2.png "fig:MrBumpy2.png")
 
 The image on the left is the original image, with the one in the middle being the image converted to Mode 4 without edge enhancement and the one on the right with edge enhancement. There is still some fine-tuning of the algorithm to be done and it still needs to be optimised.
 
@@ -390,7 +390,7 @@ Also made a minor improvement to the simple error diffusion dithering method.
 
 **UPDATE:** The edge enhancement routines are now completed and optimised. Added an option to get just the outline of an image, an example of which is below.
 
-![](./images/MrBumpy3.png "MrBumpy3.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MrBumpy3.png "MrBumpy3.png")
 
 _1st July 2008_
 
@@ -412,9 +412,9 @@ _26th June 2008_
 
 Added double height text functionality to the 'import teletext' component, made a number of optimisations and fixed a few bugs. There are two modes for the import teletext function which are low resolution and high resolution. An example of the import teletext function in both modes is below:
 
-![](./images/zoth small.png "zoth_small.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/zoth small.png "zoth_small.png")
 
-![](./images/zoth big.png "zoth_big.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/zoth big.png "zoth_big.png")
 
 _25th June 2008_
 
@@ -432,7 +432,7 @@ _20th June 2008_
 
 The dithering algorithm has been updated to produce greatly improved images, especially at the higher dithering strengths. As an example the picture of the baboon below in the middle is the original image with the one on the left being the original dithering algorithm and the one on the right being the new algorithm.
 
-![](./images/Mandrill old dither.png "fig:Mandrill old dither.png") ![](Mandrill.png "fig:Mandrill.png") ![](Mandrill new dither.png "fig:Mandrill_new_dither.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Mandrill old dither.png "fig:Mandrill old dither.png") ![](Mandrill.png "fig:Mandrill.png") ![](Mandrill new dither.png "fig:Mandrill_new_dither.png")
 
 As you can see the image produced by the new algorithm is much more faithful to the original with the original algorithm producing a more "washed out" effect. The dithering settings used in both cases for these were Stucki at 100% dither strength with serpentine dithering on. The output image settings were set to Mode 1 using black, red, green and cyan.
 
@@ -452,4 +452,4 @@ The program is currently being rewritten almost from the ground up to make the c
 
 Added a new option to convert images to a colourised 'greyscale' allowing greyscale images to be displayed on black and white displays, an example of which is below. The image on the left is the colourised 'greyscale' image and the image on the right is how it would appear on a black and white display.
 
-![](./images/Col gs1.png "fig:Col gs1.png") ![](Col gs2.png "fig:Col_gs2.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Col gs1.png "fig:Col gs1.png") ![](Col gs2.png "fig:Col_gs2.png")

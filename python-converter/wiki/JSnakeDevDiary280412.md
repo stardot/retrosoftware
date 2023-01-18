@@ -14,7 +14,7 @@ I'm now using 1k of RAM to store the Snake segment X Y coordinates, which means 
 
 To work out the length of the snake at the time of losing a life I count the number of bytes between the tail and head pointers - as per this back of envelope scribble here (keeping it old school). Note: I then divide the result by two to give the number of snake segments (each snake segment is recorded in the 1k circular list as X Y ords which = 2 bytes per segment)
 
-![](./images/backofenvelope.jpg "backofenvelope.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/backofenvelope.jpg "backofenvelope.jpg")
 
 But there are a couple of other cases to watch out for:
 

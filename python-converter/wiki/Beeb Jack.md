@@ -22,7 +22,7 @@ Progress has been fairly sporadic up until now but I'm hoping to finish it event
 
 ##### Downloads
 
-[_Beeb Jack_ early WIP demo of game engine: .ssd disc image](./images/Beebjackj20130810.zip "wikilink")
+[_Beeb Jack_ early WIP demo of game engine: .ssd disc image](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebjackj20130810.zip "wikilink")
 
 A quick tech demo for the BBC Micro - lots of rough edges, but includes all the levels and platform collision detection.
 
@@ -34,13 +34,13 @@ A quick tech demo for the BBC Micro - lots of rough edges, but includes all the 
 
 <tr class="odd">
 
-<td><p>![](./images/Beebjacktitle.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebjacktitle.png)
 
 <strong><em>Beeb Jack</em> Title screen</strong><br />
 
 <em>Posted: 12:25, 17 Aug 2013</em></p></td>
 
-<td><p>![](./images/Beebjackround1.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebjackround1.png)
 
 <strong><em>Beeb Jack</em> Round 1</strong><br />
 
@@ -50,13 +50,13 @@ A quick tech demo for the BBC Micro - lots of rough edges, but includes all the 
 
 <tr class="even">
 
-<td><p>![](./images/Beebjackround2.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebjackround2.png)
 
 <strong><em>Beeb Jack</em> Round 2</strong><br />
 
 <em>Posted: 12:23, 17 Aug 2013</em></p></td>
 
-<td><p>![](./images/Beebjackround3.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebjackround3.png)
 
 <strong><em>Beeb Jack</em> Round 3</strong><br />
 
@@ -66,13 +66,13 @@ A quick tech demo for the BBC Micro - lots of rough edges, but includes all the 
 
 <tr class="odd">
 
-<td><p>![](./images/Beebjackround4.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebjackround4.png)
 
 <strong><em>Beeb Jack</em> Round 4</strong><br />
 
 <em>Posted: 12:24, 17 Aug 2013</em></p></td>
 
-<td><p>![](./images/Beebjackround5.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Beebjackround5.png)
 
 <strong><em>Beeb Jack</em> Round 5</strong><br />
 

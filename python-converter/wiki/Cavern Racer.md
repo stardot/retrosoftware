@@ -20,17 +20,17 @@ _Cavern Racer_ was originally conceived during a discussion at [The Videolympics
 
 ##### Downloads
 
-[Cavern Racer v0.1 Tech Demo disc version (.ssd)](./images/CavernRacer v0.1 tech demo.zip "wikilink")
+[Cavern Racer v0.1 Tech Demo disc version (.ssd)](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CavernRacer v0.1 tech demo.zip "wikilink")
 
 A quick tech demo for the BBC Micro. Full Mode 4 software scrolling - running at a pretty much rock-solid 50 frames per second. It's interactive, too - you can change the speed with the Z and X keys. You start to get some graphical glitches if you really increase it to breakneck speeds, that's just because the Beeb is having trouble "racing the beam" down the screen when drawing it :)
 
-[Usborne Computer Space Games - Death Valley disc version (.ssd)](./images/UsborneComputerSpaceGames-DeathValley.zip "wikilink")
+[Usborne Computer Space Games - Death Valley disc version (.ssd)](../../retrosoftwarecouk_wiki-20160918-wikidump/images/UsborneComputerSpaceGames-DeathValley.zip "wikilink")
 
 Before you start, the computer will ask you for the width of the valley - start at 15 and work your way down. 8 is considered quite difficult according to the book. Steer with Q to go left and P to go right.
 
 ##### Screenshots
 
-![Cavern Racer v0.1 Tech Demo, Posted: 09:38, 07 Aug 2012](./images/Cavernracertechdemo.png "fig:Cavern Racer v0.1 Tech Demo, Posted: 09:38, 07 Aug 2012")
+![Cavern Racer v0.1 Tech Demo, Posted: 09:38, 07 Aug 2012](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Cavernracertechdemo.png "fig:Cavern Racer v0.1 Tech Demo, Posted: 09:38, 07 Aug 2012")
 
 **_Cavern Racer v0.1 Tech Demo_**
 

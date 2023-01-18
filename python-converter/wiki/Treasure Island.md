@@ -84,7 +84,7 @@ Main player sprite is currently able to move freely around the screen but no col
 
 <tr class="odd">
 
-<td><p>![](./images/Treasure Island title screen.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Treasure Island title screen.png)
 
 <strong>Treasure Island BBC title screen</strong><br />
 
@@ -92,7 +92,7 @@ Main player sprite is currently able to move freely around the screen but no col
 
 </p></td>
 
-<td><p>![](./images/Treasure Island high score.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Treasure Island high score.png)
 
 <strong>Treasure Island BBC high score screen</strong><br />
 
@@ -104,7 +104,7 @@ Main player sprite is currently able to move freely around the screen but no col
 
 <tr class="even">
 
-<td><p>![](./images/Treasure Island elk title screen.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Treasure Island elk title screen.png)
 
 <strong>Treasure Island Electron title screen</strong><br />
 
@@ -112,7 +112,7 @@ Main player sprite is currently able to move freely around the screen but no col
 
 </p></td>
 
-<td><p>![](./images/Treasure Island screenshot 2c.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Treasure Island screenshot 2c.png)
 
 <strong>Treasure Island BBC screen 2c</strong><br />
 
@@ -124,7 +124,7 @@ Main player sprite is currently able to move freely around the screen but no col
 
 <tr class="odd">
 
-<td><p>![](./images/Treasure Island screenshot 4g.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Treasure Island screenshot 4g.png)
 
 <strong>Treasure Island BBC screen 4g</strong><br />
 
@@ -132,7 +132,7 @@ Main player sprite is currently able to move freely around the screen but no col
 
 </p></td>
 
-<td><p>![](./images/Treasure Island screenshot 2d.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Treasure Island screenshot 2d.png)
 
 <strong>Treasure Island BBC screen 2d</strong><br />
 
@@ -144,7 +144,7 @@ Main player sprite is currently able to move freely around the screen but no col
 
 <tr class="even">
 
-<td><p>![](./images/Treasure Island screenshot 1h.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Treasure Island screenshot 1h.png)
 
 <strong>Treasure Island BBC screen 1h</strong><br />
 
@@ -152,7 +152,7 @@ Main player sprite is currently able to move freely around the screen but no col
 
 </p></td>
 
-<td><p>![](./images/Treasure Island screenshot 6c.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Treasure Island screenshot 6c.png)
 
 <strong>Treasure Island BBC screen 6c</strong><br />
 

@@ -28,13 +28,13 @@ COMING SOON
 
 <tr class="odd">
 
-<td><p>![](./images/banditkingsforancientacorns.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/banditkingsforancientacorns.png)
 
 <strong><em>Bandit Kings for Ancient Acorns</em> WIP screenshot</strong><br />
 
 <em>Posted: 11:52, 19 Oct 2012</em></p></td>
 
-<td><p>![](./images/Banditkingsforancientacorns2.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Banditkingsforancientacorns2.png)
 
 <strong><em>Bandit Kings for Ancient Acorns</em> WIP screenshot #2</strong><br />
 
@@ -100,7 +100,7 @@ Got sidetracked again, but this time a I suppose it was a constructive distracti
 
 While checking the artwork on BKOAC I noticed it is actually built up from the same 8 color scheme as the Beeb uses. So I did some experiments how that would look.
 
-![](./images/swift.png "swift.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/swift.png "swift.png")
 
 Actually It's pretty cool, but the hexes will be squashed and way to big in my view.
 

@@ -4,7 +4,7 @@ One part of the development process I've not yet gone into much is the tools I w
 
 I decided that a Windows screen editor would be a good idea, as it beats drawing levels on graph paper, and entering their data meticulously by hand. Below you can see the results:
 
-![Screenshot of the map editor](./images/blurpmapeditor.png "Screenshot of the map editor")
+![Screenshot of the map editor](../../retrosoftwarecouk_wiki-20160918-wikidump/images/blurpmapeditor.png "Screenshot of the map editor")
 
 As you might remember, Blurp stores its screens, not as a 2d array of tiles, but "Chuckie Egg" style, by specifying a list of platforms, columns and blocks with their positions, lengths and which scenery tiles to use. One thing I wanted to do was to create an application which could load/save screen definitions in plain text XML, with an 'export' option (exactly like BeebSpriter) to output a binary Beeb-ready file. This of course is well-compressed in order that I can fit loads of levels in.
 

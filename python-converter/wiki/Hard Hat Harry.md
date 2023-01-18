@@ -56,19 +56,19 @@ Stripey Paint - This elusive object grants Harry invincibility and impressive sk
 
 ##### Downloads
 
-[Hard Hat Harry - BBC Disc version](./images/HardHatHarry-Disc.zip "wikilink")
+[Hard Hat Harry - BBC Disc version](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HardHatHarry-Disc.zip "wikilink")
 
-[Hard Hat Harry - BBC Tape version](./images/HardHatHarry-Tape.zip "wikilink")
+[Hard Hat Harry - BBC Tape version](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HardHatHarry-Tape.zip "wikilink")
 
-[Hard Hat Harry - BBC version P65/Ophis GPL'd source code](./images/HardHatHarry-Source.zip "wikilink")
+[Hard Hat Harry - BBC version P65/Ophis GPL'd source code](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HardHatHarry-Source.zip "wikilink")
 
-[Hard Hat Harry - Electron Tape version](./images/HardHatHarry-ElectronTape.zip "wikilink")
+[Hard Hat Harry - Electron Tape version](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HardHatHarry-ElectronTape.zip "wikilink")
 
-[Hard Hat Harry - Electron DFS version](./images/HardHatHarry-ElectronDFS.zip "wikilink")
+[Hard Hat Harry - Electron DFS version](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HardHatHarry-ElectronDFS.zip "wikilink")
 
-[Hard Hat Harry - Electron ADFS version](./images/HardHatHarry-ElectronADFS.zip "wikilink")
+[Hard Hat Harry - Electron ADFS version](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HardHatHarry-ElectronADFS.zip "wikilink")
 
-[Hard Hat Harry - Electron version P65/Ophis GPL'd source code](./images/HardHatHarry-ElectronSource.zip "wikilink")
+[Hard Hat Harry - Electron version P65/Ophis GPL'd source code](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HardHatHarry-ElectronSource.zip "wikilink")
 
 ##### BBC Micro / Electron Development Diary
 
@@ -148,7 +148,7 @@ A [Development Diary](HardHatHarryBBCMicroElectronDiary "wikilink") recording th
 
 ##### Downloads
 
-[`Hard` `Hat` `Harry` `Acorn` `Atom` `disc/tape` `images` `and` `2500AD` `cross` `compiler` `6502` `version` `assembler` `source` `code`](./images/Atom Hard Hat Harry.zip "wikilink")
+[`Hard` `Hat` `Harry` `Acorn` `Atom` `disc/tape` `images` `and` `2500AD` `cross` `compiler` `6502` `version` `assembler` `source` `code`](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Atom Hard Hat Harry.zip "wikilink")
 
 ##### Port Details
 

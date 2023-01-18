@@ -36,9 +36,9 @@ Xavier Tardy's _Highly Optimized Pure Arm Code Shoot'Them Up for the Archimedes 
 
 ### Unpublished Archimedes Demo from circa 1992/93
 
-Xavier Tardy's [1992/93 Unpublished Archimedes Demo](./images/!preview.zip "wikilink"), RISC OS archive packed with PackDir then ZIPped.
+Xavier Tardy's [1992/93 Unpublished Archimedes Demo](../../retrosoftwarecouk_wiki-20160918-wikidump/images/!preview.zip "wikilink"), RISC OS archive packed with PackDir then ZIPped.
 
-Xavier Tardy's [1992/93 Unpublished Archimedes Demo](./images/preview.zip "wikilink"), ZIPped .adf ADFS disc image.
+Xavier Tardy's [1992/93 Unpublished Archimedes Demo](../../retrosoftwarecouk_wiki-20160918-wikidump/images/preview.zip "wikilink"), ZIPped .adf ADFS disc image.
 
 You'll need a TV, RGB monitor, or a real multiscan monitor as the screen mode is 50 Hz. The demo uses an independent module to set up this resolution, so it's only a matter of replacing it with your own if you want another frequency. For example I remember creating a 116 Hz mode for my very old 22" inch VGA/false multisync monitor.
 

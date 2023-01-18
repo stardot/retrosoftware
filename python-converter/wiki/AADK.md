@@ -1,6 +1,6 @@
 # The Arcade Adventure Design Kit by Christopher Dewhurst
 
-![](./images/AADKcover.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AADKcover.png)
 
 ### Licence
 
@@ -22,11 +22,11 @@ It is hoped that as the user-base grows, Arcade Adventurers across the globe wil
 
 ### Downloads
 
-[The Arcade Adventure Design Kit](./images/AADKrel.zip "wikilink"), for either the 8-bit Acorn machines - BBC Micro B, Electron, BBC Master 128 and Compact or the 32-bit machines running RISC OS and BBC BASIC V (Archimedes, A series, RiscPC, Iyonix etc).
+[The Arcade Adventure Design Kit](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AADKrel.zip "wikilink"), for either the 8-bit Acorn machines - BBC Micro B, Electron, BBC Master 128 and Compact or the 32-bit machines running RISC OS and BBC BASIC V (Archimedes, A series, RiscPC, Iyonix etc).
 
 ### Screenshots
 
-![](./images/AADKscreenshots.png "AADKscreenshots.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AADKscreenshots.png "AADKscreenshots.png")
 
 ### Complete Example Adventure: Castle Blacknight
 
@@ -38,11 +38,11 @@ You have entered an enchanted castle and must find your way out if you are to ge
 
 <tr class="odd">
 
-<td><p>![](./images/AADKbbcelectronstd.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AADKbbcelectronstd.png)
 
 <em>Posted: Apr 22, 2009</em></p></td>
 
-<td><p>![](./images/AADKbbcmenhanced.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AADKbbcmenhanced.png)
 
 <em>Posted: Apr 22, 2009</em></p></td>
 

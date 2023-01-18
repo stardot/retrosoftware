@@ -34,13 +34,13 @@ Lunches are now implemented - though as my attempts at drawing lunchboxes looked
 
 First enemy implemented - Big Kong. He's sort of recurring throughout the game and he lobs barrels at you. The speed at which he does this means this is probably a later level...
 
-![](./images/HHH game kong.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HHH game kong.png)
 
 #### 13 January 2011
 
 More enemies added, plus you can die now. Kong's level is definitely being put back, it's \_lethal\_! Only have 294 bytes left at the moment, so some crunching will have to happen tomorrow.
 
-![](./images/HHH game lvl1.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/HHH game lvl1.png)
 
 #### 14 January 2011
 

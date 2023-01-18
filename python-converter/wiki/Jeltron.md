@@ -42,7 +42,7 @@ The main things that the game needs to be playable is to have all of the alien w
 
 ### Downloads
 
-_21/06/2011:_ [Jeltron-demo-beebasm-src.zip](./images/Jeltron-demo-beebasm-src.zip "wikilink") - modern updated GPL'd Jeltron BeebAsm source code, data, two line make.bat and Acorn DFS 5.25" SSD disc image
+_21/06/2011:_ [Jeltron-demo-beebasm-src.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jeltron-demo-beebasm-src.zip "wikilink") - modern updated GPL'd Jeltron BeebAsm source code, data, two line make.bat and Acorn DFS 5.25" SSD disc image
 
 Here are the data files and the BeebAsm 1.4 source code for the Jeltron demo - I have included a disc image and .bat that will require your BeebAsm and BeebEm (any decent emulator should be OK) paths adding.
 
@@ -50,7 +50,7 @@ The original demo loads the data and then splats over the middle with code, so i
 
 PS I would like to thank RichTW for BeebAsm, it only took three hours to port from original BBC basic/asm to BeebAsm!
 
-_01/04/2011:_ [JELTRON-demo-make.zip](./images/JELTRON-demo-make.zip "wikilink") - early disc image of the Jeltron demo incl. GPL'd original source code (Acorn DFS 5.25" SSD image)
+_01/04/2011:_ [JELTRON-demo-make.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JELTRON-demo-make.zip "wikilink") - early disc image of the Jeltron demo incl. GPL'd original source code (Acorn DFS 5.25" SSD image)
 
 _To build:_
 
@@ -68,7 +68,7 @@ _To run:_
 
 `*RTYPE`
 
-_01/04/2011:_ [JELTRON.zip](./images/JELTRON.zip "wikilink") - early disc image of the Jeltron demo (Acorn DFS 5.25" SSD image)
+_01/04/2011:_ [JELTRON.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JELTRON.zip "wikilink") - early disc image of the Jeltron demo (Acorn DFS 5.25" SSD image)
 
 ### Sample Screenshots
 
@@ -78,7 +78,7 @@ _01/04/2011:_ [JELTRON.zip](./images/JELTRON.zip "wikilink") - early disc image 
 
 <tr class="odd">
 
-<td><p>![](./images/Jeltron1.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jeltron1.png)
 
 <strong>Jeltron in-game screenshot #1</strong><br />
 
@@ -96,13 +96,13 @@ _01/04/2011:_ [JELTRON.zip](./images/JELTRON.zip "wikilink") - early disc image 
 
 <tr class="even">
 
-<td><p>![](./images/Jeltron3.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jeltron3.png)
 
 <strong>Jeltron in-game screenshot #3</strong><br />
 
 <em>Posted: 03 Mar 2012</em></p></td>
 
-<td><p>![](./images/Jeltron4.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jeltron4.png)
 
 <strong>Jeltron in-game screenshot #4</strong><br />
 
@@ -112,13 +112,13 @@ _01/04/2011:_ [JELTRON.zip](./images/JELTRON.zip "wikilink") - early disc image 
 
 <tr class="odd">
 
-<td><p>![](./images/Jeltron5.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jeltron5.png)
 
 <strong>Jeltron in-game screenshot #5</strong><br />
 
 <em>Posted: 03 Mar 2012</em></p></td>
 
-<td><p>![](./images/Jeltron6.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jeltron6.png)
 
 <strong>Jeltron in-game screenshot #6</strong><br />
 

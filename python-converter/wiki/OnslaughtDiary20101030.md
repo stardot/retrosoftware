@@ -6,7 +6,7 @@ I remembered that, when I found a version of Onslaught to send to the archive, I
 
 The version of source code seems pretty up-to-date, in fact the only things that are missing seem to be the crappy high-score table I knocked up quickly for an Acorn User demo (no big loss), and implementation of 'lives' so that you'll die when you've used them all up. And, happily, it assembles and runs just fine! This means that, for the moment, I can try making changes to the source code on an emulated Beeb, to see how much room I have for improvements, both space- and speed-wise.
 
-![Sprites I found on the disc image in the archive](./images/OnslaughtSprites.png "Sprites I found on the disc image in the archive")
+![Sprites I found on the disc image in the archive](../../retrosoftwarecouk_wiki-20160918-wikidump/images/OnslaughtSprites.png "Sprites I found on the disc image in the archive")
 
 I decided to write a little program to extract the sprites from the binary files on the disc, and here are the results on the right- imagine my surprise to find a monster type (this evil Pac-man type creature at the bottom) which was never used in the game! I think the intention was that he was going to be emitted from a generator very rapidly, one after the other, to form a chain of creatures, caterpillar style - but funny to think that I don't even remember drawing it! Right now, my plan is to have very many different types of monster, more than 5 shown here, each with its own type of logic and movement.
 

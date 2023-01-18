@@ -4,7 +4,7 @@
 
 [Discuss jBiplane](http://www.retrosoftware.co.uk/forum/viewtopic.php?f=19&t=905)
 
-![](./images/NEWBPHI sml.png "fig:NEWBPHI_sml.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/NEWBPHI sml.png "fig:NEWBPHI_sml.png")
 
 ### Download the game
 

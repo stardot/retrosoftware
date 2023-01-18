@@ -62,11 +62,11 @@ The archives for the BBC & Electron versions contain full instructions for the l
 
 The disc image will autoboot or can be run using ' CH."LOADER" '.
 
-<span style="font-variant:small-caps">BBC Micro Model B/Master 128:</span> [MazezaM Complete v1.0](./images/MazezaM Complete v1.0 BBC.zip "wikilink") - _Contains 4 level sets and level designer. The archive also contains separate tape images of the 4 level sets, plus artwork for both disk and tape versions and an 'Instructions' insert. Finally, after being thoroughly inspired by Jason Kelk's type-in game in Retro Gamer \#100, I have also thrown in a type-in listing for them, although I don't expect anyone to be foolhardy enough to ever use them._
+<span style="font-variant:small-caps">BBC Micro Model B/Master 128:</span> [MazezaM Complete v1.0](../../retrosoftwarecouk*wiki-20160918-wikidump/images/MazezaM Complete v1.0 BBC.zip "wikilink") - \_Contains 4 level sets and level designer. The archive also contains separate tape images of the 4 level sets, plus artwork for both disk and tape versions and an 'Instructions' insert. Finally, after being thoroughly inspired by Jason Kelk's type-in game in Retro Gamer \#100, I have also thrown in a type-in listing for them, although I don't expect anyone to be foolhardy enough to ever use them.*
 
-<span style="font-variant:small-caps">Electron:</span> [MazezaM\_Elk\_Complete\_v1.0](./images/MazezaM Elk Complete v1.0.zip "wikilink") - _Now with designer, joystick support and nicer selection screen too._
+<span style="font-variant:small-caps">Electron:</span> [MazezaM\_Elk\_Complete\_v1.0](../../retrosoftwarecouk*wiki-20160918-wikidump/images/MazezaM Elk Complete v1.0.zip "wikilink") - \_Now with designer, joystick support and nicer selection screen too.*
 
-<span style="font-variant:small-caps">Source code:</span> [MazezaM source files](./images/MazezaM sources BBC %26 Elk.zip "wikilink") - _Complete source files for both BBC & Electron versions_
+<span style="font-variant:small-caps">Source code:</span> [MazezaM source files](../../retrosoftwarecouk*wiki-20160918-wikidump/images/MazezaM sources BBC %26 Elk.zip "wikilink") - \_Complete source files for both BBC & Electron versions*
 
 ###### Older versions
 
@@ -74,43 +74,43 @@ The disc image will autoboot or can be run using ' CH."LOADER" '.
 
 The disc image will autoboot or can be run using ' CH."MENU" '.
 
-[MazezaM v2.1](./images/MazezaMGemini 2 1.zip "wikilink") - _A couple of levels shifted about for a steadier learning curve and level 10 made a wee bit sneakier._
+[MazezaM v2.1](../../retrosoftwarecouk*wiki-20160918-wikidump/images/MazezaMGemini 2 1.zip "wikilink") - \_A couple of levels shifted about for a steadier learning curve and level 10 made a wee bit sneakier.*
 
-[MazezaM v2.0](./images/MazezaMGemini.zip "wikilink") - _Version 2 includes another 39 levels to make your brain ache just a little bit more._
+[MazezaM v2.0](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaMGemini.zip "wikilink") - _Version 2 includes another 39 levels to make your brain ache just a little bit more._
 
 'The disc image will autoboot or can be run using ' CH."LOADER" '.
 
-[MazezaM v1.33](./images/MazezaM BBC v1 33.zip "wikilink") - ''Another improvement inspired by work on the Electron version. The ghosting effect was much less noticeable on the Beeb but, once you know it's there ... ''
+[MazezaM v1.33](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaM BBC v1 33.zip "wikilink") - ''Another improvement inspired by work on the Electron version. The ghosting effect was much less noticeable on the Beeb but, once you know it's there ... ''
 
-[MazezaM v1.32](./images/MazezaM BBC v1 32.zip "wikilink") - ''While working on the Electron version I had to come up with a faster routine for drawing the background bricks. This new routine was subsequently used in the Beeb version too. ''
+[MazezaM v1.32](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaM BBC v1 32.zip "wikilink") - ''While working on the Electron version I had to come up with a faster routine for drawing the background bricks. This new routine was subsequently used in the Beeb version too. ''
 
-[MazezaM v1.31](./images/MazezaM BBC v1 31.zip "wikilink") - ''Found the bug preventing the game from running on the Master. ''
+[MazezaM v1.31](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaM BBC v1 31.zip "wikilink") - ''Found the bug preventing the game from running on the Master. ''
 
-[MazezaM v1.3](./images/MazezaM BBC v1 3.zip "wikilink") - _I have moved the code down 1 page to &1800 to make room for my 'The Wumpus Room' level and a little bit of future tinkering. This also entailed a small amount of recoding as it is wider than all the other levels. So long as I haven't made any calamatous mistakes and this survives the no doubt vigorous play-testing that it will receive, then it should be the version promoted to 'release' status._
+[MazezaM v1.3](../../retrosoftwarecouk*wiki-20160918-wikidump/images/MazezaM BBC v1 3.zip "wikilink") - \_I have moved the code down 1 page to &1800 to make room for my 'The Wumpus Room' level and a little bit of future tinkering. This also entailed a small amount of recoding as it is wider than all the other levels. So long as I haven't made any calamatous mistakes and this survives the no doubt vigorous play-testing that it will receive, then it should be the version promoted to 'release' status.*
 
-[MazezaM v1.2](./images/MazezaM BBC v1 2.zip "wikilink") - _Just a few minor tweaks this one. Moved some storage into zero page for added oomph and also saved a few bytes in the process._
+[MazezaM v1.2](../../retrosoftwarecouk*wiki-20160918-wikidump/images/MazezaM BBC v1 2.zip "wikilink") - \_Just a few minor tweaks this one. Moved some storage into zero page for added oomph and also saved a few bytes in the process.*
 
-[MazezaM v1.1](./images/MazezaM BBC v1 1.zip "wikilink") - _Thanks to Pitfall and Dave M, the 'Up' and 'Down' keys have now been remapped to make them more Beeb-like, as has the 'Restart' function which is now via the 'Esc' key. Added spanky new 'Retro Software' loading screen. Saved a few bytes. Added a few more. Now have 15 bytes free._
+[MazezaM v1.1](../../retrosoftwarecouk*wiki-20160918-wikidump/images/MazezaM BBC v1 1.zip "wikilink") - \_Thanks to Pitfall and Dave M, the 'Up' and 'Down' keys have now been remapped to make them more Beeb-like, as has the 'Restart' function which is now via the 'Esc' key. Added spanky new 'Retro Software' loading screen. Saved a few bytes. Added a few more. Now have 15 bytes free.*
 
-[MazezaM v1.0](./images/MazezaM BBC.zip "wikilink")
+[MazezaM v1.0](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaM BBC.zip "wikilink")
 
-[MazezaM In Da 80s](./images/MazezaMInDa80s.zip "wikilink") - _A special set created in honour of the 2011 event._
+[MazezaM In Da 80s](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaMInDa80s.zip "wikilink") - _A special set created in honour of the 2011 event._
 
 <span style="font-variant:small-caps">Electron</span>
 
-[MazezaM\_All-In-One\_Elk v1.0](./images/MazezaM All-In-One Elk v1.0.zip "wikilink") - _All 4 level sets from the Beeb version in one place plus tape images and tape artwork._
+[MazezaM\_All-In-One\_Elk v1.0](../../retrosoftwarecouk*wiki-20160918-wikidump/images/MazezaM All-In-One Elk v1.0.zip "wikilink") - \_All 4 level sets from the Beeb version in one place plus tape images and tape artwork.*
 
-[MazezaM\_Elk v2.1](./images/MazezaMElk 2 1.zip "wikilink") - _The levels in set 1 have now been adjusted in line with the Beeb version._
+[MazezaM\_Elk v2.1](../../retrosoftwarecouk*wiki-20160918-wikidump/images/MazezaMElk 2 1.zip "wikilink") - \_The levels in set 1 have now been adjusted in line with the Beeb version.*
 
-[MazezaM\_Elk v2.0](./images/MazezaMElk 2 0.zip "wikilink") - ''Now comes with MazezaM II - Monstrous MazezaM ''
+[MazezaM\_Elk v2.0](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaMElk 2 0.zip "wikilink") - ''Now comes with MazezaM II - Monstrous MazezaM ''
 
-[MazezaM\_Elk v1.21](./images/MazezaMElk 1 21.zip "wikilink") - ''Put back the missing !BOOT file. ''
+[MazezaM\_Elk v1.21](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaMElk 1 21.zip "wikilink") - ''Put back the missing !BOOT file. ''
 
-[MazezaM\_Elk v1.2](./images/MazezaMElk 1 2.zip "wikilink") - ''Got rid of the nasty ghosting which occurred during scrolling. ''
+[MazezaM\_Elk v1.2](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaMElk 1 2.zip "wikilink") - ''Got rid of the nasty ghosting which occurred during scrolling. ''
 
-[MazezaM\_Elk v1.1](./images/MazezaMElk 1 1.zip "wikilink") - ''Prettier title screen, more consistent movement speed and less hanging around at the end of a level. ''
+[MazezaM\_Elk v1.1](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaMElk 1 1.zip "wikilink") - ''Prettier title screen, more consistent movement speed and less hanging around at the end of a level. ''
 
-[MazezaM_Elk v1.0](./images/MazezaMElk.zip "wikilink") - ''A little rougher round the edges, but working. ''
+[MazezaM_Elk v1.0](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MazezaMElk.zip "wikilink") - ''A little rougher round the edges, but working. ''
 
 ##### Screenshots
 

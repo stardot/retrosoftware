@@ -24,7 +24,7 @@ The images below show the problem: the initial view of the level looks fine but,
 
 |-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 
-| ![Correctly drawn bank 1 screen.](./images/2013-04-14-misdraw1.png "Correctly drawn bank 1 screen.") | ![Incorrectly drawn bank 2 screen.](2013-04-14-misdraw2.png "Incorrectly drawn bank 2 screen.") |
+| ![Correctly drawn bank 1 screen.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2013-04-14-misdraw1.png "Correctly drawn bank 1 screen.") | ![Incorrectly drawn bank 2 screen.](2013-04-14-misdraw2.png "Incorrectly drawn bank 2 screen.") |
 
 | **The start of a level correctly drawn on bank 1 (left), but incorrectly drawn on bank 2 (right).** |
 
@@ -52,7 +52,7 @@ I'm not terribly happy with the jumping motion in the game at the moment. I mana
 
 |----------------------------------------------------------------------------------------------------------------|
 
-| ![Another character out for a test run.](./images/2013-04-15-alt-character.png "Another character out for a test run.") |
+| ![Another character out for a test run.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2013-04-15-alt-character.png "Another character out for a test run.") |
 
 | **Another character out for a test run.** |
 
@@ -78,7 +78,7 @@ While in the process of figuring out how to place monsters on the level, I tarte
 
 |------------------------------------------------------------------------------|
 
-| ![An updated panel design.](./images/Panel-2013-04-23.png "An updated panel design.") |
+| ![An updated panel design.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Panel-2013-04-23.png "An updated panel design.") |
 
 | **An updated panel design.** |
 
@@ -110,7 +110,7 @@ The monsters were appearing in unexpected places, even when the monster data was
 
 |------------------------------------------------------------------------------------|
 
-| ![Part of the updated map.](./images/2013-05-13-map-update2.png "Part of the updated map.") |
+| ![Part of the updated map.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2013-05-13-map-update2.png "Part of the updated map.") |
 
 | **Part of the updated map.** |
 
@@ -124,7 +124,7 @@ After a detour in which the new encoding played pretty badly with the existing w
 
 |---------------------------------------------------------------------------------------------|
 
-| ![Two monsters show up for work.](./images/2013-05-17-monsters.png "Two monsters show up for work.") |
+| ![Two monsters show up for work.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2013-05-17-monsters.png "Two monsters show up for work.") |
 
 | **Two monsters show up for work.** |
 
@@ -138,7 +138,7 @@ When monsters appear on the edge of the screen, they are registered in a table t
 
 |-----------------------------------------------------------------------|
 
-| ![Uh oh, what's that?](./images/2013-05-19-monsters.png "Uh oh, what's that?") |
+| ![Uh oh, what's that?](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2013-05-19-monsters.png "Uh oh, what's that?") |
 
 | **Uh oh, what's that?** |
 
@@ -154,7 +154,7 @@ Now that monsters enter and leave the screen cleanly, it is time to make them mo
 
 Since the scrolling code relied on the Electron's ULA, it wouldn't run on the BBC Micro. I wondered how much work it would be to do the same bank switching trick on the Beeb and it turned out to be easy to swap out the Electron code for some to access the 6845 registers via the SHEILA memory-mapped addresses. The game runs faster and more smoothly on the Beeb, as you might expect, but not _that_ much faster. A diligent programmer would use the facilities provided by the 6845 in a more effective way for a Beeb version, of course.
 
-To demonstrate the current state of the game, I've made a new demo for people to try out: [CastleRaider-demo3.zip](./images/CastleRaider-demo3.zip "wikilink"). It contains UEF files for both the Electron and BBC Micro versions of the game. I may merge these versions at some point in the future and do some run-time checks to see which machine the user is running the game on. We'll see.
+To demonstrate the current state of the game, I've made a new demo for people to try out: [CastleRaider-demo3.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-demo3.zip "wikilink"). It contains UEF files for both the Electron and BBC Micro versions of the game. I may merge these versions at some point in the future and do some run-time checks to see which machine the user is running the game on. We'll see.
 
 #### Misbehaving Monsters (2013-05-23)
 
@@ -178,7 +178,7 @@ As if I don't have my hands full with keeping track of monsters and putting toge
 
 |------------------------------------------------------------------------------------------|
 
-| ![Be careful what you step on.](./images/2013-09-28-breakable.png "Be careful what you step on.") |
+| ![Be careful what you step on.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2013-09-28-breakable.png "Be careful what you step on.") |
 
 | **Be careful what you step on.** |
 
@@ -194,7 +194,7 @@ The latest features are good to have, as long as there's a convenient way to add
 
 |---------------------------------------------------------------------|
 
-| ![Exploring a cellar.](./images/2013-09-29-cellar.png "Exploring a cellar.") |
+| ![Exploring a cellar.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2013-09-29-cellar.png "Exploring a cellar.") |
 
 | **Exploring a cellar.** |
 
@@ -214,7 +214,7 @@ After changing some sprites to make the basement level look nice, I looked at a 
 
 |------------------------------------------------------------------------------------------|
 
-| ![The dungeon under the castle.](./images/2013-10-07-dungeon.png "The dungeon under the castle.") |
+| ![The dungeon under the castle.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2013-10-07-dungeon.png "The dungeon under the castle.") |
 
 | **The dungeon under the castle.** |
 
@@ -228,7 +228,7 @@ I haven't done much about the monster movement problem; just trying to make time
 
 |------------------------------------------------------------------------|
 
-| ![Interior decoration.](./images/2013-10-27-colours.png "Interior decoration.") |
+| ![Interior decoration.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2013-10-27-colours.png "Interior decoration.") |
 
 | **Interior decoration.** |
 

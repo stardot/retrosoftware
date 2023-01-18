@@ -2,7 +2,7 @@
 
 It's been a while since I updated the diary, so here's what I've been up to recently.
 
-![I ain't afraid of no mouse...](./images/Onslaughtaction.png "fig:I ain't afraid of no mouse...") Well, the good news is that most of the game code is working fine in its new framework, as you can see from the _crazy action shot_ to the left - the only things which remain are the handling of the time bar and the score, mostly because I haven't decided how I'd like them to be displayed yet.
+![I ain't afraid of no mouse...](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Onslaughtaction.png "fig:I ain't afraid of no mouse...") Well, the good news is that most of the game code is working fine in its new framework, as you can see from the _crazy action shot_ to the left - the only things which remain are the handling of the time bar and the score, mostly because I haven't decided how I'd like them to be displayed yet.
 
 It's taken me a little while longer than I expected because, rather than blindly bringing the code over from one codebase to the other, I've been making plenty of improvements along the way, both speed and space optimisations, and adding readability and a little more structure.
 

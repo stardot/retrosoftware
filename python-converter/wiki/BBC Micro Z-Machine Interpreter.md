@@ -12,7 +12,7 @@ This project aims to port the Z-Machine Interpreter to the BBC Micro, allowing y
 
 [Discuss BBC Micro Z-Machine Interpreter or Inform / Z-Machine v1.1 (Infocom v3) Development Environment](http://www.retrosoftware.co.uk/forum/viewforum.php?f=30)
 
-![](./images/BBCModelBZMachineInterpreter-zorkIz3.png "fig:BBCModelBZMachineInterpreter-zorkIz3.png") <img src="z-machineinterpreterv3logo.png" title="fig:BBC Micro Z-Machine v1.1 (Infocom v3) Interpreter" alt="BBC Micro Z-Machine v1.1 (Infocom v3) Interpreter" width="400" height="94" />
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BBCModelBZMachineInterpreter-zorkIz3.png "fig:BBCModelBZMachineInterpreter-zorkIz3.png") <img src="z-machineinterpreterv3logo.png" title="fig:BBC Micro Z-Machine v1.1 (Infocom v3) Interpreter" alt="BBC Micro Z-Machine v1.1 (Infocom v3) Interpreter" width="400" height="94" />
 
 === [BBC Micro Z-Machine v1.1 (Infocom v3) Interpreter](BBC_Micro_Z-Machine_Interpreter_v3 "wikilink") === _Target Systems:_ **BBC Microcomputer**
 
@@ -26,7 +26,7 @@ including 24 from _Infocom_ such as _Zork I_ and _Hitchhiker's Guide to the Gala
 
 fan creations.
 
-![](./images/BBCMasterZMachineInterpreter-Adventz5.png "fig:BBCMasterZMachineInterpreter-Adventz5.png") <img src="z-machineinterpreterv35logo.png" title="fig:BBC Micro Z-Machine v1.1 (Infocom v3-5) Interpreter" alt="BBC Micro Z-Machine v1.1 (Infocom v3-5) Interpreter" width="400" height="93" />
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BBCMasterZMachineInterpreter-Adventz5.png "fig:BBCMasterZMachineInterpreter-Adventz5.png") <img src="z-machineinterpreterv35logo.png" title="fig:BBC Micro Z-Machine v1.1 (Infocom v3-5) Interpreter" alt="BBC Micro Z-Machine v1.1 (Infocom v3-5) Interpreter" width="400" height="93" />
 
 **PROJECT STATUS: _On Hold_**
 
@@ -42,7 +42,7 @@ including virtually all the _Infocom_ catalogue such as _A Mind Forever Voyaging
 
 well as home-brew fan creations including many available from the [IF archive](http://mirror.ifarchive.org/if-archive/games/zcode/).
 
-![](./images/informv3idelogo.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/informv3idelogo.png)
 
 === [Inform / Z-Machine v1.1 (Infocom v3) Development Environment](BBC_Micro_Z-Machine_Interpreter_informz3 "wikilink") === _Target Systems:_ **Windows**
 

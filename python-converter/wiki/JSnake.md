@@ -1,6 +1,6 @@
 # JSnake by jbnbeeb
 
-![](./images/Lsfinal2wiki.JPG)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Lsfinal2wiki.JPG)
 
 ### Licence
 

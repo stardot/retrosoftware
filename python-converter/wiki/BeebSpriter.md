@@ -1,6 +1,6 @@
 # BeebSpriter
 
-![](./images/BeebSpriterScreen.jpg "BeebSpriterScreen.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BeebSpriterScreen.jpg "BeebSpriterScreen.jpg")
 
 ## Introduction
 
@@ -18,7 +18,7 @@ BeebSpriter saves/loads sprite sheets in its own human-readable XML format. When
 
 ## Tutorial
 
-![](./images/NewSprite.png "fig:NewSprite.png") Let's create a new sprite sheet. Go to File -&gt; New -&gt; and specify which screen mode you'd like to use for your sprite sheet. All being well, you now have a blank sprite sheet ready to use. Right click anywhere in the empty area, and you'll be able to create a 'New sprite'.
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/NewSprite.png "fig:NewSprite.png") Let's create a new sprite sheet. Go to File -&gt; New -&gt; and specify which screen mode you'd like to use for your sprite sheet. All being well, you now have a blank sprite sheet ready to use. Right click anywhere in the empty area, and you'll be able to create a 'New sprite'.
 
 Give it a name if you want, put in the dimensions you want, hit OK, and _voilà!_, your first sprite. Note that, although the sprite sheet is tied to one particular screen mode, each sprite in it can have any size you wish. It's far more flexible than a simple tile set of equally sized sprites. Back to our new sprite - it's a bit uninteresting right now, just a black square. Double-click it, and it will bring up the editor window.
 
@@ -40,7 +40,7 @@ One useful feature of the animation preview is that sprites in the animation seq
 
 ## Exporting
 
-![](./images/ExportOptions.png "fig:ExportOptions.png") Here's a quick explanation of the currently available export options.
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/ExportOptions.png "fig:ExportOptions.png") Here's a quick explanation of the currently available export options.
 
 **Sprite layout**
 

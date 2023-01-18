@@ -16,7 +16,7 @@ Suppose we want to set up a simple screen rupture - MODE 2, top 16 lines hardwar
 
 The bottom half of the screen is stationary, so we use the rupture technique and set up the bottom half's start address to be &3000. So effectively, the two halves of the screen are mapped the other way round, but the truth is that we could split the screen any number of times in a frame, and set each block's address to be whatever we wanted - linear address space? PAH!
 
-##### '''NOTE: ''' You can download (liberally) commented BeebASM source code **[here](./images/Vrupt.zip "wikilink")** to accompany the explanation below...
+##### '''NOTE: ''' You can download (liberally) commented BeebASM source code **[here](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Vrupt.zip "wikilink")** to accompany the explanation below...
 
 Here's how we would do this:
 
@@ -80,7 +80,7 @@ Now here's the more cunning bit:
 
 - Now we need to wait for the new CRTC cycle to begin - this will of course be in 16 character rows time from the last cycle:
 
-![Output from this [disc image](Media:Rupture1.zip "wikilink"). Download commented sourcecode [here](./images/Vrupt.zip "wikilink") ](Rupture1.png "Output from this disc image. Download commented sourcecode here ")
+![Output from this [disc image](Media:Rupture1.zip "wikilink"). Download commented sourcecode [here](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Vrupt.zip "wikilink") ](Rupture1.png "Output from this disc image. Download commented sourcecode here ")
 
 > 16 character rows
 
@@ -162,9 +162,9 @@ So we introduce '8 minus line' extra scanlines to the top border. Therefore we s
 
 It then figures that in the other CRTC cycle (the one that contains the scrolled playing area), we set R5=line in order to make up the total number of R5 scanlines to a multiple of 8. This means we'll arrive at the full 312 lines.
 
-![Output from this [disc image](./images/smoothscroll.zip "wikilink").
+![Output from this [disc image](../../retrosoftwarecouk_wiki-20160918-wikidump/images/smoothscroll.zip "wikilink").
 
-Use \* and / to scroll up and down, and hold Shift to scroll line-by-line.](./images/smoothscroll.png "fig:Output from this disc image. Use \* and / to scroll up and down, and hold Shift to scroll line-by-line.") Let's suppose we want a 24 line scrollable area. What do we do? The disc image on the right contains a demo which creates exactly this screen layout. In the description which follows, the line numbers reference this Basic listing.
+Use \* and / to scroll up and down, and hold Shift to scroll line-by-line.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/smoothscroll.png "fig:Output from this disc image. Use \* and / to scroll up and down, and hold Shift to scroll line-by-line.") Let's suppose we want a 24 line scrollable area. What do we do? The disc image on the right contains a demo which creates exactly this screen layout. In the description which follows, the line numbers reference this Basic listing.
 
 Let's start at VSync:
 

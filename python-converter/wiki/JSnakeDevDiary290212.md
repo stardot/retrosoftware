@@ -40,4 +40,4 @@ And that's where I'm currently at!
 
 [&lt;----Back to JSnake Dev Diary Index](JSnakeDevDiary "wikilink")
 
-![](./images/snakeandfood.png "snakeandfood.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/snakeandfood.png "snakeandfood.png")

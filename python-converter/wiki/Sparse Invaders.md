@@ -50,9 +50,9 @@ I'm sort of pleased with the bases, I wasn't sure how they would turn out as I a
 
 Latest release: _15 Mar 2012 - Download - Full version, fixed remaining bugs_
 
-[Sparse Invaders v1.1](./images/SparseInvaders 1 1.zip "wikilink")
+[Sparse Invaders v1.1](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SparseInvaders 1 1.zip "wikilink")
 
-[Sparse Invaders v1.1 source code](./images/SparseInvaders 1 1 source.zip "wikilink")
+[Sparse Invaders v1.1 source code](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SparseInvaders 1 1 source.zip "wikilink")
 
 ### Older Playable Demos
 
@@ -66,7 +66,7 @@ _24 Dec 2009 - Download - Full version, lots of bug fixes_
 
 [Sparse Invaders v1.0_2412](http://www.retrosoftware.co.uk/forum/download/file.php?id=330)
 
-[Sparse Invaders v1.0\_2412 source code](./images/SparseInvaders 1 0 2412 source.zip "wikilink")
+[Sparse Invaders v1.0\_2412 source code](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SparseInvaders 1 0 2412 source.zip "wikilink")
 
 - Fixed sound issue
 
@@ -94,7 +94,7 @@ _24 Dec 2009 - Download - Full version, lots of bug fixes_
 
 _3 Nov 2009 - Download - Initial feature-complete release, sound included_
 
-[Sparse Invaders v1.0](./images/SparseInvaders 1 0.zip "wikilink")
+[Sparse Invaders v1.0](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SparseInvaders 1 0.zip "wikilink")
 
 Full, working version with sound.
 
@@ -106,25 +106,25 @@ PJ disassembled it, then remade it in beebasm and relocated the game from $1100 
 
 _13 Feb 2009 - Beta Download - Highscore addition and tidy up_
 
-[Sparse Invaders v0.4](./images/SparseInvaders0.4.zip "wikilink")
+[Sparse Invaders v0.4](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SparseInvaders0.4.zip "wikilink")
 
 Addition of hiscore. Bases now working. Major bux fixing and tweeking.
 
 _13 Jan 2009 - Second Alpha Download - Fixed important bug_
 
-[Pants Invaders v0.3](./images/PantsInvaders.zip "wikilink")
+[Pants Invaders v0.3](../../retrosoftwarecouk_wiki-20160918-wikidump/images/PantsInvaders.zip "wikilink")
 
 Fixed blanking issues with Invaders. Certainly worth another upload. Apologies for those that have already downloaded v0.2.
 
 _12 Jan 2009 - Second Alpha Download_
 
-[Pants Invaders v0.2](./images/PantsInvaders0.2.zip "wikilink")
+[Pants Invaders v0.2](../../retrosoftwarecouk_wiki-20160918-wikidump/images/PantsInvaders0.2.zip "wikilink")
 
 FIRE - Return/Enter, LEFT - Z, RIGHT - X
 
 _18 Dec 2008 - First Alpha Download_
 
-[Pants Invaders v0.1](./images/PantsInvaders0.1.zip "wikilink")
+[Pants Invaders v0.1](../../retrosoftwarecouk_wiki-20160918-wikidump/images/PantsInvaders0.1.zip "wikilink")
 
 ### Source DOWNLOAD and Write Up
 
@@ -228,13 +228,13 @@ Sound has been added to the main code, thanks goes to PJ for his hard work disas
 
 <tr class="odd">
 
-<td><p>![](./images/Invadersv04 01.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Invadersv04 01.jpg)
 
 <strong>Title screen</strong><br />
 
 <em>Posted: Feb 17, 2009</em></p></td>
 
-<td><p>![](./images/Invadersv04 02.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Invadersv04 02.jpg)
 
 <strong>Game start</strong><br />
 
@@ -268,7 +268,7 @@ Sound has been added to the main code, thanks goes to PJ for his hard work disas
 
 <tr class="odd">
 
-<td><p>![](./images/Invadersv04 05.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Invadersv04 05.jpg)
 
 <strong>High score</strong><br />
 
@@ -290,13 +290,13 @@ Sound has been added to the main code, thanks goes to PJ for his hard work disas
 
 <tr class="odd">
 
-<td><p>![](./images/Pants Invaders 1812 01.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Pants Invaders 1812 01.jpg)
 
 <strong>Title screen</strong><br />
 
 <em>Posted: Dec 19, 2008</em></p></td>
 
-<td><p>![](./images/Pants Invaders 1812 02.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Pants Invaders 1812 02.jpg)
 
 <strong>Entering level screen</strong><br />
 
@@ -340,13 +340,13 @@ Sound has been added to the main code, thanks goes to PJ for his hard work disas
 
 <tr class="odd">
 
-<td><p>![](./images/SparseInvaders0.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SparseInvaders0.jpg)
 
 <strong>Title screen</strong><br />
 
 <em>Posted: Dec 03, 2008</em></p></td>
 
-<td><p>![](./images/SparseInvaders1.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SparseInvaders1.jpg)
 
 <strong>In-game 1</strong><br />
 

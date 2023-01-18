@@ -444,6 +444,6 @@ LookUpTable320 (download below if required)
 
 ## Downloads
 
-[ Swift project](./images/CalculatingScreenStartAddress10KMode.zip "wikilink") (Just load into Swift and run)
+[ Swift project](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CalculatingScreenStartAddress10KMode.zip "wikilink") (Just load into Swift and run)
 
-[ LookUpTable320](./images/LookUpTable320.zip "wikilink") ( 320 times look up table)
+[ LookUpTable320](../../retrosoftwarecouk_wiki-20160918-wikidump/images/LookUpTable320.zip "wikilink") ( 320 times look up table)

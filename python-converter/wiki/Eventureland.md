@@ -112,9 +112,9 @@ _Download also available via [Jonathan Cauldwell Homepage](http://members.fortun
 
 #### Downloads
 
-[Byte Me](./images/Eventureland-Level 1-Byte Me.zip "wikilink") - .tap ZX Spectrum cassette tape image
+[Byte Me](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Eventureland-Level 1-Byte Me.zip "wikilink") - .tap ZX Spectrum cassette tape image
 
-[Byte Me source code](./images/Eventureland-Level 1-Byte Me-src.zip "wikilink") - ZX SPIN emulator's built-in assembler [GNU GPLv3 licensed](http://en.wikipedia.org/wiki/GNU_General_Public_License) source code
+[Byte Me source code](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Eventureland-Level 1-Byte Me-src.zip "wikilink") - ZX SPIN emulator's built-in assembler [GNU GPLv3 licensed](http://en.wikipedia.org/wiki/GNU_General_Public_License) source code
 
 ### Level 2 - Console Combat \[Commodore 64, Jason Kelk\]
 
@@ -212,7 +212,7 @@ There are eight different venues to choose from and in each the arrangement of t
 
 <tr class="odd">
 
-<td><p>![](./images/SameGameLoadingScreen.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SameGameLoadingScreen.png)
 
 <strong>Attic Bug SameGame loading screen</strong><br />
 
@@ -248,19 +248,19 @@ There are eight different venues to choose from and in each the arrangement of t
 
 #### Downloads
 
-[The Attic Bug in 'SameGame' v1.21](./images/AtticBugSameGame1 21.zip "wikilink") - .ssd BBC Micro DFS disc image
+[The Attic Bug in 'SameGame' v1.21](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtticBugSameGame1 21.zip "wikilink") - .ssd BBC Micro DFS disc image
 
 That joystick thing again. After rewriting the keyboard/joystick routines for MazezaM I changed them for 'AtticBug' as well. The same problems had not occurred in this game but . . . just in case. Many thanks to RichTW for his sage advice. Added RS freeware loading screen.
 
-[The Attic Bug in 'SameGame' v1.2](./images/AtticBugSameGame1 2.zip "wikilink") - .ssd BBC Micro DFS disc image
+[The Attic Bug in 'SameGame' v1.2](../../retrosoftwarecouk_wiki-20160918-wikidump/images/AtticBugSameGame1 2.zip "wikilink") - .ssd BBC Micro DFS disc image
 
 Thanks to Samwise's keen eye it was noted that there was a problem with the joystick support - (aside from the fact that there was no mention of it on the title screen). After a little to-and-fro this problem has now been fixed.
 
-[The Attic Bug in 'SameGame' v1.1](./images/Attic1 1.zip "wikilink") - .ssd BBC Micro DFS disc image
+[The Attic Bug in 'SameGame' v1.1](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Attic1 1.zip "wikilink") - .ssd BBC Micro DFS disc image
 
 Different box graphics and the level select screen now shows which levels you have completed.
 
-[The Attic Bug in 'SameGame'](./images/Attic.zip "wikilink") - .ssd BBC Micro DFS disc image
+[The Attic Bug in 'SameGame'](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Attic.zip "wikilink") - .ssd BBC Micro DFS disc image
 
 The version ready in time for Replay Expo 2011. A few bits of tinkering left to do.
 
@@ -268,4 +268,4 @@ The version ready in time for Replay Expo 2011. A few bits of tinkering left to 
 
 As handed out on 16th - 17th July at In Da 80s, Manchester.
 
-![](./images/Homebrew IdeasForm.png "Homebrew_IdeasForm.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Homebrew IdeasForm.png "Homebrew_IdeasForm.png")

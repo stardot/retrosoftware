@@ -68,13 +68,13 @@ Release Preparation: [Tom Walker](http://www.tommowalker.co.uk) & Bill Carr
 
 <tr class="odd">
 
-<td><p>![](./images/TheKrystalConnection Screenshot1.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TheKrystalConnection Screenshot1.png)
 
 <strong>The Krystal Connection In-Game Screenshot</strong><br />
 
 <em>Posted: Thu June 25, 2009 17:55</em></p></td>
 
-<td><p>![](./images/TheKrystalConnection Screenshot2.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TheKrystalConnection Screenshot2.png)
 
 <strong>The Krystal Connection In-Game Screenshot</strong><br />
 
@@ -94,13 +94,13 @@ Release Preparation: [Tom Walker](http://www.tommowalker.co.uk) & Bill Carr
 
 <tr class="odd">
 
-<td><p>![](./images/KrystalConnection BBC Tape Picture1.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/KrystalConnection BBC Tape Picture1.jpg)
 
 <strong>Inlay for BBC Micro Cassette version (front)</strong><br />
 
 <em>Posted: Sep 20, 2009</em></p></td>
 
-<td><p>![](./images/KrystalConnection BBC Tape Picture2.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/KrystalConnection BBC Tape Picture2.jpg)
 
 <strong>Inlay for BBC Micro Cassette version (back)</strong><br />
 
@@ -110,13 +110,13 @@ Release Preparation: [Tom Walker](http://www.tommowalker.co.uk) & Bill Carr
 
 <tr class="even">
 
-<td><p>![](./images/KrystalConnection BBC Tape Picture3.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/KrystalConnection BBC Tape Picture3.jpg)
 
 <strong>Media for BBC Micro Cassette version</strong><br />
 
 <em>Posted: Sep 20, 2009</em></p></td>
 
-<td><p>![](./images/KrystalConnection BBC Disc 525 Picture1.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/KrystalConnection BBC Disc 525 Picture1.jpg)
 
 <strong>Inlay for BBC Micro 5.25&quot; Disc version (front)</strong><br />
 
@@ -126,13 +126,13 @@ Release Preparation: [Tom Walker](http://www.tommowalker.co.uk) & Bill Carr
 
 <tr class="odd">
 
-<td><p>![](./images/KrystalConnection BBC Disc 525 Picture2.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/KrystalConnection BBC Disc 525 Picture2.jpg)
 
 <strong>Inlay for BBC Micro 5.25&quot; Disc version (back)</strong><br />
 
 <em>Posted: Sep 20, 2009</em></p></td>
 
-<td><p>![](./images/KrystalConnection BBC Disc 525 Picture3.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/KrystalConnection BBC Disc 525 Picture3.jpg)
 
 <strong>Media for BBC Micro 5.25&quot; Disc version</strong><br />
 
@@ -142,13 +142,13 @@ Release Preparation: [Tom Walker](http://www.tommowalker.co.uk) & Bill Carr
 
 <tr class="even">
 
-<td><p>![](./images/KrystalConnection MasterCompact Picture1.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/KrystalConnection MasterCompact Picture1.jpg)
 
 <strong>Inlay for Master Compact 3.5&quot; Disc version (front)</strong><br />
 
 <em>Posted: Sep 20, 2009</em></p></td>
 
-<td><p>![](./images/KrystalConnection MasterCompact Picture2.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/KrystalConnection MasterCompact Picture2.jpg)
 
 <strong>Inlay for Master Compact 3.5&quot; Disc version (back)</strong><br />
 
@@ -158,7 +158,7 @@ Release Preparation: [Tom Walker](http://www.tommowalker.co.uk) & Bill Carr
 
 <tr class="odd">
 
-<td><p>![](./images/KrystalConnection MasterCompact Picture3.jpg)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/KrystalConnection MasterCompact Picture3.jpg)
 
 <strong>Media for Master Compact 3.5&quot; Disc version</strong><br />
 

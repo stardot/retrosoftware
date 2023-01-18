@@ -54,7 +54,7 @@ http://www.retrosoftware.co.uk/???
 
 This is a very early working demo of a split screen page.
 
-![](./images/dragon4.jpg "dragon4.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/dragon4.jpg "dragon4.jpg")
 
 ### Diary
 

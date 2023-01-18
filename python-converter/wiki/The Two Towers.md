@@ -64,15 +64,15 @@ http://www.retrosoftware.co.uk/???
 
 _Posted: Tue Jan 01, 2008 11:46 pm_
 
-![](./images/TheTwoTowers1.jpg "fig:TheTwoTowers1.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TheTwoTowers1.jpg "fig:TheTwoTowers1.jpg")
 
 _Posted: Mon Dec 31, 2007 2:08 pm_
 
-![](./images/TheTwoTowers2.jpg "fig:TheTwoTowers2.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TheTwoTowers2.jpg "fig:TheTwoTowers2.jpg")
 
 _Posted: Mon Dec 31, 2007 2:08 pm_
 
-![](./images/TheTwoTowers3.jpg "fig:TheTwoTowers3.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TheTwoTowers3.jpg "fig:TheTwoTowers3.jpg")
 
 _Posted: Mon Dec 31, 2007 2:08 pm_
 

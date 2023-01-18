@@ -306,13 +306,13 @@ The second difference is the max nr of colours which can be displayed simultanio
 
 Also the interpretation of bits vs colour is different between the BBC/Electron and the Atom, see table below:
 
-![](./images/colours.PNG "fig:colours.PNG")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/colours.PNG "fig:colours.PNG")
 
 <i>Colour pallette:</i>
 
 The third big difference is the colour pallete. On a BBC/Electron, you can redefine the colours by changing the colour pallete. The Atom has 2 sets of 4 colours which can not be changed. That's why all coloured games on an Atom always have the same colours
 
-![](./images/coloursets.PNG "fig:coloursets.PNG")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/coloursets.PNG "fig:coloursets.PNG")
 
 #### Sound
 
@@ -550,7 +550,7 @@ The Galaforce font has 39 characters consisting of digits, letters and symbols a
 
 - Symbols '.', '\_' and SPACE, character code 36-38
 
-![](./images/font.PNG "fig:font.PNG")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/font.PNG "fig:font.PNG")
 
 You can print single-or double size characters.
 
@@ -564,7 +564,7 @@ A character on the screen is 5 x 8 pixels and there's 1 pixel space between 2 ch
 
 The letter G is stored like this:
 
-![](./images/Letter.PNG "fig:Letter.PNG")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Letter.PNG "fig:Letter.PNG")
 
 #### Sprites
 
@@ -580,7 +580,7 @@ The sprite will be erased at the old screenaddress and plotted at the new screen
 
 You can see an image off all game sprites in the picture below:
 
-![](./images/Atomsprites.PNG "fig:Atomsprites.PNG")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Atomsprites.PNG "fig:Atomsprites.PNG")
 
 #### Alien waves
 
@@ -722,7 +722,7 @@ patdat0 Rep Step Dir
 
 `   .db 6           ; Action 6,     dat-die`
 
-![](./images/Move.PNG "fig:Move.PNG")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Move.PNG "fig:Move.PNG")
 
 <i>Movement off patdat0</i>
 
@@ -1242,19 +1242,19 @@ S6
 
 If you visualize the directions from the stepsize matrix, you'll get this diagram:
 
-![](./images/dir.PNG "fig:dir.PNG")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/dir.PNG "fig:dir.PNG")
 
 ### Screenshots
 
-{| align=left |- |![Galaforce Intro screenshot](./images/Galaforce Intro.PNG "fig:Galaforce Intro screenshot")
+{| align=left |- |![Galaforce Intro screenshot](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Galaforce Intro.PNG "fig:Galaforce Intro screenshot")
 
 **_Galaforce_ Intro screenshot**
 
-_Posted: 16:22, 17 Aug 2011_ |![Galaforce Highscore screenshot](./images/Galaforce Score.PNG "fig:Galaforce Highscore screenshot")
+_Posted: 16:22, 17 Aug 2011_ |![Galaforce Highscore screenshot](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Galaforce Score.PNG "fig:Galaforce Highscore screenshot")
 
 **_Galaforce_ High Score screenshot**
 
-_Posted: 16:22, 17 Aug 2011_ |![Galaforce Gamestart screenshot](./images/Galaforce Gamestart.PNG "fig:Galaforce Gamestart screenshot")
+_Posted: 16:22, 17 Aug 2011_ |![Galaforce Gamestart screenshot](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Galaforce Gamestart.PNG "fig:Galaforce Gamestart screenshot")
 
 **_Galaforce_ Gamestart screenshot**
 

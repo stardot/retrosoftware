@@ -312,7 +312,7 @@
 
 <dl>
 
-<dd>![](./images/EditorlabelMenu.gif)
+<dd>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/EditorlabelMenu.gif)
 
 </dd>
 
@@ -440,7 +440,7 @@
 
 <dl>
 
-<dd>![](./images/SearchResults.gif)
+<dd>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SearchResults.gif)
 
 </dd>
 

@@ -4,7 +4,7 @@ In order to establish a consistent branding of our products, all Retro Software 
 
 This document describes how to configure and use such a loading screen in your own projects.
 
-<img src="SparseInvaders-WIPcover.png" title="fig:SparseInvaders-WIPcover.png" alt="SparseInvaders-WIPcover.png" width="260" height="256" /> ![](./images/Sparse Invaders load screen.png "fig:Sparse_Invaders_load_screen.png")
+<img src="SparseInvaders-WIPcover.png" title="fig:SparseInvaders-WIPcover.png" alt="SparseInvaders-WIPcover.png" width="260" height="256" /> ![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Sparse Invaders load screen.png "fig:Sparse_Invaders_load_screen.png")
 
 ## Downloads
 
@@ -14,9 +14,9 @@ The DFS image is intended for BBC B, B+ and Master users. It is also suitable fo
 
 The ADFS image is intended for Master Compact users and Electron users with a Plus 3 unit or equivalent. It is also suitable for a BBC B or B+ fitted with ADFS.
 
-[FreewareLoader\_DFS.zip](./images/FreewareLoader DFS.zip "wikilink")
+[FreewareLoader\_DFS.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/FreewareLoader DFS.zip "wikilink")
 
-[FreewareLoader\_ADFS.zip](./images/FreewareLoader ADFS.zip "wikilink")
+[FreewareLoader\_ADFS.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/FreewareLoader ADFS.zip "wikilink")
 
 ## How To Use
 
@@ -32,7 +32,7 @@ This section describes how to use the provided disk images to create your own RS
 
 `>*/BLANK`
 
-![](./images/RS Loader empty.png "RS_Loader_empty.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/RS Loader empty.png "RS_Loader_empty.png")
 
 The two windows below the logo are currently empty. So let's fill in some game details. Press Break first to clear the screen.
 
@@ -86,7 +86,7 @@ The screen can be displayed by entering the command CALL &5000.
 
 `>CALL &5000`
 
-![](./images/RS Loader default.png "RS_Loader_default.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/RS Loader default.png "RS_Loader_default.png")
 
 You will notice that a text window has been created in the bottom panel of the screen. This is where the loading messages will appear.
 

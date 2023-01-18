@@ -1,6 +1,6 @@
 ## 1st July 2011
 
-![Dave Jeffery's cool title screen, and something to read while it loads...](./images/blurploader.png "fig:Dave Jeffery's cool title screen, and something to read while it loads...") I decided it was time for another diversion, and to think about the title screen and loading sequence.
+![Dave Jeffery's cool title screen, and something to read while it loads...](../../retrosoftwarecouk_wiki-20160918-wikidump/images/blurploader.png "fig:Dave Jeffery's cool title screen, and something to read while it loads...") I decided it was time for another diversion, and to think about the title screen and loading sequence.
 
 I wanted to be able to credit everyone who was involved with the creation of Blurp, from my one-time Beeb collaborator, Matt Godbolt, to all those from this community who have contributed so much. I don't have the memory to do this as a scrolltext or something in-game, so the obvious thing seemed to be to create an intro section, with the title screen and a message.
 

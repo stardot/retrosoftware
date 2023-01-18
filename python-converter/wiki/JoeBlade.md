@@ -16,7 +16,7 @@ Retro Software is therefore proud to reveal a brand new Atom port by the Dutch c
 
 [Discuss _Joe Blade_](http://www.retrosoftware.co.uk/forum/viewtopic.php?f=19&t=889)
 
-![ZX Spectrum cassette tape cover](./images/Joeblade cover.PNG "ZX Spectrum cassette tape cover")
+![ZX Spectrum cassette tape cover](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Joeblade cover.PNG "ZX Spectrum cassette tape cover")
 
 ===Platforms===
 
@@ -62,7 +62,7 @@ An optional joystick can be connected to PORTB of the AtoMMC interface with soft
 
 ##### Downloads
 
-[Joe Blade Acorn Atom disc/tape images](./images/JOEBLADE.zip "wikilink")
+[Joe Blade Acorn Atom disc/tape images](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JOEBLADE.zip "wikilink")
 
 This image archive includes both tape and disc versions of the game. Read the included Readme.txt file for more info.
 
@@ -80,19 +80,19 @@ An assembler listing is created in the JOEBLADE.LST file.
 
 <tr class="odd">
 
-<td><p>![](./images/JoeBladeIntro1.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladeIntro1.PNG)
 
 <strong><em>Joe Blade</em> instructions1</strong><br />
 
 <em>Posted: 14:50, 15 Jun 2014</em></p></td>
 
-<td><p>![](./images/JoeBladeIntro2.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladeIntro2.PNG)
 
 <strong><em>Joe Blade</em> instructions2</strong><br />
 
 <em>Posted: 14:50, 15 Jun 2014</em></p></td>
 
-<td><p>![](./images/JoeBladeIntro3.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladeIntro3.PNG)
 
 <strong><em>Joe Blade</em> game controls</strong><br />
 
@@ -102,19 +102,19 @@ An assembler listing is created in the JOEBLADE.LST file.
 
 <tr class="even">
 
-<td><p>![](./images/JoeBladeLoading.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladeLoading.PNG)
 
 <strong><em>Joe Blade</em> loading screen</strong><br />
 
 <em>Posted: 14:50, 15 Jun 2014</em></p></td>
 
-<td><p>![](./images/JoeBladeTitle.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladeTitle.PNG)
 
 <strong><em>Joe Blade</em> title</strong><br />
 
 <em>Posted: 14:50, 15 Jun 2014</em></p></td>
 
-<td><p>![](./images/JoeBladePlay1.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladePlay1.PNG)
 
 <strong><em>Joe Blade</em> play1</strong><br />
 
@@ -124,19 +124,19 @@ An assembler listing is created in the JOEBLADE.LST file.
 
 <tr class="odd">
 
-<td><p>![](./images/JoeBladePlay2.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladePlay2.PNG)
 
 <strong><em>Joe Blade</em> play2</strong><br />
 
 <em>Posted: 14:50, 15 Jun 2014</em></p></td>
 
-<td><p>![](./images/JoeBladePlay3.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladePlay3.PNG)
 
 <strong><em>Joe Blade</em> play3</strong><br />
 
 <em>Posted: 14:50, 15 Jun 2014</em></p></td>
 
-<td><p>![](./images/JoeBladePlay4.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladePlay4.PNG)
 
 <strong><em>Joe Blade</em> play4</strong><br />
 
@@ -146,19 +146,19 @@ An assembler listing is created in the JOEBLADE.LST file.
 
 <tr class="even">
 
-<td><p>![](./images/JoeBladeBomb.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladeBomb.PNG)
 
 <strong><em>Joe Blade</em> bomb puzzle</strong><br />
 
 <em>Posted: 14:50, 15 Jun 2014</em></p></td>
 
-<td><p>![](./images/JoeBladePlay5.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladePlay5.PNG)
 
 <strong><em>Joe Blade</em> play5</strong><br />
 
 <em>Posted: 14:50, 15 Jun 2014</em></p></td>
 
-<td><p>![](./images/JoeBladePlay6.PNG)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/JoeBladePlay6.PNG)
 
 <strong><em>Joe Blade</em> hostage</strong><br />
 

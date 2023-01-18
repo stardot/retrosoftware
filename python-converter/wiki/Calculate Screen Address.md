@@ -50,7 +50,7 @@ Does not call any other routine.
 
 There are two types or rows on a BBC screen, lines and character rows. The diagram below will help to explain, it’s the Mode 2 screen layout.
 
-![](./images/Mode2ScreenLayout.png "Mode2ScreenLayout.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Mode2ScreenLayout.png "Mode2ScreenLayout.png")
 
 &3000 is the top left of screen (X=0,Y=0). You can see that in the X direction each positiion goes up by 8 each time, so coordinates (1,0)=&3008, (2,0)=&3010 etc. etc. For Y values however for the first 8 (0 to 7) they increase by 1 each time, so (0,0)=&3000, (0,1)=&3001, (0,2)=&3002 and so on. However it then gets a little tricky after that. (0,8)=&3280, A massive jump ! You can see why this happens in the diagram. &3008 is actually back up at the start of column 2 (x=1). Why is it like this ? Well, it's all to do with the 6845 video chip, it was designed as a CRT character generator (characters being 8 lines high).
 
@@ -492,4 +492,4 @@ If you want to test the above code add the following code above the Screen Start
 
 ## Downloads
 
-[ LookUpTable640](./images/Swift SpritePlotter LookUpTable640.zip "wikilink") ( 640 times look up table)
+[ LookUpTable640](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Swift SpritePlotter LookUpTable640.zip "wikilink") ( 640 times look up table)

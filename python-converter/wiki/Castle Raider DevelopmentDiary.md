@@ -24,7 +24,7 @@ The solution I decided to use was to use two screen banks: one to show scenery a
 
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 
-| ![Close up of sprites plotted on bank 1.](./images/Castle-Raider-Bank1.png "Close up of sprites plotted on bank 1.") | ![Close up of sprites plotted on bank 2.](Castle-Raider-Bank2.png "Close up of sprites plotted on bank 2.") |
+| ![Close up of sprites plotted on bank 1.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Castle-Raider-Bank1.png "Close up of sprites plotted on bank 1.") | ![Close up of sprites plotted on bank 2.](Castle-Raider-Bank2.png "Close up of sprites plotted on bank 2.") |
 
 | **Spot the difference: Close ups of sprites plotted on bank 1 (left) and on bank 2 (right).** |
 
@@ -40,7 +40,7 @@ The next question was that of how the level might change while the game is playe
 
 |-----------------------------------------------------------------------------------------------------------------------------|
 
-| ![Close up of level scenery.](./images/Different-tiles.png "Close up of level scenery.") |
+| ![Close up of level scenery.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Different-tiles.png "Close up of level scenery.") |
 
 | **Some of the different tiles in use at the moment. The player is about to step on a visible trigger tile to open a door.** |
 
@@ -84,7 +84,7 @@ I've been experimenting with jumping motion again, trying to make it a bit smoot
 
 |----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| ![Desktop version of a level editor.](./images/Editor1-half.png "Desktop version of a level editor.") | ![Screenshot of a level produced in the desktop level editor.](Edited1-half.png "Screenshot of a level produced in the desktop level editor.") |
+| ![Desktop version of a level editor.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Editor1-half.png "Desktop version of a level editor.") | ![Screenshot of a level produced in the desktop level editor.](Edited1-half.png "Screenshot of a level produced in the desktop level editor.") |
 
 As usual, messing with level design exposes problems in the code with level painting, this time related to initial rendering of the level. That's been on my mental to-do list for a while, so I suppose that will be the next thing to tackle.
 
@@ -124,7 +124,7 @@ Collectable objects are treated specially in the routine that checks whether a p
 
 |-----------------------------------------------------------------------------------------------------------------|
 
-| ![Picking up keys.](./images/CastleRaider-Keys.png "Picking up keys.") |
+| ![Picking up keys.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-Keys.png "Picking up keys.") |
 
 | **Adding collectable items to the map involved some changes to the level data and some "register" management.** |
 
@@ -142,7 +142,7 @@ Treasure is made up of pairs of collectable special tiles that are also visible 
 
 |-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 
-| ![Approaching a door with the appropriate key.](./images/CastleRaider-Door.png "Approaching a door with the appropriate key.") | ![Collecting treasure.](CastleRaider-Crown.png "Collecting treasure.") |
+| ![Approaching a door with the appropriate key.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-Door.png "Approaching a door with the appropriate key.") | ![Collecting treasure.](CastleRaider-Crown.png "Collecting treasure.") |
 
 | **Doors can be opened with the right keys.** | **Treasure is made up of pairs of collectable items.** |
 
@@ -162,11 +162,11 @@ Where the visibility flag is the most significant bit. This makes it as easy (an
 
 |-----------------------------------------------------------------|
 
-| ![Exploring a cave.](./images/CastleRaider-Cave.png "Exploring a cave.") |
+| ![Exploring a cave.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-Cave.png "Exploring a cave.") |
 
 | **The player's quest currently involves cave exploration.** |
 
-For those of you who are interested to see how the game plays so far, the first demo of Castle Raider is now available: [CastleRaider-demo1.zip](./images/CastleRaider-demo1.zip "wikilink"). It is known to work in Elkulator, but may not work properly in BeebEm.
+For those of you who are interested to see how the game plays so far, the first demo of Castle Raider is now available: [CastleRaider-demo1.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-demo1.zip "wikilink"). It is known to work in Elkulator, but may not work properly in BeebEm.
 
 #### Thinking about Monsters (2012-05-07)
 
@@ -184,7 +184,7 @@ I started to look into how monsters should be plotted and moved when the player 
 
 |------------------------------------------------------------------------------------|
 
-| ![Testing monster plotting.](./images/CastleRaider-Monster.png "Testing monster plotting.") |
+| ![Testing monster plotting.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-Monster.png "Testing monster plotting.") |
 
 | **Testing monster plotting and movement.** |
 
@@ -204,7 +204,7 @@ I did a bit more work on plotting monsters and started to add logic to them, but
 
 |---------------------------------------------------------------------------------------------|
 
-| ![Work in progress title screen.](./images/CastleRaider-Title1.png "Work in progress title screen.") |
+| ![Work in progress title screen.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-Title1.png "Work in progress title screen.") |
 
 | **Work in progress title screen.** |
 
@@ -218,7 +218,7 @@ Broke the animation code into pieces to help fit it into the program flow of the
 
 |---------------------------------------------------------------------------------------|
 
-| ![Now with wavy flag loading.](./images/CastleRaider-Title2.png "Now with wavy flag loading.") |
+| ![Now with wavy flag loading.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-Title2.png "Now with wavy flag loading.") |
 
 | **Now with wavy flag loading.** |
 
@@ -226,4 +226,4 @@ Before loading starts, the routine runs without this overhead, so it's almost as
 
 #### Second Demo (2012-07-29)
 
-In preparation for the upcoming Homebrew Gaming Weekend, I've created a second demo of Castle Raider: [CastleRaider-demo2.zip](./images/CastleRaider-demo2.zip "wikilink"). Hopefully someone will be able to transfer the files onto cassette/disk in time for next weekend. In the meantime, those of you who are interested to see the title screen in action can download it and try it out. Have fun!
+In preparation for the upcoming Homebrew Gaming Weekend, I've created a second demo of Castle Raider: [CastleRaider-demo2.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-demo2.zip "wikilink"). Hopefully someone will be able to transfer the files onto cassette/disk in time for next weekend. In the meantime, those of you who are interested to see the title screen in action can download it and try it out. Have fun!

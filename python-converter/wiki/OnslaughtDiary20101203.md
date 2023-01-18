@@ -1,4 +1,4 @@
-![Beginnings of the monster editor...](./images/MonsterEditor.png "Beginnings of the monster editor...")
+![Beginnings of the monster editor...](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MonsterEditor.png "Beginnings of the monster editor...")
 
 ## 3rd December 2010
 

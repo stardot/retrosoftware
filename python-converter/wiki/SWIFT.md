@@ -2,7 +2,7 @@
 
 **_A BBC Micro Integrated Development Environment, for Windows_**
 
-![](./images/Swift-v4.2 ScreenShotThumb.png "Swift-v4.2_ScreenShotThumb.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Swift-v4.2 ScreenShotThumb.png "Swift-v4.2_ScreenShotThumb.png")
 
 # Video
 
@@ -136,17 +136,17 @@ These are its main features:
 
 ### Swift Books
 
-Swift supports books in PDF format. **[Click here for a demonstration](./images/BooksDemo.zip "wikilink")** of how books can be used.
+Swift supports books in PDF format. **[Click here for a demonstration](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BooksDemo.zip "wikilink")** of how books can be used.
 
 **Important : You need at least version 7 of Adobe PDF Reader to use the books facility.**
 
 If you want to add your own books please examine the "definition.txt" file that accompanies each book. Here are the currently available books.
 
-[Advanced user guide](./images/BBC Microcomputer Advanced User Guide.zip "wikilink") Suitable only for Version 4.2 beta 2 and above of Swift
+[Advanced user guide](../../retrosoftwarecouk_wiki-20160918-wikidump/images/BBC Microcomputer Advanced User Guide.zip "wikilink") Suitable only for Version 4.2 beta 2 and above of Swift
 
-[Master Advanced user guide](./images/MasterAdvRef.zip "wikilink") (Note, this file has been altered slightly from the original to maintain correct page order, if the original creator objects please contact me.) (Version 4.2 beta 2 and above)
+[Master Advanced user guide](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MasterAdvRef.zip "wikilink") (Note, this file has been altered slightly from the original to maintain correct page order, if the original creator objects please contact me.) (Version 4.2 beta 2 and above)
 
-[Swift Sprite Data Formats](./images/Sprite Data Formats.zip "wikilink") Explanation of how sprites are stored by Swift (Version 4.1 beta 5 and above)
+[Swift Sprite Data Formats](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Sprite Data Formats.zip "wikilink") Explanation of how sprites are stored by Swift (Version 4.1 beta 5 and above)
 
 ---
 
@@ -182,13 +182,13 @@ Several tutorial videos are available to guide you through the Swift set up and 
 
 It is recommended that you download the P65 assembler documentation from <http://hkn.berkeley.edu/~mcmartin/P65> as the videos are not really a tutorial in P65 6502 assembler; rather a tutorial in the use of Swift (although some areas of P65 are highlighted).
 
-- **[FirstRun](./images/SwiftFirstRun.zip "wikilink") (3.5mb zipped)**
+- **[FirstRun](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SwiftFirstRun.zip "wikilink") (3.5mb zipped)**
 
   How to set up Swift when you run it for the very first time
 
 <!-- -->
 
-- **[Tutorial 1](./images/SwiftTutorial1.zip "wikilink") (10mb zipped)**
+- **[Tutorial 1](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SwiftTutorial1.zip "wikilink") (10mb zipped)**
 
   Creating a new project.
 
@@ -200,7 +200,7 @@ It is recommended that you download the P65 assembler documentation from <http:/
 
 <!-- -->
 
-- **[Tutorial 2](./images/SwiftTutorial2.zip "wikilink") (16mb zipped)**
+- **[Tutorial 2](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SwiftTutorial2.zip "wikilink") (16mb zipped)**
 
   Copying existings files into your project
 
@@ -210,7 +210,7 @@ It is recommended that you download the P65 assembler documentation from <http:/
 
 <!-- -->
 
-- **[Tutorial 3](./images/SwiftTutorial3.zip "wikilink") (15mb zipped)**
+- **[Tutorial 3](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SwiftTutorial3.zip "wikilink") (15mb zipped)**
 
   Error Throwback
 
@@ -220,7 +220,7 @@ It is recommended that you download the P65 assembler documentation from <http:/
 
 <!-- -->
 
-- **[Tutorial 4](./images/Swifttutorial4.zip "wikilink") (25mb zipped)**
+- **[Tutorial 4](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Swifttutorial4.zip "wikilink") (25mb zipped)**
 
   More on writing modular code using extra Swift facilities
 
@@ -240,7 +240,7 @@ It is recommended that you download the P65 assembler documentation from <http:/
 
 <!-- -->
 
-- **[Tutorial 5](./images/SwiftTutorial5.zip "wikilink") (21mb zipped)**
+- **[Tutorial 5](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SwiftTutorial5.zip "wikilink") (21mb zipped)**
 
   Macros
 
@@ -248,7 +248,7 @@ It is recommended that you download the P65 assembler documentation from <http:/
 
 <!-- -->
 
-- **[Tutorial 6](./images/SwiftTutorial6.zip "wikilink") (22mb zipped)**
+- **[Tutorial 6](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SwiftTutorial6.zip "wikilink") (22mb zipped)**
 
   Including Binary (raw data) files in a project
 
@@ -256,7 +256,7 @@ It is recommended that you download the P65 assembler documentation from <http:/
 
 <!-- -->
 
-- **[Tutorial 7](./images/SwiftTutorial7.zip "wikilink") (23mb zipped)**
+- **[Tutorial 7](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SwiftTutorial7.zip "wikilink") (23mb zipped)**
 
   New Project manager window in Swift Ver. 2.0
 
@@ -266,19 +266,19 @@ It is recommended that you download the P65 assembler documentation from <http:/
 
 <!-- -->
 
-- **[Tutorial 8](./images/SwiftTutorial8.zip "wikilink") (23mb zipped)**
+- **[Tutorial 8](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SwiftTutorial8.zip "wikilink") (23mb zipped)**
 
   Using the Sprite Editor
 
 <!-- -->
 
-- **[Tutorial 9](./images/SwiftTutorial9.zip "wikilink") (23mb zipped)**
+- **[Tutorial 9](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SwiftTutorial9.zip "wikilink") (23mb zipped)**
 
   Using the animation facilities. Other new sprite editing additions.
 
 <!-- -->
 
-- **[Tutorial 10](./images/SwiftTutorial10.zip "wikilink") (696K zipped)**
+- **[Tutorial 10](../../retrosoftwarecouk_wiki-20160918-wikidump/images/SwiftTutorial10.zip "wikilink") (696K zipped)**
 
   Writing BASIC programs and running in emulator.
 

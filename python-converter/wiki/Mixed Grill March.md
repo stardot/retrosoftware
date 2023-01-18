@@ -8,7 +8,7 @@
 
 Markie is in the pub at Retrovision, about to tuck into the pub's last mixed grill. When comic book supervillain Mixed Grill Man (aka Bane) realises that the pub has no more mixed grills left, he is distraught! In a fit of desperation he steals Markie's mixed grill, and makes a run for it!
 
-![](./images/DSC 1436 fwb.jpg "DSC_1436_fwb.jpg")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/DSC 1436 fwb.jpg "DSC_1436_fwb.jpg")
 
 You play the role of Markie and have to chase him and get your mixed grill back!
 
@@ -46,23 +46,23 @@ _A marvellous pastiche of the Wii's camp classic 'Muscle March', this isn't just
 
 ##### Downloads
 
-[Mixed Grill March v1.01 disc version (.ssd)](./images/MixedGrillMarch v1.01-ssd.zip "wikilink") - Zipped BBC Micro .ssd Acorn DFS disc image
+[Mixed Grill March v1.01 disc version (.ssd)](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MixedGrillMarch v1.01-ssd.zip "wikilink") - Zipped BBC Micro .ssd Acorn DFS disc image
 
-[Mixed Grill March v1.01 tape version (.uef)](./images/MixedGrillMarch v1.01-uef.zip "wikilink") - Zipped BBC Micro .uef cassette tape image
+[Mixed Grill March v1.01 tape version (.uef)](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MixedGrillMarch v1.01-uef.zip "wikilink") - Zipped BBC Micro .uef cassette tape image
 
 ...and as a special treat...
 
-[Mixed Grill March v1.01 tape version (.wav)](./images/MixedGrillMarch v1.01 turboload-wav.zip "wikilink") - Zipped BBC Micro .wav cassette tape image
+[Mixed Grill March v1.01 tape version (.wav)](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MixedGrillMarch v1.01 turboload-wav.zip "wikilink") - Zipped BBC Micro .wav cassette tape image
 
 Not a FreeUEF version, this was recorded from a real Beeb :) - with the inter-block gaps reduced in an audio editor afterwards for faster loading (less than two minutes!)
 
-[Mixed Grill March v1.01 GPL'd source code](./images/MixedGrillMarch v1.01 source.zip "wikilink")
+[Mixed Grill March v1.01 GPL'd source code](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MixedGrillMarch v1.01 source.zip "wikilink")
 
 _Older releases_
 
 [Mixed Grill March 0.9 demo](http://www.retrosoftware.co.uk/forum/download/file.php?id=570)
 
-[Mixed Grill March 0.1 early preview](./images/MixedGrillMarch-0.1.zip "wikilink")
+[Mixed Grill March 0.1 early preview](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MixedGrillMarch-0.1.zip "wikilink")
 
 ##### Status
 
@@ -88,7 +88,7 @@ A [Development Diary](MixedGrillMarchBBCMicroDiary "wikilink") recording the det
 
 <tr class="odd">
 
-<td><p>![](./images/MixedGrillMarchloadingscreen.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/MixedGrillMarchloadingscreen.png)
 
 <strong>BBC Micro loading screen</strong><br />
 

@@ -24,7 +24,7 @@ The previous fix for monsters sneaking past ceiling and floors didn't work. Hori
 
 I took the opportunity to expand the range of x coordinates that the monsters can occupy so that the player can't just "lose" monsters by making them go off-screen. This may yet cause problems if there are monsters with overlapping horizontal ranges, and may also reduce the number of monsters that will be seen together in high density areas if other monsters have already been placed. There is, after all, a limited number of monsters that can be active at any given time.
 
-Since I recently added support for palette changing on the Beeb, I've created a new demo to show the current state of the game: [CastleRaider-demo4.zip](./images/CastleRaider-demo4.zip "wikilink").
+Since I recently added support for palette changing on the Beeb, I've created a new demo to show the current state of the game: [CastleRaider-demo4.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-demo4.zip "wikilink").
 
 #### Making Things Coherent (2014-03-01)
 
@@ -44,7 +44,7 @@ There was much tweaking of visible monster offsets as I tried to find a way to m
 
 |-------------------------------------------------------------------------------------------------|
 
-| ![The character selection screen.](./images/2014-03-16-characters.png "The character selection screen.") |
+| ![The character selection screen.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2014-03-16-characters.png "The character selection screen.") |
 
 | **Who are you? The character selection screen in the loader.** |
 
@@ -54,7 +54,7 @@ While this was going on, I started to tighten the focus of the game, removing un
 
 |---------------------------------------------------------------------------------------------------------------------------------|
 
-| ![Dodging monsters in a tricky descent.](./images/2014-03-16-monsters.png "Dodging monsters in a tricky descent.") |
+| ![Dodging monsters in a tricky descent.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2014-03-16-monsters.png "Dodging monsters in a tricky descent.") |
 
 | **Dodging monsters in a tricky descent. I'm fairly happy with the levels, but some further improvements will doubtless occur.** |
 
@@ -68,7 +68,7 @@ Although we are already keeping track of the number of lives the character has l
 
 |------------------------------------------------------------------------------------------------------------------------|
 
-| ![The panel now shows the number of lives left.](./images/2014-03-18-lives.png "The panel now shows the number of lives left.") |
+| ![The panel now shows the number of lives left.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2014-03-18-lives.png "The panel now shows the number of lives left.") |
 
 | **The panel now shows the number of lives left.** |
 
@@ -104,7 +104,7 @@ On reading the Electron Advanced User Guide (version 2), I discovered that vario
 
 |--------------------------------------------------------------------------------|
 
-| ![The in-game title screen.](./images/2014-04-05-title.png "The in-game title screen.") |
+| ![The in-game title screen.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2014-04-05-title.png "The in-game title screen.") |
 
 | **The in-game title screen.** |
 
@@ -114,7 +114,7 @@ I initially wanted to create a title screen that used normal level data so that 
 
 Before the Easter break, I started to focus on getting a demo together for the Wakefield show. Ideally, if someone wants to load up a demo on a real machine, they'll need something other than a UEF file, so I started looking at disk images again. Previously, when I created disk images for Jungle Journey, I created them by hand, loading files from UEF files in an emulator and saving them to pre-existing disk images. Since I don't want to do this for Castle Raider, I wanted a way to automate this process. As a result, I took some code from my ADFSlib Python module and started to create a single-purpose solution for creating images. However, after managing to create an ADFS image, I realised that the game won't run from a regular ADFS file system because PAGE is too high. A temporary solution is to create a DFS image that runs under from a PAGE E00 DFS file system and make people use DFS instead!
 
-The disk image [is available here](./images/CastleRaider-demo-Wakefield-2014.ssd.zip "wikilink"). If anyone wants to try it out on a real or emulated Electron then please feel free to do so. It won't work on a BBC Micro because the bank switching code is machine specific. When I get closer to finishing the game, I'll create versions for the BBC and Electron for people to try.
+The disk image [is available here](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-demo-Wakefield-2014.ssd.zip "wikilink"). If anyone wants to try it out on a real or emulated Electron then please feel free to do so. It won't work on a BBC Micro because the bank switching code is machine specific. When I get closer to finishing the game, I'll create versions for the BBC and Electron for people to try.
 
 #### Feedback (2014-05-11)
 
@@ -148,7 +148,7 @@ The map drawing utility has been unusable for quite a while, so I decided to tak
 
 |------------------------------------------------------------------------------------------------|
 
-| ![A generated piece of the game map.](./images/map-2014-10-02.png "A generated piece of the game map.") |
+| ![A generated piece of the game map.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/map-2014-10-02.png "A generated piece of the game map.") |
 
 | **A generated piece of the game map.** |
 
@@ -190,7 +190,7 @@ Another issue that might also be worth looking at soon is the memory usage on th
 
 #### Platform Parity (2014-10-27)
 
-Rewriting the code to handle the Beeb's palette and screen banks, plus some general refactoring, reduced the code size enough to allow the Beeb version of the game to squeeze into the available memory. As a result, here's a pre-release version of the game for both platforms: [CastleRaider-prerelease1.zip](./images/CastleRaider-prerelease1.zip "wikilink"). Note that it plays too quickly on the Beeb, so something will have to be done about that.
+Rewriting the code to handle the Beeb's palette and screen banks, plus some general refactoring, reduced the code size enough to allow the Beeb version of the game to squeeze into the available memory. As a result, here's a pre-release version of the game for both platforms: [CastleRaider-prerelease1.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-prerelease1.zip "wikilink"). Note that it plays too quickly on the Beeb, so something will have to be done about that.
 
 #### Up and Down Again (2014-10-28)
 
@@ -202,7 +202,7 @@ I also recovered a few bytes by simplifying some cosmetic details in the caverns
 
 #### Finishing Touches (2014-11-09)
 
-Despite being off work for some days this week, and working from home on others, I didn't really get a chance to fix the remaining problems with music playback that I had found during tests of the disk-based versions of the game. During an unfocused evening at home, I tried to get stuck into development again and fixed a few annoying bugs, but didn't manage to maintain the momentum over the next few days. Today, however, I thought I'd at least try to sort out the music playback and managed to reduce the palette handling code on the Beeb to something sensible. It's now possible to create cassette and disk images for both the Beeb and Electron, so that means it's time to put out another release for play testing: [CastleRaider-prerelease2.zip](./images/CastleRaider-prerelease2.zip "wikilink") - have fun!
+Despite being off work for some days this week, and working from home on others, I didn't really get a chance to fix the remaining problems with music playback that I had found during tests of the disk-based versions of the game. During an unfocused evening at home, I tried to get stuck into development again and fixed a few annoying bugs, but didn't manage to maintain the momentum over the next few days. Today, however, I thought I'd at least try to sort out the music playback and managed to reduce the palette handling code on the Beeb to something sensible. It's now possible to create cassette and disk images for both the Beeb and Electron, so that means it's time to put out another release for play testing: [CastleRaider-prerelease2.zip](../../retrosoftwarecouk_wiki-20160918-wikidump/images/CastleRaider-prerelease2.zip "wikilink") - have fun!
 
 #### Materialism (2014-11-30)
 
@@ -218,7 +218,7 @@ I've been focusing on writing basic instructions and doing work on the cassette 
 
 |--------------------------------------------------------------------------------------------------------------------------------|
 
-| ![Work in progress cassette box cover for the game.](./images/2014-12-06-cover.png "Work in progress cassette box cover for the game.") |
+| ![Work in progress cassette box cover for the game.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/2014-12-06-cover.png "Work in progress cassette box cover for the game.") |
 
 | **Work in progress cassette box cover for the game.** |
 

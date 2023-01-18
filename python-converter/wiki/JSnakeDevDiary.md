@@ -4,7 +4,7 @@
 
 Click [here](JSnake "wikilink") to go back to the JSnake main page, where you can download the game and source code.
 
-![](./images/Jsnake lsfinal.png)
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jsnake lsfinal.png)
 
 Discuss in the related forum thread [here](http://www.retrosoftware.co.uk/forum/viewtopic.php?f=19&t=745)
 

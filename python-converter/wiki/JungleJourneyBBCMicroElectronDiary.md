@@ -52,7 +52,7 @@ The jungle is full of collectable objects left behind by previous travellers, or
 
 The player starts off with a weapon that moves until it encounters scenery, the edge of the screen, or an enemy. For simplicity, there is only one weapon on screen at a time. To make things more interesting, the player encounters other weapons that do slightly different things. Without spoiling any surprises, there are four of them, and this number dictates the number of levels that the player must visit to win the game.
 
-![Jungle Journey: using the boomerang round a corner, Posted: 21:30 Sept 1, 2011](./images/Boomerang.png "fig:Jungle Journey: using the boomerang round a corner, Posted: 21:30 Sept 1, 2011")
+![Jungle Journey: using the boomerang round a corner, Posted: 21:30 Sept 1, 2011](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Boomerang.png "fig:Jungle Journey: using the boomerang round a corner, Posted: 21:30 Sept 1, 2011")
 
 **_Jungle Journey_: using the boomerang round a corner**
 
@@ -62,7 +62,7 @@ _Posted: 21:30, 1 Sept 2011_
 
 Tried to get lots of different things done today: inter-level screens, sounds, titles and high scores. Finally, I play tested the game from start to finish and discovered something strange with the object generation on the final level. Memory is also getting tight now, with not a lot of room left for code if I want the game to run from disk on systems with PAGE at &1F00, like it appears to be in BeebEm.
 
-![The title screen for Jungle Journey as it currently stands.](./images/Title.png "fig:The title screen for Jungle Journey as it currently stands.")
+![The title screen for Jungle Journey as it currently stands.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Title.png "fig:The title screen for Jungle Journey as it currently stands.")
 
 **The title screen for Jungle Journey as it currently stands.**
 
@@ -78,7 +78,7 @@ The high score input routine I started to write filled up the remaining memory p
 
 Spent a whole evening trying to squeeze the high score entry routine into the remaining space, and doing lots of consolidation to make enough space for it all. Ultimately, despite some clever tricks to determine where the player is relative to some letters on the screen, it all needed simplifying a bit. Fortunately, this saves even more space, so hopefully there will be enough space left to make it work.
 
-![Enter your name, then leave.](./images/High.png "fig:Enter your name, then leave.")
+![Enter your name, then leave.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/High.png "fig:Enter your name, then leave.")
 
 **Enter your name, then leave.**
 
@@ -98,7 +98,7 @@ It occurred to me after finishing last night that I should try to spread the loa
 
 After doing that, and while putting off some of the more creative but laborious tasks, I decided to add a Retro Software logo to the loading screen. I thought about using the standard Micro Power-style loader, but decided to try something new. I hope people like it! I'll probably go back and change it a bit to resemble the Ultimate Play The Game logo a bit more.
 
-![Loading screen with "Ultimate" Retro Software logo.](./images/Title-loading.png "fig:Loading screen with "Ultimate" Retro Software logo.")
+![Loading screen with "Ultimate" Retro Software logo.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Title-loading.png "fig:Loading screen with "Ultimate" Retro Software logo.")
 
 **Loading screen with "Ultimate" Retro Software logo.**
 
@@ -118,7 +118,7 @@ I spent an evening looking into the changes required to implement this improveme
 
 Once the collision detection had been figure out, the plotting routines needed to be changed. Before, each type of sprite had two plotting routines: one for positions where the sprite is aligned to a character row on the screen, and another for half row displacements. Now the sprites need to be plotted either aligned with a row or in one of three inter-row positions. Some modifications to existing routines and a bit of simplification later, it was time to try out the changes. Surprisingly, everything more or less worked as expected, though a few more flag clearing instructions were required to clean up the corruption you can see in the screenshot.
 
-![New sprite plotting routines in action.](./images/New-routines.png "fig:New sprite plotting routines in action.")
+![New sprite plotting routines in action.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/New-routines.png "fig:New sprite plotting routines in action.")
 
 **New routines for plotting sprites didn't quite work first time, but not bad for a first attempt.**
 
@@ -126,7 +126,7 @@ I've been pretty lax at planning usage of zero page addresses in this game, espe
 
 Another unexpected issue that came up with the change to the step size was related to the way that projectiles are handled. Before, each projectile was created half way down the player's sprite and this was always lined up with a character row on screen. Since there were six vertical steps per tile, the player could position themself next to a tile and shoot either above or below it in the same way. With the new step size, there isn't a way to have the projectile appear half way down the player, so we need to choose whether the projectile appears nearer the top of the player sprite or nearer the bottom. If we choose the top, it's easier to shoot over the top of scenery but difficult to shoot underneath it, and vice versa for a projectile near the bottom of the player's sprite. To get around this, the projectile is now fired from alternating places.
 
-![Old and new style projectile handling.](./images/Projectiles.png "fig:Old and new style projectile handling.")
+![Old and new style projectile handling.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Projectiles.png "fig:Old and new style projectile handling.")
 
 **Old and new style projectile handling.**
 
@@ -154,7 +154,7 @@ Although I want to write a game that can be finished by most players, some of th
 
 I've been working on the accompanying materials again, so I've resized and moved the images that belonged to the above section down here. I've deviated from the classic Micro Power theme that most Retro Software releases use, going for an Ultimate look for this as well, though the instructions and back cover of the cassette inlay aren't really Ultimate-like at all. It's a bit more like a budget re-release of an Ultimate game.
 
-![](./images/Cover.png "fig:Cover.png") ![](Page-0.png "fig:Page-0.png") ![](Page-1.png "fig:Page-1.png") ![](Page-2.png "fig:Page-2.png") ![](Page-3.png "fig:Page-3.png")
+![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Cover.png "fig:Cover.png") ![](Page-0.png "fig:Page-0.png") ![](Page-1.png "fig:Page-1.png") ![](Page-2.png "fig:Page-2.png") ![](Page-3.png "fig:Page-3.png")
 
 **The front cover, inside pages and back cover of the cassette inlay.**
 
@@ -210,9 +210,9 @@ The end result is a new release (1.1) of both the tape/disk and ROM cartridge ve
 
 As mentioned at the start of this diary, I experimented with a few map generation algorithms before finding one I liked. These were developed as programs written in the Python language that generate images of maps. As the game developed, I tried to update the program that generates the Jungle Journey maps in sync with the 6502 code, and I made it use the same sprites as the game itself. This means that it is possible to generate screenshot-style maps for all the levels without having to take screenshots in an emulator.
 
-![Jungle Journey level 1](./images/Jungle-Journey-Level-1-small.png "fig:Jungle Journey level 1")
+![Jungle Journey level 1](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jungle-Journey-Level-1-small.png "fig:Jungle Journey level 1")
 
-**Map of level 1. A [larger version](./images/Jungle-Journey-Level-1.png "wikilink") is available.**
+**Map of level 1. A [larger version](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Jungle-Journey-Level-1.png "wikilink") is available.**
 
 The program to generate maps can be found inside the _tools/maps_ directory, and must be run from that directory. It's slow because it does unnecessary things with images and palettes. If you examine the _make_maps.py_ program, you'll find that most of the constants that describe the levels are defined at the start of the file. If you've looked at the game code, you'll recognise some of these values; you can also see some of the other values I tried when searching for interesting maps to use.
 
@@ -232,7 +232,7 @@ One way to do this would be to create an array containing a bitmap for each pair
 
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| ![How the player collides with a monster when using pixel-perfect collision detection.](./images/Pixel-perfect-collision.png "How the player collides with a monster when using pixel-perfect collision detection.") | ![Illustration of how the collision bitmap works.](Collision-bitmap-1-1.png "Illustration of how the collision bitmap works.") |
+| ![How the player collides with a monster when using pixel-perfect collision detection.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Pixel-perfect-collision.png "How the player collides with a monster when using pixel-perfect collision detection.") | ![Illustration of how the collision bitmap works.](Collision-bitmap-1-1.png "Illustration of how the collision bitmap works.") |
 
 | **Pixel-perfect collision detection:** In the bitmap, values are recorded for relative positions that result in collisions (true) or misses (false). In the first two images, the player misses the monster, the third image shows the player adjacent to the monster (miss), and the fourth image shows a collision (true). The values stored in the array for this row would include the sequence 0,0,0,1 preceded by 0 values and followed for the next 10 or so bits by 1 values. | **Collision bitmap:** Moving a player sprite relative to a monster sprite, we plot black pixels at the top-left of the sprite where the player does not overlap the monster and grey pixels where it does. Red crosses mark the top-left of the two player sprites - those relative positions are misses, as denoted by the black backgrounds behind the crosses. We can inspect the sprites and see that they interlock but do not overlap. |
 
@@ -242,7 +242,7 @@ Since we are not moving sprites pixel-by-pixel, we can reduce the quantity of da
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| ![Player-monster collision with non-pixel steps and only bounding box checks.](./images/Player-collision.png "Player-monster collision with non-pixel steps and only bounding box checks.") | ![Illustration of a reduced accuracy collision detection bitmap.](Collision-bitmap-4-6.png "Illustration of a reduced accuracy collision detection bitmap.") |
+| ![Player-monster collision with non-pixel steps and only bounding box checks.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Player-collision.png "Player-monster collision with non-pixel steps and only bounding box checks.") | ![Illustration of a reduced accuracy collision detection bitmap.](Collision-bitmap-4-6.png "Illustration of a reduced accuracy collision detection bitmap.") |
 
 | **Reduced accuracy collision detection:** When the player approaches a monster from above, only one relative location is safe. | **Collision bitmap:** This time, the player sprite can only be in certain positions relative to the monster sprite. Part of the player sprite is faded to show that the bitmap has a lower resolution than before, with each value representing a larger part of the screen area. |
 
@@ -252,7 +252,7 @@ By taking the next logical step, if we only consider overlapping bounding boxes,
 
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| ![Collision bitmap for one pixel resolution bounding box collisions.](./images/Collision-bitmap-bbox-1-1.png "Collision bitmap for one pixel resolution bounding box collisions.") | ![Collision bitmap for reduced resolution bounding box collisions.](Collision-bitmap-bbox-4-6.png "Collision bitmap for reduced resolution bounding box collisions.") |
+| ![Collision bitmap for one pixel resolution bounding box collisions.](../../retrosoftwarecouk_wiki-20160918-wikidump/images/Collision-bitmap-bbox-1-1.png "Collision bitmap for one pixel resolution bounding box collisions.") | ![Collision bitmap for reduced resolution bounding box collisions.](Collision-bitmap-bbox-4-6.png "Collision bitmap for reduced resolution bounding box collisions.") |
 
 | **Collision bitmaps for bounding box collisions:** The per-pixel bitmap gives higher accuracy than the reduced resolution bitmap, but they are the same shape. |
 

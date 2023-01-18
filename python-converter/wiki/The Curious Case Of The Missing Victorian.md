@@ -20,15 +20,15 @@ Written using _[The Quill](wikipedia:The_Quill "wikilink")_ Adventure Writing Sy
 
 ##### Downloads
 
-[The Curious Case Of The Missing Victorian beta \#3 - .ssd Acorn DFS disc image](./images/TCCOTMV 150314.zip "wikilink") - 2014-03-15
+[The Curious Case Of The Missing Victorian beta \#3 - .ssd Acorn DFS disc image](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TCCOTMV 150314.zip "wikilink") - 2014-03-15
 
-[The Curious Case Of The Missing Victorian beta \#2.2 - .ssd Acorn DFS disc image](./images/TCCOTMV 040314.zip "wikilink") - 2014-03-04
+[The Curious Case Of The Missing Victorian beta \#2.2 - .ssd Acorn DFS disc image](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TCCOTMV 040314.zip "wikilink") - 2014-03-04
 
-[The Curious Case Of The Missing Victorian beta \#2.1 - .ssd Acorn DFS disc image](./images/TCCOTMV 020314.zip "wikilink") - 2014-03-02
+[The Curious Case Of The Missing Victorian beta \#2.1 - .ssd Acorn DFS disc image](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TCCOTMV 020314.zip "wikilink") - 2014-03-02
 
-[The Curious Case Of The Missing Victorian beta \#2 - .ssd Acorn DFS disc image](./images/TCCOTMV 221113.zip "wikilink") - 2013-11-22
+[The Curious Case Of The Missing Victorian beta \#2 - .ssd Acorn DFS disc image](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TCCOTMV 221113.zip "wikilink") - 2013-11-22
 
-[The Curious Case Of The Missing Victorian beta \#1 - .ssd Acorn DFS disc image](./images/TCCOTMV.zip "wikilink") - 2013-11-10
+[The Curious Case Of The Missing Victorian beta \#1 - .ssd Acorn DFS disc image](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TCCOTMV.zip "wikilink") - 2013-11-10
 
 ##### Screenshots
 
@@ -38,13 +38,13 @@ Written using _[The Quill](wikipedia:The_Quill "wikilink")_ Adventure Writing Sy
 
 <tr class="odd">
 
-<td><p>![](./images/TCCOTMVloadingscreen.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/TCCOTMVloadingscreen.png)
 
 <strong><em>The Curious Case Of The Missing Victorian</em> loading screen</strong><br />
 
 <em>Posted: 12:32, 22 Nov 2013</em></p></td>
 
-<td><p>![](./images/title TCCOTMV.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/title TCCOTMV.png)
 
 <strong><em>The Curious Case Of The Missing Victorian</em> title screen</strong><br />
 
@@ -54,13 +54,13 @@ Written using _[The Quill](wikipedia:The_Quill "wikilink")_ Adventure Writing Sy
 
 <tr class="even">
 
-<td><p>![](./images/inst1 tccotmv.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/inst1 tccotmv.png)
 
 <strong><em>The Curious Case Of The Missing Victorian</em> instructions #1</strong><br />
 
 <em>Posted: 15:42, 15 Mar 2014</em></p></td>
 
-<td><p>![](./images/inst2 tccotmv.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/inst2 tccotmv.png)
 
 <strong><em>The Curious Case Of The Missing Victorian</em> instructions #2</strong><br />
 
@@ -70,7 +70,7 @@ Written using _[The Quill](wikipedia:The_Quill "wikilink")_ Adventure Writing Sy
 
 <tr class="odd">
 
-<td><p>![](./images/loc1 tccotmv.png)
+<td><p>![](../../retrosoftwarecouk_wiki-20160918-wikidump/images/loc1 tccotmv.png)
 
 <strong><em>The Curious Case Of The Missing Victorian</em> first location</strong><br />
 
