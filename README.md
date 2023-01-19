@@ -22,4 +22,6 @@ The results are workable, but a lot of html/edge cases need weeding out - see th
 
 Supposing we just want to preserve the content, then maybe the best bet is to get a 'good enough' markdown conversion of each page from the original site before it went offline, and then we can hand tweak each file over time to make them render ok.
 
-Once that is done (or even while we do it), a simple Jekyll template in this repo would allow the site to be preserved and accessed as a website in its static 'archived' state.
+There's a demo of this now hosted at: https://stardot.github.io/retrosoftware.co.uk/
+
+This is using a basic `minima` default theme, possibly we should try a different Jekyll theme with a side bar navigation such as: https://github.com/poole/lanyon
